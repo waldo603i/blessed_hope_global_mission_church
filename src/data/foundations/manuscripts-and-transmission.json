@@ -1,0 +1,284 @@
+{
+  "chapter": {
+    "id": "manuscripts-and-transmission",
+    "slug": "manuscripts-and-transmission",
+    "order": 12,
+    "title": "Languages, Manuscripts & Transmission",
+    "doctrine": "Bibliology · Study guide",
+    "summary": "A manuscript is a handwritten witness to a text. A translation expresses a text in another language. A canon identifies a collection received as Scripture. These questions are related, but they are not interchangeable. Second Timothy 3:14–17 discusses Scripture’s role in learning and formation; it does not provide a complete manuscript history or a numbered canon list. Luke 1:1–4 gives a useful exercise in noticing an author’s stated sources, purpose, and audience. Read each introduction before importing a modern question into it.",
+    "question": "What kind of evidence is a manuscript, and what can it tell us?",
+    "scriptureReferences": [
+      {
+        "reference": "2 Timothy 3:14–17",
+        "url": "https://ebible.org/engwebp/2TI03.htm#V14",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Luke 1:1–4",
+        "url": "https://ebible.org/engwebp/LUK01.htm#V1",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Daniel 2:4",
+        "url": "https://ebible.org/engwebp/DAN02.htm#V4",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      }
+    ],
+    "learningObjectives": [
+      "Identify the explicit textual evidence in 2 Timothy 3:14–17.",
+      "Distinguish source statements from the interpretation explored in Languages, Manuscripts & Transmission.",
+      "Explain one limit or unresolved question and one responsible application."
+    ],
+    "sections": [
+      {
+        "id": "different-questions",
+        "title": "Three questions, three kinds of evidence",
+        "paragraphs": [
+          "A manuscript is a handwritten witness to a text. A translation expresses a text in another language. A canon identifies a collection received as Scripture. These questions are related, but they are not interchangeable. Second Timothy 3:14–17 discusses Scripture’s role in learning and formation; it does not provide a complete manuscript history or a numbered canon list. Luke 1:1–4 gives a useful exercise in noticing an author’s stated sources, purpose, and audience. Read each introduction before importing a modern question into it."
+        ],
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "p0",
+          "p1"
+        ]
+      },
+      {
+        "id": "transmission",
+        "title": "What the reference infographic needs corrected",
+        "paragraphs": [
+          "The heading Pentateuch means the five-book Torah collection; it is not by itself the name of the Samaritan textual tradition. Say Samaritan Pentateuch when that tradition is intended. The John Rylands Library’s collection includes Samaritan Pentateuch manuscripts and other writings. The Israel Antiquities Authority describes Dead Sea Scrolls in Hebrew, Aramaic, and Greek, including biblical and other religious works. Their similarities and differences are evidence to study, not a blanket promise that every copied letter is identical. Distinguish an artifact, a language, and a later edition."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "p2",
+          "iaa",
+          "rylands"
+        ]
+      },
+      {
+        "id": "comparison",
+        "title": "Compare without pretending certainty",
+        "paragraphs": [
+          "Choose a short passage in two identified editions. Record the edition names and the exact point of difference. Ask whether the difference concerns translation, spelling, a footnoted textual variant, or interpretation. Do not claim knowledge of Hebrew or Greek from a decorative word in an image. Septuagint, Targum, and Vulgate are distinct historical translation traditions; detailed dates and their component histories remain a specialist research task here. Bible statistics likewise require an identified edition and a stated counting method. This exercise models accountable inquiry rather than promising that all textual questions have already been settled.",
+          "For your study record, write three separate questions: Which collection of books is this edition using? Which language is the text in? Which textual witnesses does the editor discuss? A confident answer to one question does not answer the others. When a source is unavailable, record that limit rather than supplying a remembered date as if it had been verified."
+        ],
+        "depth": "advanced",
+        "category": "D",
+        "sourceIds": [
+          "p1"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Manuscript",
+        "fil": "Manuskrito",
+        "ilo": "Manuskrito",
+        "definition": "A handwritten textual witness. A manuscript, a translation, and a canon list answer different questions.",
+        "reference": "2 Timothy 3:14–17",
+        "note": "Original explanatory definition. Filipino and Ilokano terminology needs qualified review."
+      }
+    ],
+    "misunderstandings": [
+      "An attractive chart is not independent evidence for every detail.",
+      "A local study draft has not received theological or language approval."
+    ],
+    "differences": "This guide identifies the limits of its source comparison. It does not claim to speak for every Christian community. Detailed tradition-specific claims need independent review.",
+    "application": [
+      "Read both the linked source and its surrounding context.",
+      "Record the difference between an explicit statement and your interpretation.",
+      "Discuss one question honestly without filling the gap with speculation."
+    ],
+    "reflection": [
+      "What kind of evidence is a manuscript, and what can it tell us?",
+      "Which claim in the reference image goes beyond the selected passage?",
+      "What would a knowledgeable reviewer need to inspect?"
+    ],
+    "quiz": [
+      {
+        "question": "What is a manuscript?",
+        "options": [
+          "A handwritten textual witness",
+          "A list of canonical books",
+          "A modern sermon"
+        ],
+        "answer": 0,
+        "explanation": "Manuscripts, canon lists, and interpretations are distinct kinds of evidence."
+      },
+      {
+        "question": "Which label identifies the Samaritan tradition?",
+        "options": [
+          "All Pentateuchs are Samaritan",
+          "Samaritan Pentateuch",
+          "Greek Koine"
+        ],
+        "answer": 1,
+        "explanation": "Pentateuch alone names the five-book collection; the qualifying name identifies this tradition."
+      },
+      {
+        "question": "What does the IAA archive contain?",
+        "options": [
+          "Only identical copies",
+          "Only New Testament writings",
+          "Biblical and other ancient religious texts"
+        ],
+        "answer": 2,
+        "explanation": "The IAA distinguishes biblical and other Second Temple writings."
+      },
+      {
+        "question": "What should a statistical count identify?",
+        "options": [
+          "Edition and counting method",
+          "Only an impressive total",
+          "An anonymous image"
+        ],
+        "answer": 0,
+        "explanation": "Counts vary with corpus, translation, and method."
+      },
+      {
+        "question": "What should a learner record when comparing editions?",
+        "options": [
+          "A guessed original word",
+          "The exact difference and edition names",
+          "That every difference proves fraud"
+        ],
+        "answer": 1,
+        "explanation": "A checkable comparison begins with identified evidence."
+      }
+    ],
+    "diagram": {
+      "title": "Manuscript: examine the evidence",
+      "steps": [
+        "Three questions, three kinds of evidence",
+        "What the reference infographic needs corrected",
+        "Compare without pretending certainty"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/manuscripts-and-transmission.webp",
+      "thumbnail": "/illustrations/manuscripts-and-transmission.webp",
+      "alt": "Imaginative cinematic still life for Languages, Manuscripts & Transmission; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "p0",
+        "title": "World English Bible: 2 Timothy 3:14–17",
+        "institution": "eBible / World English Bible",
+        "section": "2 Timothy 3:14–17",
+        "url": "https://ebible.org/engwebp/2TI03.htm#V14",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p1",
+        "title": "World English Bible: Luke 1:1–4",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 1:1–4",
+        "url": "https://ebible.org/engwebp/LUK01.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p2",
+        "title": "World English Bible: Daniel 2:4",
+        "institution": "eBible / World English Bible",
+        "section": "Daniel 2:4",
+        "url": "https://ebible.org/engwebp/DAN02.htm#V4",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "iaa",
+        "title": "The Dead Sea Scrolls: Introduction",
+        "institution": "Israel Antiquities Authority",
+        "section": "Qumran Caves Scrolls; Biblical Manuscripts",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
+        "accessed": "2026-10-31",
+        "notes": "Institutional archive explanation; original summary, no images copied."
+      },
+      {
+        "id": "rylands",
+        "title": "Samaritan Manuscripts",
+        "institution": "University of Manchester, John Rylands Library",
+        "section": "Collection description",
+        "url": "https://www.library.manchester.ac.uk/rylands/special-collections/a-to-z/detail/?keyword=samaritan+manuscripts",
+        "accessed": "2026-10-31",
+        "notes": "Collection evidence; no claim to have physically inspected manuscripts."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Original three-layer study guide with independent Filipino and Ilokano section drafts; research and human review pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "manuscripts-and-transmission",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Mga Wika, Manuskrito, at Pagpapasa ng Teksto",
+      "summary": "Ang manuskrito ay sulat-kamay na saksi sa isang teksto. Inilalahad ng salin ang teksto sa ibang wika. Tinutukoy ng kanon ang kalipunang tinatanggap bilang Kasulatan. Magkaugnay ang mga tanong na ito ngunit hindi magkapareho. Tinatalakay ng 2 Timoteo 3:14–17 ang papel ng Kasulatan sa pagkatuto at paghubog; hindi nito ibinibigay ang buong kasaysayan ng mga manuskrito o bilang ng mga aklat. Sa Lucas 1:1–4, pansinin ang sinabi ng may-akda tungkol sa mga sanggunian, layunin, at mambabasa. Basahin muna ang pambungad bago ilapat dito ang makabagong tanong.",
+      "question": "Ano ang malinaw sa talata, at alin ang kailangan pang suriin?",
+      "sections": {
+        "different-questions": {
+          "title": "Tatlong tanong at tatlong uri ng ebidensiya",
+          "paragraphs": [
+            "Ang manuskrito ay sulat-kamay na saksi sa isang teksto. Inilalahad ng salin ang teksto sa ibang wika. Tinutukoy ng kanon ang kalipunang tinatanggap bilang Kasulatan. Magkaugnay ang mga tanong na ito ngunit hindi magkapareho. Tinatalakay ng 2 Timoteo 3:14–17 ang papel ng Kasulatan sa pagkatuto at paghubog; hindi nito ibinibigay ang buong kasaysayan ng mga manuskrito o bilang ng mga aklat. Sa Lucas 1:1–4, pansinin ang sinabi ng may-akda tungkol sa mga sanggunian, layunin, at mambabasa. Basahin muna ang pambungad bago ilapat dito ang makabagong tanong."
+          ]
+        },
+        "transmission": {
+          "title": "Mga kailangang itama sa infographic",
+          "paragraphs": [
+            "Ang Pentateuch ay tawag sa limang aklat ng Torah; hindi ito sa sarili lamang ang pangalan ng tradisyong tekstuwal ng mga Samaritano. Gamitin ang Samaritan Pentateuch kung iyon ang tinutukoy. Kabilang sa koleksiyon ng John Rylands Library ang mga manuskrito ng Samaritan Pentateuch at iba pang sulatin. Inilalarawan ng Israel Antiquities Authority ang Dead Sea Scrolls sa Hebreo, Aramaiko, at Griyego, na may mga aklat sa Biblia at iba pang akdang panrelihiyon. Ang pagkakatulad at pagkakaiba ay ebidensiyang dapat pag-aralan, hindi pangakong magkatulad ang bawat nakopyang titik. Ihiwalay ang bagay na nahukay, wika, at mas bagong edisyon."
+          ]
+        },
+        "comparison": {
+          "title": "Maghambing nang hindi nagkukunwaring tiyak",
+          "paragraphs": [
+            "Pumili ng maikling talata sa dalawang pinangalanang edisyon. Itala ang mga pangalan ng edisyon at ang mismong pagkakaiba. Itanong kung ito ay tungkol sa pagsasalin, baybay, baryanteng teksto sa talababa, o pagpapakahulugan. Huwag mag-angking marunong ng Hebreo o Griyego dahil lamang sa salitang pandekorasyon sa larawan. Magkakaibang makasaysayang tradisyon ng salin ang Septuagint, Targum, at Vulgate; kailangan pa rito ng espesyalistang pananaliksik sa mga petsa at kasaysayan ng mga bahagi. Kailangan din ng pinangalanang edisyon at paraan ng pagbibilang ang estadistika ng Biblia. Itinuturo ng gawaing ito ang pag-aaral na may pananagutan, hindi ang pag-aakalang nalutas na ang lahat ng tanong sa teksto.",
+            "Sa tala ng pag-aaral, isulat nang hiwalay: Aling kalipunan ng mga aklat ang ginagamit ng edisyon? Sa anong wika ang teksto? Aling tekstuwal na saksi ang tinatalakay ng editor? Hindi nasasagot ng tiyak na sagot sa isang tanong ang iba. Kung hindi mabuksan ang sanggunian, itala ang limitasyon sa halip na magbigay ng naaalalang petsa na parang napatunayan na."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "manuscripts-and-transmission",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Dagiti Pagsasao, Manuskrito, ken Pannakaiyallatiw ti Teksto",
+      "summary": "Ti manuskrito ket naisurat iti ima a pammaneknek ti maysa a teksto. Ti patarus ipakitana ti teksto iti sabali a pagsasao. Ti kanon ket kalipunan dagiti surat nga awaten kas Nasantoan a Surat. Agkakainaig dagitoy a saludsod ngem saan nga agpapada. Ti 2 Timoteo 3:14–17 saritaenna ti akem ti Surat iti panagadal ken pannakahubog; saan nga itedna ti sibubukel a pakasaritaan dagiti manuskrito wenno bilang dagiti libro. Iti Lucas 1:1–4, paliiwen ti ibaga ti nagsurat maipapan iti pagtaudan, panggep, ken agbasbasa. Basaen nga umuna ti pangrugian sakbay nga ikabil ditoy ti moderno a saludsod.",
+      "question": "Ania ti nalawag iti paset, ken ania ti masapul pay a sukisoken?",
+      "sections": {
+        "different-questions": {
+          "title": "Tallo a saludsod ken tallo a kita ti pammaneknek",
+          "paragraphs": [
+            "Ti manuskrito ket naisurat iti ima a pammaneknek ti maysa a teksto. Ti patarus ipakitana ti teksto iti sabali a pagsasao. Ti kanon ket kalipunan dagiti surat nga awaten kas Nasantoan a Surat. Agkakainaig dagitoy a saludsod ngem saan nga agpapada. Ti 2 Timoteo 3:14–17 saritaenna ti akem ti Surat iti panagadal ken pannakahubog; saan nga itedna ti sibubukel a pakasaritaan dagiti manuskrito wenno bilang dagiti libro. Iti Lucas 1:1–4, paliiwen ti ibaga ti nagsurat maipapan iti pagtaudan, panggep, ken agbasbasa. Basaen nga umuna ti pangrugian sakbay nga ikabil ditoy ti moderno a saludsod."
+          ]
+        },
+        "transmission": {
+          "title": "Dagiti masapul a mailinteg iti infographic",
+          "paragraphs": [
+            "Ti Pentateuch ket nagan ti lima a libro ti Torah; saan a dayta laeng ti nagan ti tradision ti teksto dagiti Samaritano. Usaren ti Samaritan Pentateuch no dayta ti kayat a sawen. Adda dagiti manuskrito ti Samaritan Pentateuch ken dadduma a surat iti koleksion ti John Rylands Library. Iladawan ti Israel Antiquities Authority dagiti Dead Sea Scrolls iti Hebreo, Aramaiko, ken Griego, agraman dagiti libro iti Biblia ken dadduma a relihioso a surat. Ti panagpapada ken panagduduma ket pammaneknek a masapul nga adalen, saan a kari nga agpapada ti tunggal letra a nakopia. Ilasin ti naduktalan a banag, pagsasao, ken napudno a kasasaad ti edision."
+          ]
+        },
+        "comparison": {
+          "title": "Pagdiligen nga awan ti panaginkukuna a sigurado",
+          "paragraphs": [
+            "Pilien ti ababa a paset iti dua a nainaganan nga edision. Isurat ti nagan dagiti edision ken ti mismo a pagdumaanda. Saludsoden no ti pagdudumaan ket maipapan iti patarus, panagbaybay, sabali a basa iti talababa, wenno panangipatarus iti kaipapanan. Saan nga aginkukuna nga ammom ti Hebreo wenno Griego gapu laeng iti dekorasion a sao iti ladawan. Agduduma a naistorian a tradision ti patarus ti Septuagint, Targum, ken Vulgate; ti eksakto a petsa ken pakasaritaan dagiti pasetna ket agkasapulan pay iti espesialista a panagsukisok ditoy. Masapul met ti nainaganan nga edision ken wagas ti panagbilang para iti estadistika ti Biblia. Daytoy nga aramid mangisuro iti panagadal nga addaan panagsungbat, saan a panangipagarup a nasungbatanen amin a saludsod.",
+            "Iti tala ti panagadal, isurat a naisina: Ania a kalipunan dagiti libro ti usaren ti edision? Ania ti pagsasao ti teksto? Ania dagiti tekstuwal a saksi a saritaen ti editor? Ti sigurado a sungbat iti maysa a saludsod ket saan a sungbat iti amin. No saan a mabuksan ti pagtaudan, isurat dayta a limitasion imbes nga ited ti malagip a petsa a kasla napaneknekanen."
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "chapter": {
+    "id": "introduction",
+    "slug": "introduction",
+    "order": 0,
+    "title": "What Is Christian Theology?",
+    "doctrine": "Introduction",
+    "summary": "A practical introduction to theology that reads passages in their literary setting, distinguishes observation from inference, and brings questions to a learning community.",
+    "question": "What does the passage actually say?",
+    "scriptureReferences": [
+      {
+        "reference": "Luke 24:27",
+        "url": "https://ebible.org/engwebp/LUK24.htm#V27",
+        "context": "Read Luke 24:13–35. Two disappointed disciples walk toward Emmaus after Jesus’ death. The risen Jesus interprets Scripture before they recognize him in the breaking of bread."
+      },
+      {
+        "reference": "2 Timothy 3:14–17",
+        "url": "https://ebible.org/engwebp/2TI03.htm#V14",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Distinguish a biblical quotation from an interpretation.",
+      "Identify genre, speaker, audience, and immediate context.",
+      "Explain why a Christian reading considers both the passage and the wider biblical story."
+    ],
+    "sections": [
+      {
+        "id": "interpreting-scripture-section-1",
+        "title": "Theology begins with attentive listening",
+        "paragraphs": [
+          "Theology is disciplined reflection on God and the life of faith. In Luke’s Emmaus narrative, explanation, hospitality, recognition, and witness belong together. The disciples possess reports about Jesus but struggle to understand their meaning. The story invites a patient reading in which the biblical narrative corrects an incomplete expectation. It does not authorize a teacher to find any desired meaning behind every word.",
+          "Begin with observation. Name the speaker and audience; notice repeated phrases, contrasts, questions, and actions. Then ask what kind of writing you are reading. A lament, a parable, a letter, and a narrative do different kinds of work. Write down what can be pointed to in the passage before offering an explanation. This practice gives other readers something they can inspect rather than asking them to trust your confidence."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "luke",
+          "luke"
+        ]
+      },
+      {
+        "id": "interpreting-scripture-section-2",
+        "title": "Read paragraphs before collecting verses",
+        "paragraphs": [
+          "A verse belongs to a paragraph and a book before it becomes an item in a topical collection. The Emmaus travelers interpret the crucifixion through their disappointed hope for Israel’s redemption. Jesus answers within the story of Moses and the prophets. A Christian interpretation therefore asks how a passage relates to the whole biblical witness, while still respecting its original setting.",
+          "Move through four questions: what is present, how it functions, what conclusion the evidence supports, and what faithful response might follow. A contemporary application is a further step, not a replacement for interpretation. For example, the travelers’ hospitality can prompt reflection on welcoming strangers without becoming a promise that every guest is an unrecognized divine messenger."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "luke",
+          "luke"
+        ]
+      },
+      {
+        "id": "interpreting-scripture-section-3",
+        "title": "Read with the church and with honest limits",
+        "paragraphs": [
+          "This textbook identifies the World English Bible when it quotes Scripture. The lesson author’s explanation remains interpretation. Historical creeds and denominational statements help readers see how communities have understood the text; they must be identified as such. The Catholic Catechism describes creeds as summaries of Christian faith associated with baptism. That is evidence about a tradition’s self-understanding, not permission to label every later opinion universal.",
+          "When evidence is incomplete, state the question. A useful group response is, “The passage says this; our explanation is this; another tradition understands it differently.” Keep notes about sources and uncertainty. End study with a response proportionate to what has been established: prayer, repentance, gratitude, further investigation, or a concrete act of love. An unresolved question can be an honest result of careful reading."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "luke",
+          "ccc-creeds",
+          "luke",
+          "ccc-creeds"
+        ]
+      },
+      {
+        "id": "interpreting-scripture-section-4",
+        "title": "An exercise in accountable reading",
+        "paragraphs": [
+          "Try the method with the travelers’ conversation. First record their stated hope and their account of the reports they heard. Next record Jesus’ response and the story’s movement toward recognition. Only then propose what the episode teaches about disappointment and understanding. This order lets another reader inspect the reasoning. If a proposed conclusion depends on something the narrative never says, identify that missing step.",
+          "A group can also compare the questions its members bring to the passage. One reader may notice sadness, another hospitality, another the role of Scripture. These observations can enrich one another without making every interpretation equally supported. Ask each reader to point to the language that prompted the observation. A leader can summarize the evidence, name a genuine disagreement, and choose a question for further study. The aim is shared attention and an honest response, not a contest to produce the most surprising meaning. Revisit the passage after discussion and ask whether the initial observation has changed. Record the reason for any change so another reader can follow the evidence."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "luke",
+          "luke"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Introduction",
+        "fil": "Ano ang Teolohiyang Kristiyano?",
+        "ilo": "Ania ti Kristiano a Teolohia?",
+        "definition": "The field of study introduced in What Is Christian Theology?.",
+        "reference": "Luke 24:27",
+        "note": "Editorial study term; equivalents require qualified language review."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "The authority of church tradition and interpretive offices differs among Catholic, Orthodox, and Protestant communities. This lesson supplies a method, not a ruling on those differences.",
+    "application": [
+      "Read a whole paragraph aloud twice before discussing a single verse.",
+      "Keep separate columns for observation, explanation, and application."
+    ],
+    "reflection": [
+      "Which expectation might I be bringing to the text?",
+      "Can I identify a conclusion that needs stronger evidence?",
+      "Compare two applications of Luke 24. Which step of reasoning connects each to the text?",
+      "How can leaders make space for an honest “I do not know”?"
+    ],
+    "quiz": [
+      {
+        "question": "Which should come first in careful interpretation?",
+        "options": [
+          "A favorite modern application",
+          "Observation of the passage and its setting",
+          "A claim about a word’s hidden meaning"
+        ],
+        "answer": 1,
+        "explanation": "Observation and context provide evidence for interpretation; application follows that work."
+      },
+      {
+        "question": "What is a creed in this lesson?",
+        "options": [
+          "A substitute translation of the Bible",
+          "An identified historical summary of Christian faith",
+          "An undisputed explanation of every verse"
+        ],
+        "answer": 1,
+        "explanation": "Creeds summarize a community’s confession and must be distinguished from the biblical text."
+      },
+      {
+        "question": "Study check 3: which action best supports the objective “Explain why a Christian reading considers both the passage and the wider biblical story.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Luke 24:27, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Distinguish a biblical quotation from an interpretation.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Luke 24:27, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Identify genre, speaker, audience, and immediate context.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Luke 24:27, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "A repeatable reading practice",
+      "steps": [
+        "Observe the passage",
+        "Read its context",
+        "Explain with evidence",
+        "Respond faithfully"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/book-cover.webp",
+      "thumbnail": "/illustrations/book-cover.webp",
+      "alt": "Imaginative cinematic illustration for What Is Christian Theology?; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "luke",
+        "title": "World English Bible (Updated): Luke 24:13–35",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 24:13–35",
+        "url": "https://ebible.org/engwebp/LUK24.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "ccc-creeds",
+        "title": "Catechism of the Catholic Church: The Creeds",
+        "institution": "www.vatican.va",
+        "section": "185–196",
+        "url": "https://www.vatican.va/archive/ENG0015/__P14.HTM",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Structured study draft adapted from an existing lesson; broader topic expansion remains under review."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "introduction",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ano ang Teolohiyang Kristiyano?",
+      "summary": "Ang teolohiya ay maingat na pag-aaral tungkol sa Diyos at sa pananampalatayang Kristiyano. Basahin ang Kasulatan sa konteksto, kilalanin ang kasaysayan ng pagpapakahulugan, at isabuhay ang natutuhan nang may pagpapakumbaba.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "interpreting-scripture-section-1": {
+          "title": "Ang teolohiya ay nagsisimula sa masusing pakikinig",
+          "paragraphs": [
+            "Ang teolohiya ay disiplinadong pagninilay sa Diyos at sa buhay ng pananampalataya. Sa salaysay ni Lucas tungkol sa Emaus, ang paliwanag, pagtanggap, pagkilala, at pagpapatotoo ay magkakasama. Ang mga disipulo ay may mga ulat tungkol kay Hesus ngunit nahihirapang maunawaan ang kanilang kahulugan. Ang kuwento ay nag-aanyaya sa isang matiyagang pagbabasa kung saan itinutuwid ng salaysay ng Bibliya ang isang hindi kumpletong inaasahan. Hindi nito pinahihintulutan ang isang guro na makahanap ng anumang ninanais na kahulugan sa likod ng bawat salita.",
+            "Magsimula sa obserbasyon. Pangalanan ang tagapagsalita at tagapakinig; pansinin ang paulit-ulit na mga parirala, mga kaibahan, mga tanong, at mga aksyon. Pagkatapos ay itanong kung anong uri ng sulatin ang iyong binabasa. Ang isang panaghoy, isang talinghaga, isang liham, at isang salaysay ay gumagawa ng iba't ibang uri ng trabaho. Isulat kung ano ang maaaring ituro sa sipi bago magbigay ng paliwanag. Ang kasanayang ito ay nagbibigay sa ibang mga mambabasa ng isang bagay na maaari nilang suriin sa halip na hilingin sa kanila na magtiwala sa iyong tiwala."
+          ]
+        },
+        "interpreting-scripture-section-2": {
+          "title": "Basahin ang mga talata bago tipunin ang mga talata",
+          "paragraphs": [
+            "Ang isang talata ay nabibilang sa isang talata at isang aklat bago ito maging isang aytem sa isang koleksyon ng paksa. Binibigyang-kahulugan ng mga manlalakbay sa Emmaus ang pagpapako sa krus sa pamamagitan ng kanilang bigong pag-asa para sa pagtubos ng Israel. Sumasagot si Jesus sa loob ng kuwento ni Moises at ng mga propeta. Samakatuwid, tinatanong ng isang Kristiyanong interpretasyon kung paano nauugnay ang isang sipi sa buong patotoo ng Bibliya, habang iginagalang pa rin ang orihinal na tagpuan nito.",
+            "Dumaan sa apat na tanong: ano ang kasalukuyan, paano ito gumagana, anong konklusyon ang sinusuportahan ng ebidensya, at anong tapat na tugon ang maaaring sumunod. Ang isang kontemporaryong aplikasyon ay isang karagdagang hakbang, hindi kapalit ng interpretasyon. Halimbawa, ang pagiging maasikaso ng mga manlalakbay ay maaaring mag-udyok ng pagninilay-nilay sa pagtanggap sa mga estranghero nang hindi nagiging isang pangako na ang bawat bisita ay isang hindi nakikilalang banal na mensahero."
+          ]
+        },
+        "interpreting-scripture-section-3": {
+          "title": "Basahin kasama ang simbahan at nang may tapat na mga limitasyon",
+          "paragraphs": [
+            "Kinikilala ng aklat-aralin na ito ang World English Bible kapag sinipi nito ang Banal na Kasulatan. Ang paliwanag ng may-akda ng aralin ay nananatiling interpretasyon. Ang mga makasaysayang kredo at mga pahayag ng denominasyon ay tumutulong sa mga mambabasa na makita kung paano naunawaan ng mga komunidad ang teksto; dapat silang matukoy bilang ganoon. Inilalarawan ng Catholic Catechism ang mga kredo bilang mga buod ng pananampalatayang Kristiyano na nauugnay sa binyag. Iyon ay ebidensya tungkol sa pag-unawa sa sarili ng isang tradisyon, hindi pahintulot na lagyan ng label ang bawat opinyon sa hinaharap bilang unibersal.",
+            "Kapag hindi kumpleto ang ebidensya, sabihin ang tanong. Ang isang kapaki-pakinabang na tugon ng grupo ay, \"Ito ang sinasabi ng sipi; ito ang aming paliwanag; iba ang pagkakaintindi nito sa ibang tradisyon.\" Magtala ng mga tala tungkol sa mga pinagmulan at kawalan ng katiyakan. Tapusin ang pag-aaral sa pamamagitan ng isang tugon na naaayon sa kung ano ang naitatag: panalangin, pagsisisi, pasasalamat, karagdagang pagsisiyasat, o isang konkretong gawa ng pagmamahal. Ang isang hindi nalutas na tanong ay maaaring maging isang tapat na resulta ng maingat na pagbabasa."
+          ]
+        },
+        "interpreting-scripture-section-4": {
+          "title": "Isang pagsasanay sa mapanagutang pagbasa",
+          "paragraphs": [
+            "Subukan ang pamamaraan gamit ang pag-uusap ng mga manlalakbay. Una, itala ang kanilang nakasaad na pag-asa at ang kanilang salaysay ng mga ulat na kanilang narinig. Susunod, itala ang tugon ni Hesus at ang paggalaw ng kuwento tungo sa pagkilala. Pagkatapos lamang imungkahi kung ano ang itinuturo ng episode tungkol sa pagkabigo at pag-unawa. Ang pagkakasunud-sunod na ito ay nagbibigay-daan sa isa pang mambabasa na suriin ang pangangatwiran. Kung ang isang iminungkahing konklusyon ay nakasalalay sa isang bagay na hindi kailanman sinasabi ng salaysay, tukuyin ang nawawalang hakbang na iyon.",
+            "Maaari ring ihambing ng isang grupo ang mga tanong na dala ng mga miyembro nito sa sipi. Maaaring mapansin ng isang mambabasa ang kalungkutan, ang isa naman ay ang pagiging mabuting pakikitungo, ang isa naman ay ang papel ng Banal na Kasulatan. Ang mga obserbasyong ito ay maaaring magpayaman sa isa't isa nang hindi ginagawang pantay ang suporta ng bawat interpretasyon. Hilingin sa bawat mambabasa na ituro ang wikang nag-udyok sa obserbasyon. Maaaring ibuod ng isang pinuno ang ebidensya, magbanggit ng isang tunay na hindi pagkakasundo, at pumili ng isang tanong para sa karagdagang pag-aaral. Ang layunin ay ang pagbabahagi ng atensyon at isang tapat na tugon, hindi isang paligsahan upang makabuo ng pinakakagulat-gulat na kahulugan. Balikan ang sipi pagkatapos ng talakayan at tanungin kung nagbago ang unang obserbasyon. Itala ang dahilan ng anumang pagbabago upang masundan ng ibang mambabasa ang ebidensya."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "introduction",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ania ti Kristiano a Teolohia?",
+      "summary": "Ti teolohia ket naannad a panagadal maipapan iti Dios ken iti Kristiano a pammati. Basaen ti Nasantoan a Surat iti kontekstona, ammuin ti pakasaritaan ti panangipatarus, ken aramiden ti nasursuro a buyogen ti kinapakumbaba.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "interpreting-scripture-section-1": {
+          "title": "Ti teolohia ket mangrugi iti naannad a panagdengngeg",
+          "paragraphs": [
+            "Ti teologia ket naurnos a panagutob maipapan iti Dios ken iti biag ti pammati. Iti istorya ni Lucas maipapan iti Emmaus, agkakadua ti pannakailawlawag, panangpasangbay, panangilasin, ken panagsaksi. Addaan dagiti adalan kadagiti damag maipapan ken Jesus ngem marigatanda nga awaten ti kaipapananda. Ti istorya ket mangawis iti naanus a panagbasa a ti istorya ti Biblia ti mangilinteg iti saan a naan-anay a namnama. Saanna a palubosan ti mannursuro a mangbirok iti aniaman a kayatna a kaipapanan iti likudan ti tunggal balikas.",
+            "Mangrugi iti panangpaliiw. Naganan ti agsasao ken dagiti kausapna; paliiwen dagiti maul-ulit a sasao, panagidilig, saludsod, ken aramid. Kalpasanna damagen no ania a kita ti surat ti basbasaem. Agduduma ti aramid ti panagdayeng, pangngarig, surat, ken salaysay. Isurat ti mabalin nga itudo iti teksto sakbay a mangipaay iti pannakailawlawag. Daytoy nga aramid ket mangted iti sabali nga agbasa iti banag a mabalinda a sukisoken imbes a piliten ida nga agtalek iti kinaturedmo."
+          ]
+        },
+        "interpreting-scripture-section-2": {
+          "title": "Basaen dagiti parapo sakbay nga agurnong kadagiti bersikulo",
+          "paragraphs": [
+            "Ti bersikulo ket paset ti parapo ken libro sakbay nga agbalin a paset ti urnong a naisagana babaen iti topiko. Ipatarus dagiti agdaldaliasat a mapan idiay Emmaus ti pannakailansa babaen iti naupay a namnamada iti pannakasubbot ti Israel. Sumungbat ni Jesus iti uneg ti pakasaritaan ni Moises ken dagiti propeta. Gapuna, damagen ti Cristiano a panangipatarus no kasano a mainaig ti teksto iti sibubukel a pammaneknek ti Biblia, bayat a respetuenna latta ti sigud a kontekstona.",
+            "Lumasat iti uppat a saludsod: ania ti adda, kasano ti akemna, ania a pangngeddeng ti suportaran ti pammaneknek, ken ania a matalek a sungbat ti mabalin a sumaruno. Ti agdama a pannakaipakat ket maysa pay nga addang, saan a kasukat ti panangipatarus. Kas pagarigan, ti panangpasangbay dagiti agbiyabiahe ket mabalin a mangawis iti panangutob maipapan iti panangawat kadagiti ganggannaet, a saan nga agbalin a kari a ti tunggal sangaili ket di nailasin a nadiosan a mensahero."
+          ]
+        },
+        "interpreting-scripture-section-3": {
+          "title": "Basaen a kadua ti iglesia ken napudno a limitasion",
+          "paragraphs": [
+            "Ilasin daytoy a libro ti World English Bible no agadaw iti Kasuratan. Ti pannakailawlawag ti nagsurat ti adal ket agtalinaed a panangipatarus. Dagiti makasaysayan a kredo ken pahayag dagiti denominasion ket tumulong kadagiti bumasa a mangkita no kasano a naawatan dagiti komunidad ti teksto; masapul a mailasinda a kasta. Iladawan ti Catechism ti Katoliko dagiti kredo kas pakabuklan ti pammati a Cristiano a naisilpu iti bautismo. Dayta ket pammaneknek ti pannakaawat ti maysa a tradision iti bagina, saan a pammalubos a markaan ti tunggal nadaduma a kapanunotan kas pammati ti amin.",
+            "No saan a naan-anay ti pammaneknek, ibaga ti saludsod. Napateg a sungbat ti grupo ti, “Daytoy ti ibaga ti teksto; daytoy ti pannakailawlawagtayo; sabali ti pannakaawat ti sabali a tradision.” Salimetmetan dagiti nota maipapan kadagiti nagtaudan ken saan a sigurado. Agpatingga ti panagadal iti sungbat a maitutop iti napaneknekan: kararag, panagbabawi, panagyaman, ad-adu a panagsukisok, wenno konkreto nga aramid ti ayat. Ti saan pay a nasungbatan a saludsod ket mabalin a napudno a bunga ti naannad a panagbasa."
+          ]
+        },
+        "interpreting-scripture-section-4": {
+          "title": "Maysa nga aramid ti panagbasa nga adda pagsungbatanna",
+          "paragraphs": [
+            "Padasen ti pamuspusan iti panagsasarita dagiti agbiahe. Umuna nga ilista ti naibagada a namnama ken ti pannakailawlawagda kadagiti damag a nangngegda. Sumaruno nga ilista ti sungbat ni Jesus ken ti panagdaliasat ti istorya agingga iti panangilasin. Kalpasan laeng dayta, isingasing ti isuro ti pasamak maipapan iti pannakaupay ken pannakaawat. Daytoy a panagsasaruno ket mangpalubos iti sabali a bumasa a mangusisa iti panagrasrason. No ti naisingasing a pangngeddeng ket agpannuray iti banag a pulos a saan nga ibaga ti istorya, ilasin ti dayta nga awan a tukad.",
+            "Mabalin met nga idilig ti grupo dagiti saludsod nga isangbay dagiti kamengna iti teksto. Mabalin a mapaliiw ti maysa nga agbasa ti ladingit, ti sabali ti panangpasangbay, ken ti sabali ti akem ti Kasuratan. Dagitoy a napaliiw ket mabalin a mangpauneg iti panagkikinnaawatan nga awan panangibaga a papada ti pammaneknek a mangsuporta iti amin a panangipatarus. Kiddawen iti tunggal agbasa nga itudona dagiti sasao a nangiturong iti napaliiwnana. Mabalin a buklen ti pangulo dagiti pammaneknek, naganan ti pudno a pagdumaan, ken pilien ti maysa a saludsod para iti ad-adda a panagadal. Ti panggep ket panagkakadua a panangikankano ken napudno a sungbat, saan a kompetision a mangpataud iti kasasdaawan a kaipapanan. Sublian ti teksto kalpasan ti panagsasarita ket damagen no nagbaliw ti immuna a napaliiw. Isurat ti gapu ti aniaman a panagbaliw tapno masurot met ti sabali nga agbasa dagiti pammaneknek."
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "chapter": {
+    "id": "faithfulness-and-restoration",
+    "slug": "faithfulness-and-restoration",
+    "order": 16,
+    "title": "Faithfulness, Falling Away & Restoration",
+    "doctrine": "Soteriology · Study guide",
+    "summary": "The backsliding infographic places a parable, named coworkers, and doctrinal warnings under one heading. Luke 15:11–32 is a parable of loss, return, welcome, and an elder brother’s response. Second Timothy 4:9–18 mentions Demas’s departure within a personal appeal and reports of hardship. These are different literary settings. Neither a parable’s character nor a brief report supplies every detail of a modern doctrine of perseverance. Begin by identifying the kind of text, the stated action, and what remains unstated about the person’s later life.",
+    "question": "How do warnings and mercy belong in the same conversation?",
+    "scriptureReferences": [
+      {
+        "reference": "Luke 15:11–32",
+        "url": "https://ebible.org/engwebp/LUK15.htm#V11",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Galatians 5:1–6",
+        "url": "https://ebible.org/engwebp/GAL05.htm#V1",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "2 Timothy 4:9–18",
+        "url": "https://ebible.org/engwebp/2TI04.htm#V9",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Acts 8:18–24",
+        "url": "https://ebible.org/engwebp/ACT08.htm#V18",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      }
+    ],
+    "learningObjectives": [
+      "Identify the explicit textual evidence in Luke 15:11–32.",
+      "Distinguish source statements from the interpretation explored in Faithfulness, Falling Away & Restoration.",
+      "Explain one limit or unresolved question and one responsible application."
+    ],
+    "sections": [
+      {
+        "id": "different-stories",
+        "title": "Do not flatten different stories into one label",
+        "paragraphs": [
+          "The backsliding infographic places a parable, named coworkers, and doctrinal warnings under one heading. Luke 15:11–32 is a parable of loss, return, welcome, and an elder brother’s response. Second Timothy 4:9–18 mentions Demas’s departure within a personal appeal and reports of hardship. These are different literary settings. Neither a parable’s character nor a brief report supplies every detail of a modern doctrine of perseverance. Begin by identifying the kind of text, the stated action, and what remains unstated about the person’s later life."
+        ],
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "p0",
+          "p2"
+        ]
+      },
+      {
+        "id": "grace-warning",
+        "title": "Read a warning in the argument that gives it meaning",
+        "paragraphs": [
+          "Galatians 5:1–6 discusses circumcision, justification, grace, and faith working through love. The phrase about falling from grace belongs in that argument; it is not a free-floating label for every failure. Acts 8:18–24 records Peter’s rebuke of Simon’s attempt to obtain spiritual authority with money and a call to repentance. Keep the seriousness of those passages without pretending they answer every later question about assurance. Christian traditions differ in their accounts of perseverance and apostasy. A complete comparison needs named confessional sources and reviewers, so the detailed dispute remains open in this draft."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "p1",
+          "p3"
+        ]
+      },
+      {
+        "id": "accountable-return",
+        "title": "Welcome and accountability",
+        "paragraphs": [
+          "A discussion of repentance should invite truthfulness rather than public humiliation. Returning to a community does not automatically restore a position of trust or erase harm already done. Those are pastoral and practical judgments requiring attention to the people affected. The parable’s welcome is not permission to coerce a victim’s forgiveness or to conceal abuse. Ask what wrong must be acknowledged, what repair is possible, and who needs protection and support. These are contemporary study applications, clearly distinguished from a verse-by-verse quotation.",
+          "For reflection, write a truthful admission that does not shift blame. Then identify what repair would involve and who should help assess it. Do not demand that an injured person supply immediate reassurance. A group can discuss the difference between offering mercy, rebuilding trust over time, and appointing someone to leadership. Keep those practical judgments open to informed review."
+        ],
+        "depth": "advanced",
+        "category": "D",
+        "sourceIds": [
+          "p0",
+          "p3"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Repentance",
+        "fil": "Pagsisisi at pagtalikod sa kasalanan",
+        "ilo": "Panagbabawi ken panangtallikud iti basol",
+        "definition": "A turning toward God that includes truthful acknowledgment of wrongdoing; not a device to escape accountability.",
+        "reference": "Luke 15:11–32",
+        "note": "Original explanatory definition. Filipino and Ilokano terminology needs qualified review."
+      }
+    ],
+    "misunderstandings": [
+      "An attractive chart is not independent evidence for every detail.",
+      "A local study draft has not received theological or language approval."
+    ],
+    "differences": "This guide identifies the limits of its source comparison. It does not claim to speak for every Christian community. Detailed tradition-specific claims need independent review.",
+    "application": [
+      "Read both the linked source and its surrounding context.",
+      "Record the difference between an explicit statement and your interpretation.",
+      "Discuss one question honestly without filling the gap with speculation."
+    ],
+    "reflection": [
+      "How do warnings and mercy belong in the same conversation?",
+      "Which claim in the reference image goes beyond the selected passage?",
+      "What would a knowledgeable reviewer need to inspect?"
+    ],
+    "quiz": [
+      {
+        "question": "What kind of text is Luke 15:11–32?",
+        "options": [
+          "A parable",
+          "A full biography of Demas",
+          "A canon list"
+        ],
+        "answer": 0,
+        "explanation": "Its narrative genre should guide interpretation."
+      },
+      {
+        "question": "What is Galatians 5:1–6 discussing?",
+        "options": [
+          "A modern leader’s identity",
+          "Circumcision, grace, justification, and faith",
+          "An exact end-time date"
+        ],
+        "answer": 1,
+        "explanation": "Do not detach the warning from its argument."
+      },
+      {
+        "question": "What wrongdoing appears in Acts 8?",
+        "options": [
+          "A manuscript variant",
+          "A guessed chronology",
+          "Trying to obtain spiritual authority with money"
+        ],
+        "answer": 2,
+        "explanation": "Read Simon’s request and Peter’s response in context."
+      },
+      {
+        "question": "Does return automatically restore every position of trust?",
+        "options": [
+          "No; accountability and safeguarding remain relevant",
+          "Always",
+          "The infographic settles it"
+        ],
+        "answer": 0,
+        "explanation": "Restoration involves practical judgments about harm, responsibility, and safety."
+      },
+      {
+        "question": "What is responsible comparative teaching?",
+        "options": [
+          "Treat every church as identical",
+          "Name sources and acknowledge unresolved questions",
+          "Hide disagreement"
+        ],
+        "answer": 1,
+        "explanation": "Detailed confessional comparison remains a documented review task."
+      }
+    ],
+    "diagram": {
+      "title": "Repentance: examine the evidence",
+      "steps": [
+        "Do not flatten different stories into one label",
+        "Read a warning in the argument that gives it meaning",
+        "Welcome and accountability"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/faithfulness-and-restoration.webp",
+      "thumbnail": "/illustrations/faithfulness-and-restoration.webp",
+      "alt": "Imaginative cinematic still life for Faithfulness, Falling Away & Restoration; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "p0",
+        "title": "World English Bible: Luke 15:11–32",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 15:11–32",
+        "url": "https://ebible.org/engwebp/LUK15.htm#V11",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p1",
+        "title": "World English Bible: Galatians 5:1–6",
+        "institution": "eBible / World English Bible",
+        "section": "Galatians 5:1–6",
+        "url": "https://ebible.org/engwebp/GAL05.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p2",
+        "title": "World English Bible: 2 Timothy 4:9–18",
+        "institution": "eBible / World English Bible",
+        "section": "2 Timothy 4:9–18",
+        "url": "https://ebible.org/engwebp/2TI04.htm#V9",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p3",
+        "title": "World English Bible: Acts 8:18–24",
+        "institution": "eBible / World English Bible",
+        "section": "Acts 8:18–24",
+        "url": "https://ebible.org/engwebp/ACT08.htm#V18",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Original three-layer study guide with independent Filipino and Ilokano section drafts; research and human review pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "faithfulness-and-restoration",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Katapatan, Pagtalikod, at Pagpapanumbalik",
+      "summary": "Pinagsasama ng infographic tungkol sa backsliding ang talinghaga, mga pinangalanang kamanggagawa, at babalang doktrinal sa iisang pamagat. Ang Lucas 15:11–32 ay talinghaga ng pagkawala, pagbabalik, pagtanggap, at tugon ng nakatatandang kapatid. Binabanggit ng 2 Timoteo 4:9–18 ang pag-alis ni Demas sa isang personal na pakiusap at ulat ng paghihirap. Magkaiba ang kanilang anyong pampanitikan. Hindi ibinibigay ng tauhan sa talinghaga o maikling ulat ang lahat ng detalye ng makabagong doktrina ng pagtitiyaga sa pananampalataya. Tukuyin muna ang uri ng teksto, nakasaad na kilos, at hindi sinabi tungkol sa sumunod na buhay ng tao.",
+      "question": "Ano ang malinaw sa talata, at alin ang kailangan pang suriin?",
+      "sections": {
+        "different-stories": {
+          "title": "Huwag gawing iisang etiketa ang magkaibang kuwento",
+          "paragraphs": [
+            "Pinagsasama ng infographic tungkol sa backsliding ang talinghaga, mga pinangalanang kamanggagawa, at babalang doktrinal sa iisang pamagat. Ang Lucas 15:11–32 ay talinghaga ng pagkawala, pagbabalik, pagtanggap, at tugon ng nakatatandang kapatid. Binabanggit ng 2 Timoteo 4:9–18 ang pag-alis ni Demas sa isang personal na pakiusap at ulat ng paghihirap. Magkaiba ang kanilang anyong pampanitikan. Hindi ibinibigay ng tauhan sa talinghaga o maikling ulat ang lahat ng detalye ng makabagong doktrina ng pagtitiyaga sa pananampalataya. Tukuyin muna ang uri ng teksto, nakasaad na kilos, at hindi sinabi tungkol sa sumunod na buhay ng tao."
+          ]
+        },
+        "grace-warning": {
+          "title": "Basahin ang babala sa pangangatwirang nagbibigay-kahulugan dito",
+          "paragraphs": [
+            "Tinatalakay ng Galacia 5:1–6 ang pagtutuli, pag-aaring matuwid, biyaya, at pananampalatayang gumagawa sa pag-ibig. Nasa pangangatwirang iyon ang pahayag tungkol sa pagkahiwalay sa biyaya; hindi ito malayang etiketang ikinakabit sa bawat pagkukulang. Iniuulat ng Gawa 8:18–24 ang pagsaway ni Pedro sa pagtatangka ni Simon na bilhin ang espirituwal na kapangyarihan at ang panawagan sa pagsisisi. Panatilihin ang bigat ng mga talata nang hindi ipinapalagay na sinasagot nila ang bawat sumunod na tanong tungkol sa katiyakan. Magkakaiba ang mga tradisyon sa pagtitiyaga at pagtalikod sa pananampalataya. Kailangan ng pinangalanang pahayag ng pananampalataya at mga tagasuri para sa buong paghahambing; bukas pa rito ang detalyadong usapin."
+          ]
+        },
+        "accountable-return": {
+          "title": "Pagtanggap at pananagutan",
+          "paragraphs": [
+            "Dapat anyayahan ng pagtalakay sa pagsisisi ang katapatan, hindi pampublikong pagpapahiya. Hindi awtomatikong ibinabalik ng pagbabalik sa pamayanan ang posisyong pinagkakatiwalaan o binubura ang pinsalang nagawa. Mga pasyang pastoral at praktikal ang mga iyon na dapat makinig sa mga naapektuhan. Hindi pahintulot ang pagtanggap sa talinghaga upang pilitin ang biktimang magpatawad o itago ang pang-aabuso. Itanong kung anong mali ang dapat aminin, anong pag-aayos ang posible, at sino ang nangangailangan ng proteksiyon at suporta. Mga makabagong aplikasyon sa pag-aaral ang mga ito, malinaw na naiiba sa tuwirang sipi ng Kasulatan.",
+            "Sumulat ng tapat na pag-amin na hindi nagpapasa ng sisi. Tukuyin kung ano ang kailangan sa pag-aayos at sino ang makatutulong magsuri. Huwag hingin sa nasaktan ang agarang pagtiyak na maayos na ang lahat. Talakayin ang pagkakaiba ng pag-aalok ng awa, unti-unting pagbubuo ng tiwala, at pagtatalaga sa pamumuno. Panatilihing bukas sa maalam na pagsusuri ang mga pasyang praktikal."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "faithfulness-and-restoration",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Kinamatalek, Panagtallikud, ken Pannakaisubli",
+      "summary": "Pagtiponen ti infographic maipapan iti backsliding ti pangngarig, nainaganan a katrabaho, ken doktrinal a ballaag iti maysa a titulo. Ti Lucas 15:11–32 ket pangngarig ti pannakapukaw, panagsubli, panangawat, ken sungbat ti inauna a kabsat. Ti 2 Timoteo 4:9–18 ibagana ti panagpanaw ni Demas iti personal a kiddaw ken ulat ti rigat. Agduma dagiti kita ti surat. Ti tao iti pangngarig wenno ababa nga ulat ket saan nga itedna amin a detalye ti moderno a doktrina ti panagibtur iti pammati. Ilasin nga umuna ti kita ti teksto, naibaga nga aramid, ken ti saan a naibaga maipapan iti sumaruno a biag ti tao.",
+      "question": "Ania ti nalawag iti paset, ken ania ti masapul pay a sukisoken?",
+      "sections": {
+        "different-stories": {
+          "title": "Saan a pagbalinen nga agpada ti agduduma nga istoria",
+          "paragraphs": [
+            "Pagtiponen ti infographic maipapan iti backsliding ti pangngarig, nainaganan a katrabaho, ken doktrinal a ballaag iti maysa a titulo. Ti Lucas 15:11–32 ket pangngarig ti pannakapukaw, panagsubli, panangawat, ken sungbat ti inauna a kabsat. Ti 2 Timoteo 4:9–18 ibagana ti panagpanaw ni Demas iti personal a kiddaw ken ulat ti rigat. Agduma dagiti kita ti surat. Ti tao iti pangngarig wenno ababa nga ulat ket saan nga itedna amin a detalye ti moderno a doktrina ti panagibtur iti pammati. Ilasin nga umuna ti kita ti teksto, naibaga nga aramid, ken ti saan a naibaga maipapan iti sumaruno a biag ti tao."
+          ]
+        },
+        "grace-warning": {
+          "title": "Basaen ti ballaag iti argumento a mangted iti kaipapananna",
+          "paragraphs": [
+            "Ti Galacia 5:1–6 saritaenna ti pannakakugit, pannakapalinteg, parabur, ken pammati nga agtrabaho iti ayat. Ti sasao maipapan iti pannakaisina iti parabur ket adda iti dayta nga argumento; saan a naluk-at a nagan para iti tunggal pagkurangan. Ti Aramid 8:18–24 isalaysayna ti panangtubngar ni Pedro iti panangpadas ni Simon a gumatang iti naespirituan a pannakabalin ken ti awis iti panagbabawi. Pagtalinaeden ti kinapateg dagiti paset nga awan ti panangipagarup a sungbatanda amin a naud-udi a saludsod maipapan iti pammatalged. Agduduma dagiti tradision iti panagibtur ken panagtallikud iti pammati. Masapul dagiti nainaganan a konfession ken mangrepaso para iti kompleto a panagidilig; nakalukat pay ti detalyado a saludsod ditoy."
+          ]
+        },
+        "accountable-return": {
+          "title": "Panangawat ken panagsungbat",
+          "paragraphs": [
+            "Ti panagsarita maipapan iti panagbabawi ket mangawis koma iti kinapudno, saan iti publiko a panangibabain. Ti panagsubli iti gimong ket saan nga automatiko a mangisubli iti saad ti panagtalek wenno mangikkat iti nagapuan a pannakadangran. Dagita ket pastoral ken praktikal a pangngeddeng a masapul a denggen dagiti naapektaran. Ti panangawat iti pangngarig ket saan a pammalubos a piliten ti nadangran nga agpakawan wenno ilemmeng ti panangabuso. Saludsoden no ania a biddut ti masapul nga awaten, ania a panangtarimaan ti mabalin, ken sino ti agkasapulan iti salaknib ken tulong. Dagitoy ket moderno nga aplikasyon iti panagadal, a nalawag a naisina iti direkta a sao ti Surat.",
+            "Isurat ti napudno a panangawat iti biddut a saan a mangiyakar iti basol iti sabali. Ilasin ti masapul iti panangtarimaan ken no sino ti tumulong a mangrepaso. Saan a kiddawen iti nadangran ti dagus a pammatalged nga umdasen amin. Pagsaritaan ti panagduduma ti panangipaay iti asi, bassit-bassit a panangbangon iti talek, ken panangdutok iti panangidaulo. Bay-an a nakalukat dagiti praktikal a pangngeddeng iti naammuan a panangrepaso."
+          ]
+        }
+      }
+    }
+  }
+}

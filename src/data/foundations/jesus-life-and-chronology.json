@@ -1,0 +1,279 @@
+{
+  "chapter": {
+    "id": "jesus-life-and-chronology",
+    "slug": "jesus-life-and-chronology",
+    "order": 14,
+    "title": "Jesus’ Life: Narrative & Chronology",
+    "doctrine": "Christology · Study guide",
+    "summary": "Luke 2:41–52 gives Jesus’ age as twelve in the temple episode. Luke 3:21–23 says he was about thirty when he began his ministry. The word about matters. These statements do not provide exact ages for every later event. The screenshot assigns ages 30, 31, 32, and 33 to many episodes without establishing those dates from the cited texts. A responsible timeline marks an explicit age differently from an inference and leaves an unknown date unknown.",
+    "question": "Which ages does a Gospel actually give, and which are reconstructed?",
+    "scriptureReferences": [
+      {
+        "reference": "Luke 2:41–52",
+        "url": "https://ebible.org/engwebp/LUK02.htm#V41",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Luke 3:21–23",
+        "url": "https://ebible.org/engwebp/LUK03.htm#V21",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "John 20:24–31",
+        "url": "https://ebible.org/engwebp/JHN20.htm#V24",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Acts 1:1–11",
+        "url": "https://ebible.org/engwebp/ACT01.htm#V1",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      }
+    ],
+    "learningObjectives": [
+      "Identify the explicit textual evidence in Luke 2:41–52.",
+      "Distinguish source statements from the interpretation explored in Jesus’ Life: Narrative & Chronology.",
+      "Explain one limit or unresolved question and one responsible application."
+    ],
+    "sections": [
+      {
+        "id": "given-ages",
+        "title": "Start with what is actually stated",
+        "paragraphs": [
+          "Luke 2:41–52 gives Jesus’ age as twelve in the temple episode. Luke 3:21–23 says he was about thirty when he began his ministry. The word about matters. These statements do not provide exact ages for every later event. The screenshot assigns ages 30, 31, 32, and 33 to many episodes without establishing those dates from the cited texts. A responsible timeline marks an explicit age differently from an inference and leaves an unknown date unknown."
+        ],
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "p0",
+          "p1"
+        ]
+      },
+      {
+        "id": "thomas",
+        "title": "An invitation and a narrated action differ",
+        "paragraphs": [
+          "John 20:24–29 records Jesus inviting Thomas to examine his hands and side, followed by Thomas’s confession. The passage does not explicitly narrate Thomas carrying out the touch. Saying that he definitely did so adds a detail beyond the report. This is a small example of a larger discipline: distinguish what a narrative states, what it invites the reader to infer, and what a painting imagines. A good illustration can make the scene memorable while its caption keeps those limits clear."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "p2"
+        ]
+      },
+      {
+        "id": "purpose",
+        "title": "Let chronology serve the narrative",
+        "paragraphs": [
+          "John 20:30–31 explains the purpose of selected signs in relation to belief and life. Acts 1:1–11 connects resurrection appearances, teaching, witness, and ascension; it includes a forty-day period. A teaching sequence can follow those narrative anchors without claiming an exact modern date for each scene. Compare the Gospels with attention to their individual arrangements before attempting a harmony. More detailed historical dating remains a separate research task, and an attractive timeline must not turn uncertainty into precision.",
+          "For a practical exercise, make a timeline with three kinds of entries: explicitly dated or aged, narratively ordered without a date, and later reconstruction. Place the temple episode and Luke’s approximate ministry age in the first group. Put the invitation to Thomas in its narrative location without inventing an exact age. Ask a reviewer to inspect every entry before adding a date label to an illustration."
+        ],
+        "depth": "advanced",
+        "category": "D",
+        "sourceIds": [
+          "p2",
+          "p3"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Chronology",
+        "fil": "Kronolohiya",
+        "ilo": "Kronolohia",
+        "definition": "An ordering of events in time; reconstructed dates must be distinguished from explicit narrative details.",
+        "reference": "Luke 2:41–52",
+        "note": "Original explanatory definition. Filipino and Ilokano terminology needs qualified review."
+      }
+    ],
+    "misunderstandings": [
+      "An attractive chart is not independent evidence for every detail.",
+      "A local study draft has not received theological or language approval."
+    ],
+    "differences": "This guide identifies the limits of its source comparison. It does not claim to speak for every Christian community. Detailed tradition-specific claims need independent review.",
+    "application": [
+      "Read both the linked source and its surrounding context.",
+      "Record the difference between an explicit statement and your interpretation.",
+      "Discuss one question honestly without filling the gap with speculation."
+    ],
+    "reflection": [
+      "Which ages does a Gospel actually give, and which are reconstructed?",
+      "Which claim in the reference image goes beyond the selected passage?",
+      "What would a knowledgeable reviewer need to inspect?"
+    ],
+    "quiz": [
+      {
+        "question": "What age does Luke 2 give?",
+        "options": [
+          "Twelve",
+          "Precisely thirty-three",
+          "No age at all"
+        ],
+        "answer": 0,
+        "explanation": "Luke explicitly gives twelve for the temple episode."
+      },
+      {
+        "question": "How does Luke 3 describe the beginning age?",
+        "options": [
+          "Exactly forty",
+          "About thirty",
+          "Exactly twenty-nine"
+        ],
+        "answer": 1,
+        "explanation": "The approximate wording must remain visible."
+      },
+      {
+        "question": "Does John 20 explicitly report Thomas performing the touch?",
+        "options": [
+          "Yes, in a detailed sequence",
+          "It gives the year of the touch",
+          "No; it reports invitation and confession"
+        ],
+        "answer": 2,
+        "explanation": "Do not change an invitation into an explicitly narrated action."
+      },
+      {
+        "question": "What period appears in Acts 1?",
+        "options": [
+          "Forty days",
+          "Seven thousand years",
+          "Three and a half years"
+        ],
+        "answer": 0,
+        "explanation": "Acts 1:3 refers to appearances over forty days."
+      },
+      {
+        "question": "What distinguishes a responsible timeline?",
+        "options": [
+          "Every blank filled with a date",
+          "Explicit details marked separately from reconstruction",
+          "Illustrations used as dating evidence"
+        ],
+        "answer": 1,
+        "explanation": "Uncertainty should remain visible."
+      }
+    ],
+    "diagram": {
+      "title": "Chronology: examine the evidence",
+      "steps": [
+        "Start with what is actually stated",
+        "An invitation and a narrated action differ",
+        "Let chronology serve the narrative"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/jesus-life-and-chronology.webp",
+      "thumbnail": "/illustrations/jesus-life-and-chronology.webp",
+      "alt": "Imaginative cinematic still life for Jesus’ Life: Narrative & Chronology; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "p0",
+        "title": "World English Bible: Luke 2:41–52",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 2:41–52",
+        "url": "https://ebible.org/engwebp/LUK02.htm#V41",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p1",
+        "title": "World English Bible: Luke 3:21–23",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 3:21–23",
+        "url": "https://ebible.org/engwebp/LUK03.htm#V21",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p2",
+        "title": "World English Bible: John 20:24–31",
+        "institution": "eBible / World English Bible",
+        "section": "John 20:24–31",
+        "url": "https://ebible.org/engwebp/JHN20.htm#V24",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p3",
+        "title": "World English Bible: Acts 1:1–11",
+        "institution": "eBible / World English Bible",
+        "section": "Acts 1:1–11",
+        "url": "https://ebible.org/engwebp/ACT01.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Original three-layer study guide with independent Filipino and Ilokano section drafts; research and human review pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "jesus-life-and-chronology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Buhay ni Jesus: Salaysay at Kronolohiya",
+      "summary": "Ibinibigay ng Lucas 2:41–52 ang edad na labindalawa sa salaysay sa templo. Sinasabi ng Lucas 3:21–23 na si Jesus ay humigit-kumulang tatlumpu nang magsimula ang kanyang ministeryo. Mahalaga ang humigit-kumulang. Hindi ibinibigay ng mga pahayag na ito ang eksaktong edad sa bawat sumunod na pangyayari. Nagtatakda ang screenshot ng edad na 30, 31, 32, at 33 sa maraming salaysay nang hindi itinatatag ang mga petsang iyon mula sa mga talata. Sa maingat na timeline, iba ang marka ng tahasang edad sa hinuha, at nananatiling hindi alam ang petsang hindi ibinigay.",
+      "question": "Ano ang malinaw sa talata, at alin ang kailangan pang suriin?",
+      "sections": {
+        "given-ages": {
+          "title": "Magsimula sa talagang nakasaad",
+          "paragraphs": [
+            "Ibinibigay ng Lucas 2:41–52 ang edad na labindalawa sa salaysay sa templo. Sinasabi ng Lucas 3:21–23 na si Jesus ay humigit-kumulang tatlumpu nang magsimula ang kanyang ministeryo. Mahalaga ang humigit-kumulang. Hindi ibinibigay ng mga pahayag na ito ang eksaktong edad sa bawat sumunod na pangyayari. Nagtatakda ang screenshot ng edad na 30, 31, 32, at 33 sa maraming salaysay nang hindi itinatatag ang mga petsang iyon mula sa mga talata. Sa maingat na timeline, iba ang marka ng tahasang edad sa hinuha, at nananatiling hindi alam ang petsang hindi ibinigay."
+          ]
+        },
+        "thomas": {
+          "title": "Magkaiba ang paanyaya at iniulat na pagkilos",
+          "paragraphs": [
+            "Iniuulat ng Juan 20:24–29 ang paanyaya ni Jesus kay Tomas na siyasatin ang kanyang mga kamay at tagiliran, at pagkatapos ang pagpapahayag ni Tomas. Hindi tahasang isinasalaysay na ginawa ni Tomas ang paghipo. Ang pagsasabing tiyak na humipo siya ay nagdaragdag ng detalye sa ulat. Maliit itong halimbawa ng mas malawak na disiplina: ihiwalay ang sinasabi ng salaysay, ang maaaring mahinuha, at ang iniisip ng pintor. Maaaring maging di-malilimot ang tagpo sa isang mahusay na larawan habang malinaw na inilalahad ng caption ang mga hangganan nito."
+          ]
+        },
+        "purpose": {
+          "title": "Gamitin ang kronolohiya upang maunawaan ang salaysay",
+          "paragraphs": [
+            "Ipinapaliwanag ng Juan 20:30–31 ang layunin ng mga piniling tanda kaugnay ng pananampalataya at buhay. Pinag-uugnay ng Gawa 1:1–11 ang mga pagpapakita matapos ang muling pagkabuhay, pagtuturo, pagsaksi, at pag-akyat; may binabanggit itong apatnapung araw. Maaaring sundin ng pag-aaral ang mga puntong ito nang hindi nag-aangkin ng eksaktong makabagong petsa sa bawat tagpo. Pansinin muna ang sariling ayos ng bawat Ebanghelyo bago pagsamahin ang mga ito. Hiwalay na gawaing pananaliksik ang mas detalyadong pagpepetsa; hindi dapat gawing eksaktong kaalaman ng magandang timeline ang kawalang-katiyakan.",
+            "Gumawa ng timeline na may tatlong uri ng tala: tahasang petsa o edad, ayos ng salaysay na walang petsa, at mas huling rekonstruksiyon. Ilagay sa una ang tagpo sa templo at tinatayang edad ng ministeryo sa Lucas. Ilagay ang paanyaya kay Tomas ayon sa salaysay nang hindi nag-iimbento ng eksaktong edad. Ipasuri ang bawat tala bago maglagay ng petsa sa ilustrasyon."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "jesus-life-and-chronology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Biag ni Jesus: Istoria ken Kronolohia",
+      "summary": "Ti Lucas 2:41–52 itedna ti tawen a sangapulo ket dua iti istoria ti templo. Ti Lucas 3:21–23 kunana nga agangay tallopulo ti tawen ni Jesus idi nangrugi ti ministeriona. Napateg ti sao nga agangay. Saan nga ited dagitoy ti eksakto a tawen iti tunggal sumaruno a pasamak. Ikabil ti screenshot dagiti tawen a 30, 31, 32, ken 33 iti adu nga istoria nga awan ti panangipakita iti pagtaudan dagita a petsa. Ti naannad a timeline ket ilasinna ti direkta a naibaga a tawen manipud iti hinuha, ken bay-anna a saan nga ammo ti petsa a saan a naited.",
+      "question": "Ania ti nalawag iti paset, ken ania ti masapul pay a sukisoken?",
+      "sections": {
+        "given-ages": {
+          "title": "Mangrugi iti mismo a naibaga",
+          "paragraphs": [
+            "Ti Lucas 2:41–52 itedna ti tawen a sangapulo ket dua iti istoria ti templo. Ti Lucas 3:21–23 kunana nga agangay tallopulo ti tawen ni Jesus idi nangrugi ti ministeriona. Napateg ti sao nga agangay. Saan nga ited dagitoy ti eksakto a tawen iti tunggal sumaruno a pasamak. Ikabil ti screenshot dagiti tawen a 30, 31, 32, ken 33 iti adu nga istoria nga awan ti panangipakita iti pagtaudan dagita a petsa. Ti naannad a timeline ket ilasinna ti direkta a naibaga a tawen manipud iti hinuha, ken bay-anna a saan nga ammo ti petsa a saan a naited."
+          ]
+        },
+        "thomas": {
+          "title": "Agduma ti awis ken ti naisaysay a tignay",
+          "paragraphs": [
+            "Isalaysay ti Juan 20:24–29 ti panangawis ni Jesus ken Tomas a kitaenna dagiti imana ken bakrangna, a sinaruno ti panangipudno ni Tomas. Saan a direkta nga isalaysayna a tinungpal ni Tomas ti panangsagid. Ti panangibaga a sigurado a nagsagid ket manginayon iti detalye iti ulat. Bassit daytoy nga ulidan ti nalawlawa a disiplina: ilasin ti ibaga ti istoria, ti mabalin a mahinuha, ken ti panunoten ti agladawan. Mabalin a makatulong ti nasayaat a ladawan tapno malagip ti pasamak bayat a nalawag nga ibaga ti caption dagiti limitasionna."
+          ]
+        },
+        "purpose": {
+          "title": "Usaren ti kronolohia para iti pannakaawat ti istoria",
+          "paragraphs": [
+            "Ilawlawag ti Juan 20:30–31 ti panggep dagiti napili a pagilasinan a mainaig iti pammati ken biag. Ti Aramid 1:1–11 pagnaigenna dagiti panagparang kalpasan ti panagungar, pannursuro, panagsaksi, ken panagpangato; ibagana ti uppat a pulo nga aldaw. Mabalin a suroten ti panagadal dagitoy a pagibatayan nga awan ti panangipudno iti eksakto a moderno a petsa iti tunggal pasamak. Paliiwen nga umuna ti bukod nga urnos ti tunggal Ebanghelio sakbay a pagtiponen dagitoy. Ti detalyado a panagpetsa ket sabali a panagsukisok; saan koma a pagbalinen ti napintas a timeline ti panagduadua a kasla eksakto a pannakaammo.",
+            "Agramid iti timeline nga addaan tallo a kita ti tala: direkta a petsa wenno tawen, urnos ti istoria nga awan petsa, ken naud-udi a rekonstruksion. Ikabil iti umuna ti pasamak iti templo ken ti pattapatta a tawen iti Lucas. Ikabil ti awis ken Tomas iti lugarna iti istoria nga awan ti panagpartuat iti eksakto a tawen. Iparepaso ti tunggal tala sakbay nga ikabil ti petsa iti ladawan."
+          ]
+        }
+      }
+    }
+  }
+}

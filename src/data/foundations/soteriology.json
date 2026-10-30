@@ -1,0 +1,393 @@
+{
+  "chapter": {
+    "id": "soteriology",
+    "slug": "soteriology",
+    "order": 8,
+    "title": "The Doctrine of Salvation",
+    "doctrine": "Soteriology",
+    "summary": "Ephesians 2 holds together God’s mercy, salvation by grace through faith, a life of good works, and the reconciliation of a divided people. Confessional differences remain visible.",
+    "question": "What does grace exclude as grounds for boasting?",
+    "scriptureReferences": [
+      {
+        "reference": "Ephesians 2:8–10",
+        "url": "https://ebible.org/engwebp/EPH02.htm#V8",
+        "context": "Read Ephesians 2:1–22. The movement from death to life is followed by the reconciliation of Jews and Gentiles in Christ and the image of one household and holy temple."
+      },
+      {
+        "reference": "Romans 5:1–11",
+        "url": "https://ebible.org/engwebp/ROM05.htm#V1",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "James 2:14–26",
+        "url": "https://ebible.org/engwebp/JAS02.htm#V14",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Colossians 1:12–14",
+        "url": "https://ebible.org/engwebp/COL01.htm#V12",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Trace the movement from human need to divine mercy in Ephesians 2.",
+      "Distinguish the source of salvation from the good works described as its goal.",
+      "Explain the chapter’s communal horizon.",
+      "Recognize differences in confessional accounts of justification and sanctification."
+    ],
+    "sections": [
+      {
+        "id": "salvation-section-1",
+        "title": "Mercy before achievement",
+        "paragraphs": [
+          "Ephesians 2 begins by describing a condition of transgression and death. The turning point is God’s mercy and great love. The passage presents being made alive with Christ as divine action, not a reward for the morally impressive. This order gives the lesson its emphasis: grace precedes boasting about one’s achievement.",
+          "Soteriology is the conventional theological name for the study of salvation. Biblical accounts use several images, including life, reconciliation, forgiveness, and redemption. This lesson follows the images present in Ephesians 2 rather than reducing salvation to a single unexplained term. A fuller doctrine needs multiple passages and a clearly identified theological tradition."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "ephesians",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "salvation-section-2",
+        "title": "Grace, faith, and works in one paragraph",
+        "paragraphs": [
+          "Verses 8–9 explicitly describe salvation by grace through faith and exclude works as a basis for boasting. Verse 10 then describes believers as created in Christ Jesus for good works. A careful account preserves both statements. Removing verse 10 can make transformed life seem irrelevant; ignoring verses 8–9 can turn salvation into an achievement.",
+          "The passage’s order is an important textual observation. It does not, by itself, settle every later dispute about the precise relation of justification, sanctification, faith, love, baptism, perseverance, or merit. A beginner should learn the paragraph before being asked to adopt technical definitions. When those terms are introduced, the tradition using them must be named."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "ephesians",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "salvation-section-3",
+        "title": "A people brought near",
+        "paragraphs": [
+          "The second half of the chapter addresses Gentiles who were once far off. Christ is described as making peace and reconciling both groups in one body through the cross. Salvation’s horizon is therefore communal as well as personal. The chapter does not end with isolated individuals possessing a private spiritual status.",
+          "The imagery of citizenship, household, and temple gives a group several ways to consider belonging. It also challenges religious teaching that declares peace with God while nurturing hostility toward neighbors. This is a pastoral inference from the chapter’s argument; specific disputes between communities still require truth, justice, and careful attention to their history."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "ephesians",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "salvation-section-4",
+        "title": "Name the tradition when defining justification",
+        "paragraphs": [
+          "The Westminster Confession XI describes justification in a Reformed forensic framework and distinguishes it from sanctification. The Catholic Catechism 1987–1995 describes justification with cleansing, renewal, and participation in Christ, including baptism. These are identified witnesses that show why the same English term can function differently in different theological systems.",
+          "The comparison must not caricature one tradition as favoring morality without grace or another as making good works irrelevant. Both cited sources place divine grace centrally, while their accounts of justification and its relations differ. This preview records those differences without claiming that a short lesson resolves them. A local church must approve the account it intends to teach."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "wcf",
+          "ccc-grace",
+          "ephesians",
+          "wcf",
+          "ccc-grace",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "salvation-section-5",
+        "title": "Assurance, humility, and a concrete next step",
+        "paragraphs": [
+          "Romans 5 describes peace with God through Jesus Christ and locates divine love in Christ’s death for sinners. Read beside Ephesians, this directs attention toward God’s mercy rather than comparison with someone else’s religious performance. It is a basis for humility, not a claim that every emotional struggle disappears.",
+          "A practical response may be gratitude, repentance, or a specific work of care prepared within ordinary life. Ask a group to name the recipient of that care rather than speaking only in generalities. Refuse to use anxiety, disability, poverty, or trauma as evidence that a person has failed to receive grace. The lesson does not provide a tool for diagnosing another person’s standing before God."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "romans",
+          "ephesians",
+          "romans",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "salvation-section-6",
+        "title": "Keep the gift and the goal in view",
+        "paragraphs": [
+          "Read the paragraph once emphasizing gift and once emphasizing good works. Then explain why each reading needs the other. This practice helps a group resist both boasting in achievement and indifference to a changed life."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "ephesians"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Soteriology",
+        "fil": "Ang Doktrina Tungkol sa Kaligtasan",
+        "ilo": "Ti Doktrina Maipapan iti Pannakaisalakan",
+        "definition": "The field of study introduced in The Doctrine of Salvation.",
+        "reference": "Ephesians 2:8–10",
+        "note": "Editorial study term; equivalents require qualified language review."
+      },
+      {
+        "en": "Justification",
+        "fil": "Pag-aaring matuwid",
+        "ilo": "Pannakapalinteg",
+        "definition": "A term used in Christian accounts of being set right with God. Its detailed relation to faith, works, and sanctification is disputed across traditions.",
+        "reference": "Romans 5:1–11",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      },
+      {
+        "en": "Sanctification",
+        "fil": "Pagpapabanal",
+        "ilo": "Pannakapasanto",
+        "definition": "Christian teaching concerning being made holy and a life shaped toward God. A spirit/soul/body phase chart is an interpretive framework, not an explicit division supplied by one verse.",
+        "reference": "Romans 6:19–23",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "Justification, sanctification, election, perseverance, baptism, and the relation of faith and works are described differently. Westminster and Catholic sources are presented as named traditions rather than a false claim of complete agreement.",
+    "application": [
+      "Read Ephesians 2:8–10 without separating its gift and goal.",
+      "Identify one concrete act of care that follows gratitude rather than a desire to earn status.",
+      "Discuss confessional terminology with a pastor before using the lesson for membership teaching."
+    ],
+    "reflection": [
+      "Where does comparison with others shape my religious life?",
+      "How might grace make repentance more truthful?",
+      "Whose inclusion in the household challenges my assumptions?",
+      "How do verses 8–10 relate without canceling one another?",
+      "Why should the second half of the chapter remain in a lesson on salvation?",
+      "Which definitions need to be established before comparing traditions?"
+    ],
+    "quiz": [
+      {
+        "question": "What does Ephesians 2 exclude?",
+        "options": [
+          "Good works as a goal of life",
+          "Boasting based on works as the ground of salvation",
+          "Every form of human response"
+        ],
+        "answer": 1,
+        "explanation": "Verses 8–9 exclude boasting; verse 10 names good works as the goal of being created in Christ."
+      },
+      {
+        "question": "What follows the grace-and-faith paragraph?",
+        "options": [
+          "The reconciliation of divided peoples in Christ",
+          "A claim that community is irrelevant",
+          "A completed list of every later doctrine"
+        ],
+        "answer": 0,
+        "explanation": "Ephesians 2:11–22 describes peace, reconciliation, household, and temple."
+      },
+      {
+        "question": "Why identify confessional sources?",
+        "options": [
+          "To pretend differences are only vocabulary",
+          "To let readers inspect specific accounts and their differences",
+          "To replace the biblical text"
+        ],
+        "answer": 1,
+        "explanation": "Named sources keep a comparison fair and make local pastoral review possible."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Recognize differences in confessional accounts of justification and sanctification.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Ephesians 2:8–10, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Trace the movement from human need to divine mercy in Ephesians 2.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Ephesians 2:8–10, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "The movement of Ephesians 2",
+      "steps": [
+        "Need · 1–3",
+        "Mercy and grace · 4–9",
+        "New life and works · 10",
+        "One reconciled household · 11–22"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/soteriology.webp",
+      "thumbnail": "/illustrations/soteriology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of Salvation; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "ephesians",
+        "title": "World English Bible (Updated): Ephesians 2:1–22",
+        "institution": "eBible / World English Bible",
+        "section": "Ephesians 2:1–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "romans",
+        "title": "World English Bible (Updated): Romans 5:1–11",
+        "institution": "eBible / World English Bible",
+        "section": "Romans 5:1–11",
+        "url": "https://ebible.org/engwebp/ROM05.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "wcf",
+        "title": "Westminster Confession of Faith, Orthodox Presbyterian Church edition",
+        "institution": "www.opc.org",
+        "section": "Chapters I–III, VI, XI, XXV, XXVIII, XXXII–XXXIII",
+        "url": "https://www.opc.org/wcf.html",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "ccc-grace",
+        "title": "Catechism of the Catholic Church: Justification",
+        "institution": "www.vatican.va",
+        "section": "1987–1995",
+        "url": "https://www.vatican.va/archive/ENG0015/__P6Y.HTM",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Structured study draft adapted from an existing lesson; broader topic expansion remains under review."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "soteriology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol sa Kaligtasan",
+      "summary": "Ang kaligtasan ay kaloob ng biyaya ng Diyos kay Cristo. Iniuugnay ng Efeso 2 ang pananampalataya at buhay na may mabubuting gawa. Magkaiba ngunit magkakaugnay na paksa ang pag-aaring matuwid, pagpapabanal, at kaluwalhatian.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "salvation-section-1": {
+          "title": "Awa bago ang tagumpay",
+          "paragraphs": [
+            "Nagsisimula ang Mga Taga-Efeso 2 sa paglalarawan ng isang kondisyon ng paglabag at kamatayan. Ang punto ng pagbabago ay ang awa at dakilang pag-ibig ng Diyos. Inilalahad ng sipi ang pagiging buhay kasama ni Kristo bilang banal na aksyon, hindi isang gantimpala para sa kahanga-hangang moralidad. Ang kaayusang ito ay nagbibigay ng diin sa aral: ang biyaya ay nauuna sa pagmamalaki tungkol sa tagumpay ng isang tao.",
+            "Ang Soteriology ay ang kumbensyonal na teolohikong tawag para sa pag-aaral ng kaligtasan. Ang mga salaysay sa Bibliya ay gumagamit ng ilang mga imahe, kabilang ang buhay, pagkakasundo, kapatawaran, at pagtubos. Ang araling ito ay sumusunod sa mga imaheng nasa Efeso 2 sa halip na bawasan ang kaligtasan sa isang iisang hindi maipaliwanag na termino. Ang isang mas kumpletong doktrina ay nangangailangan ng maraming sipi at isang malinaw na natukoy na tradisyong teolohiko."
+          ]
+        },
+        "salvation-section-2": {
+          "title": "Biyaya, pananampalataya, at mga gawa sa isang talata",
+          "paragraphs": [
+            "Malinaw na inilalarawan ng mga talata 8–9 ang kaligtasan sa pamamagitan ng biyaya sa pamamagitan ng pananampalataya at hindi isinasama ang mga gawa bilang batayan ng pagmamalaki. Pagkatapos ay inilalarawan ng talata 10 ang mga mananampalataya bilang nilikha kay Cristo Jesus para sa mabubuting gawa. Ang isang maingat na pagsasalaysay ay nagpapanatili sa parehong pahayag. Ang pag-alis ng talata 10 ay maaaring magpamukhang walang kaugnayan sa nabagong buhay; ang pagbalewala sa mga talata 8–9 ay maaaring gawing isang tagumpay ang kaligtasan.",
+            "Ang pagkakasunud-sunod ng sipi ay isang mahalagang obserbasyon sa teksto. Hindi nito, sa ganang sarili, nilulutas ang bawat susunod na pagtatalo tungkol sa eksaktong kaugnayan ng pagpapawalang-sala, pagpapabanal, pananampalataya, pag-ibig, binyag, pagtitiyaga, o merito. Dapat matutunan ng isang baguhan ang talata bago hilingin sa kanya na gamitin ang mga teknikal na kahulugan. Kapag ipinakilala ang mga terminong iyon, dapat pangalanan ang tradisyong gumagamit ng mga ito."
+          ]
+        },
+        "salvation-section-3": {
+          "title": "Isang bayang inilapit",
+          "paragraphs": [
+            "Ang ikalawang kalahati ng kabanata ay tumatalakay sa mga Hentil na dating nalalayo. Inilalarawan si Kristo bilang nakikipagpayapaan at pinagkakasundo ang magkabilang grupo sa isang katawan sa pamamagitan ng krus. Samakatuwid, ang abot-tanaw ng kaligtasan ay komunal at personal. Hindi nagtatapos ang kabanata sa mga indibidwal na nakahiwalay na nagtataglay ng pribadong espirituwal na katayuan.",
+            "Ang imahe ng pagkamamamayan, sambahayan, at templo ay nagbibigay sa isang grupo ng ilang paraan upang isaalang-alang ang pagiging kabilang. Hinahamon din nito ang mga turo sa relihiyon na nagpapahayag ng kapayapaan sa Diyos habang pinapalago ang poot sa mga kapitbahay. Ito ay isang pastoral na hinuha mula sa argumento ng kabanata; Ang mga partikular na alitan sa pagitan ng mga komunidad ay nangangailangan pa rin ng katotohanan, hustisya, at maingat na atensyon sa kanilang kasaysayan."
+          ]
+        },
+        "salvation-section-4": {
+          "title": "Magpangalan ng tradisyon kapag binibigyang-kahulugan ang pagbibigay-katwiran",
+          "paragraphs": [
+            "Inilalarawan ng Westminster Confession XI ang pagbibigay-katwiran sa isang Reformed forensic framework at pinag-iiba ito sa pagpapabanal. Inilalarawan ng Catholic Catechism 1987–1995 ang pagbibigay-katwiran sa pamamagitan ng paglilinis, pagpapanibago, at pakikilahok kay Kristo, kabilang ang binyag. Ito ang mga natukoy na saksi na nagpapakita kung bakit ang parehong terminong Ingles ay maaaring gumana nang iba sa iba't ibang sistemang teolohikal.",
+            "Hindi dapat ilarawan ng paghahambing ang isang tradisyon bilang pabor sa moralidad nang walang biyaya o sa iba pa bilang hindi mahalaga ang mabubuting gawa. Ang parehong nabanggit na mga sanggunian ay naglalagay ng banal na biyaya sa sentro, habang ang kanilang mga salaysay tungkol sa pagbibigay-katwiran at mga kaugnayan nito ay magkakaiba. Itinatala ng preview na ito ang mga pagkakaibang iyon nang hindi inaangkin na ang isang maikling aral ay lumulutas sa mga ito. Dapat aprubahan ng isang lokal na simbahan ang salaysay na nais nitong ituro."
+          ]
+        },
+        "salvation-section-5": {
+          "title": "Katiyakan, pagpapakumbaba, at isang konkretong susunod na hakbang",
+          "paragraphs": [
+            "Inilalarawan ng Mga Taga-Roma 5 ang kapayapaan sa Diyos sa pamamagitan ni Hesukristo at inilalagay ang banal na pag-ibig sa kamatayan ni Kristo para sa mga makasalanan. Basahin sa tabi ng Mga Taga-Efeso, itinuturo nito ang atensyon patungo sa awa ng Diyos sa halip na paghahambing sa relihiyosong pagganap ng ibang tao. Ito ay isang batayan para sa pagpapakumbaba, hindi isang pag-aangkin na ang bawat emosyonal na pakikibaka ay nawawala.",
+            "Ang isang praktikal na tugon ay maaaring pasasalamat, pagsisisi, o isang partikular na gawain ng pangangalaga na inihanda sa loob ng ordinaryong buhay. Hilingin sa isang grupo na pangalanan ang tatanggap ng pangangalagang iyon sa halip na magsalita lamang sa pangkalahatan. Tumanggi na gamitin ang pagkabalisa, kapansanan, kahirapan, o trauma bilang ebidensya na ang isang tao ay nabigong tumanggap ng biyaya. Ang aral ay hindi nagbibigay ng kasangkapan para sa pag-diagnose ng katayuan ng ibang tao sa harap ng Diyos."
+          ]
+        },
+        "salvation-section-6": {
+          "title": "Panatilihing nasa isip ang kaloob at ang layunin",
+          "paragraphs": [
+            "Basahin ang talata nang isang beses na nagbibigay-diin sa kaloob at isang beses na nagbibigay-diin sa mabubuting gawa. Pagkatapos ay ipaliwanag kung bakit kailangan ng bawat pagbasa ang isa't isa. Ang pagsasanay na ito ay tumutulong sa isang grupo na labanan ang parehong pagmamalaki sa tagumpay at kawalang-bahala sa isang binagong buhay."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "soteriology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan iti Pannakaisalakan",
+      "summary": "Ti pannakaisalakan ket sagut ti parabur ti Dios ken Cristo. Ti Efeso 2 pagnaigenna ti pammati ken biag nga addaan naimbag nga aramid. Ti pannakapalinteg, pannakapasanto, ken pannakaidayaw ket agduduma ngem agkakainaig a banag.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "salvation-section-1": {
+          "title": "Asi sakbay ti nagun-od",
+          "paragraphs": [
+            "Ti Efeso 2 ket mangrugi iti panangiladawan iti kasasaad ti salungasing ken patay. Ti panagbalbaliw ket ti asi ken dakkel nga ayat ti Dios. Iparang ti teksto ti pannakapabiag a kaduan ni Cristo kas aramid ti Dios, saan a gunggona dagiti nakaskasdaaw ti kinasingpetda. Daytoy a panagsasaruno ti mangited iti paganetgetan ti adal: umun-una ti parabur ngem ti panagpannakkel iti bukod nga aramid.",
+            "Ti soteriologia ket gagangay a teolohiko a nagan para iti panagadal maipapan iti pannakaisalakan. Dagiti pannakailawlawag ti Biblia ket agusar iti adu a ladawan, agraman ti biag, pannakikappia, pannakapakawan, ken pannakasubbot. Suroten ti adal dagiti ladawan nga adda iti Efeso 2 imbes nga ibabana ti pannakaisalakan nga agbalin a maysa laeng a di nailawlawag a balikas. Ti naan-anay a doktrina ket agkasapulan iti adu a teksto ken silalawag a nailasin a tradision ti teologia."
+          ]
+        },
+        "salvation-section-2": {
+          "title": "Ti parabur, pammati, ken aramid iti maymaysa a parapo",
+          "paragraphs": [
+            "Silalawag nga iladawan dagiti bersikulo 8–9 ti pannakaisalakan babaen iti parabur ken pammati ket ilaksidda dagiti aramid kas pakaibatayan ti panagpannakkel. Kalpasanna, ti bersikulo 10 ket iladawanna dagiti mamati kas naparsua ken Jesu-Cristo para iti naimbag nga aramid. Ti naannad a pannakailawlawag ket salimetmetanna ti agpada a pahayag. Ti panangikkat iti bersikulo 10 ket mabalin a mangipakita a saan a napateg ti nabaliwan a biag; ti panangbaybay-a iti bersikulo 8–9 ket mabalin a pagbalinen ti pannakaisalakan a bukod a nagun-od.",
+            "Ti urnos ti teksto ket napateg a madlaw iti pannakabasa. Saan daytoy a makarisut a bukbukodna iti tunggal naudi a panagsusupiat maipapan iti eksakto a panagkayamet ti pannakapalinteg, pannakapasanto, pammati, ayat, bautismo, panagibtur, wenno pakaikarian. Masapul nga adalen ti mangrurugi ti parapo sakbay a madawat nga awatenna dagiti teknikal a depinasion. No maiyammo dagita a termino, masapul a maipangnagan ti tradision a mangar-aramat kadakuada."
+          ]
+        },
+        "salvation-section-3": {
+          "title": "Maysa nga ili a naiyasideg",
+          "paragraphs": [
+            "Ti maikadua a kagudua ti kapitulo ket agsao kadagiti Gentil a dati nga adda iti adayo. Ni Cristo ket nailadawan a mangaramid iti talna ken mamagkappia kadagiti dua a bunggoy iti maymaysa a bagi babaen iti krus. Gapuna, ti saklaw ti pannakaisalakan ket para iti komunidad ken para met iti tunggal tao. Ti kapitulo ket saan nga agpatingga kadagiti naisina a tattao nga addaan iti pribado nga espirituan a saad.",
+            "Dagiti ladawan ti pannakaikamang iti pagilian, sangakabbalayan, ken templo ket mangted iti bunggoy iti sumagmamano a wagas a mangusig iti pannakiramraman. Karitenna met ti narelihionan a panangisuro a mangipakdaar iti talna iti Dios bayat a patanorenna ti pananggura kadagiti kaarruba. Daytoy ket pastoral a pangngeddeng manipud iti argumento ti kapitulo; dagiti espesipiko a panagsusupiat dagiti komunidad ket kasapulanda latta ti kinapudno, hustisia, ken naannad nga atension iti pakasaritaanda."
+          ]
+        },
+        "salvation-section-4": {
+          "title": "Ilasin ti tradision no ilawlawag ti pannakapalinteg",
+          "paragraphs": [
+            "Ti Westminster Confession XI ket mangiladawan iti pannakapalinteg iti Reformed a pannakaawat a naibatay iti panangukom ken ilasinna dayta iti pannakapasanto. Ti Catholic Catechism 1987–1995 ket iladawanna ti pannakapalinteg babaen iti pannakadalus, pannakapabaro, ken pannakipagpaset ken Cristo, agraman ti bautismo. Nailasin dagitoy a pammaneknek a mangipakita no apay a ti maymaysa a termino nga Ingles ket mabalin nga agsabsabali ti akemna iti nagduduma a teolohiko a sistema.",
+            "Saan a masapul a ti panangidilig ket mangbaluktot iti maysa a tradision a kas mangipangpangruna iti moralidad nga awan parabur wenno iti sabali a kas mangibilang kadagiti naimbag nga aramid nga awan pategda. Dagiti dua a naadaw a pagtaudan ket ipangpangrunada ti parabur ti Dios, bayat nga agduduma dagiti pannakailawlawagda iti pannakapalinteg ken kadagiti panagkayamet daytoy. Daytoy a pangpadas nga edision ket irekordna dagita a pagdudumaan a saan nga ibagana a marisutda iti ababa nga aralin. Masapul nga anamonganan ti lokal nga iglesia ti pannakailawlawag a kayatna nga isuro."
+          ]
+        },
+        "salvation-section-5": {
+          "title": "Pammatalged, kinapakumbaba, ken maysa a nalawag a sumaruno nga addang",
+          "paragraphs": [
+            "Iladawan ti Roma 5 ti kappia iti Dios babaen ken Jesu-Cristo ken ikabilna ti nadiosan nga ayat iti ipapatay ni Cristo para kadagiti managbasol. No basaen a kadua ti Efeso, iturongna ti pannakaimatang iti asi ti Dios imbes nga iti panangidilig iti narelihiosuan nga aramid ti sabali. Pundasion daytoy ti kinapakumbaba, saan a panangibaga a mapukaw ti tunggal riribuk ti rikna.",
+            "Mabalin a ti praktikal a sungbat ket panagyaman, panagbabawi, wenno maysa a nalawag nga aramid ti panangaywan a naisagana iti ordinario a biag. Damagen ti grupo a nagananda ti umawat iti dayta nga aywan imbes nga agsao laeng iti sapasap. Saan nga aramaten ti danag, disabilidad, kinapanglaw, wenno trauma a kas pammaneknek a ti tao ket napaay a nangawat iti parabur. Daytoy nga adal ket saan a mangipaay iti alikamen a pangikeddeng iti takder ti sabali a tao iti sango ti Dios."
+          ]
+        },
+        "salvation-section-6": {
+          "title": "Pagtalinaeden iti imatang ti sagut ken ti panggep",
+          "paragraphs": [
+            "Basaen ti parapo iti maminsan a ti sagut ti paganetgetan ken iti maminsan pay a dagiti naimbag nga aramid. Ilawlawag no apay a kasapulan ti tunggal panagbasa ti sabali. Daytoy nga aramid ket tumulong iti grupo a sumuppiat iti panagpannakkel iti naragpat ken iti di panangikankano iti nabaliwan a biag."
+          ]
+        }
+      }
+    }
+  }
+}

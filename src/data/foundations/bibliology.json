@@ -1,0 +1,327 @@
+{
+  "chapter": {
+    "id": "bibliology",
+    "slug": "bibliology",
+    "order": 2,
+    "title": "The Doctrine of the Bible",
+    "doctrine": "Bibliology",
+    "summary": "Read 2 Timothy’s teaching about Scripture in its pastoral setting, with care for inspiration, purpose, canon, and the distinction between text and interpretation.",
+    "question": "What is Scripture intended to do in the community?",
+    "scriptureReferences": [
+      {
+        "reference": "2 Timothy 3:16–17",
+        "url": "https://ebible.org/engwebp/2TI03.htm#V16",
+        "context": "Read 2 Timothy 3:10–17. A call to remain in received teaching follows descriptions of persecution, deception, and Timothy’s acquaintance with the sacred writings from childhood."
+      },
+      {
+        "reference": "Luke 24:44–49",
+        "url": "https://ebible.org/engwebp/LUK24.htm#V44",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 17:17",
+        "url": "https://ebible.org/engwebp/JHN17.htm#V17",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Explain Scripture’s stated purposes in 2 Timothy 3.",
+      "Distinguish inspiration, interpretation, translation, and canon.",
+      "Identify this application’s selected edition and limits."
+    ],
+    "sections": [
+      {
+        "id": "scripture-section-1",
+        "title": "A pastoral setting before a doctrinal formula",
+        "paragraphs": [
+          "The passage addresses a learner who has encountered suffering and misleading teaching. Its instruction about Scripture is connected to perseverance, salvation through faith in Christ, and the formation of a person equipped for good work. Reading only verse 16 can hide this purpose. The text does not introduce inspiration as a puzzle detached from worship and conduct.",
+          "The WEB renders verse 16 with “God-breathed” and notes an alternative construction in its footnote. This lesson follows the main WEB wording and records that a translation decision exists. Inspiration concerns Scripture’s relation to God; interpretation concerns how a reader understands what is written. A strong claim about inspiration does not establish the accuracy of every sermon, marginal note, or digital summary."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "timothy",
+          "timothy"
+        ]
+      },
+      {
+        "id": "scripture-section-2",
+        "title": "Four purposes and a living outcome",
+        "paragraphs": [
+          "Teaching communicates what the community is to learn. Reproof exposes error; correction turns a learner toward what is right; training in righteousness describes ongoing formation. Verse 17 names an outcome: readiness for good work. In a study group, ask whether a discussion has served these purposes or merely produced an argument. The passage warrants a close relation between learning and practice.",
+          "The sacred writings Timothy knew in childhood belong to the scriptural world in which this letter speaks. The two verses do not themselves provide a table of contents for the later Christian Bible. Canon describes the collection a community receives as Scripture. This preview uses the updated WEB 66-book protocanon. That technical choice must not imply that Catholic and Orthodox canons are identical to a Protestant canon."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "timothy",
+          "bfm",
+          "wcf",
+          "timothy",
+          "bfm",
+          "wcf"
+        ]
+      },
+      {
+        "id": "scripture-section-3",
+        "title": "Authority with accountable interpretation",
+        "paragraphs": [
+          "The Baptist Faith and Message and Westminster Confession articulate Protestant accounts of Scripture’s authority. These are denominational witnesses, not neutral replacements for the passage. Readers from other traditions should be able to identify where a confessional position is being described. A local church must review the profile before treating this textbook as its teaching material.",
+          "Use a translation honestly. Quotation marks indicate the exact selected text; an explanation or simplification should be labeled as such. Consult the full paragraph when a phrase seems surprising and compare textual notes rather than silently editing them away. Digital search is helpful for finding passages, but a search result is an entry into reading, not the completion of interpretation."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "timothy",
+          "bfm",
+          "wcf",
+          "timothy",
+          "bfm",
+          "wcf"
+        ]
+      },
+      {
+        "id": "scripture-section-4",
+        "title": "A source-conscious study session",
+        "paragraphs": [
+          "For a practical exercise, place the quotation from verses 16–17 beside the lesson’s explanation. Highlight the exact biblical words in one color and interpretive conclusions in another. Then ask which conclusions are directly supported by the paragraph and which require additional passages. This exercise protects Scripture’s authority by refusing to transfer it automatically to the lesson author. A digital resource should make that distinction easier to see.",
+          "Next inspect a confessional statement’s account of Scripture. Record its community and section number rather than introducing it simply as “what Christians believe.” The Baptist and Westminster documents are useful because their provenance is identifiable and their wording can be checked. If a learner belongs to a different tradition, the appropriate response is to locate that tradition’s official teaching, not to assume that a Protestant document speaks for it.",
+          "Finally choose one of the passage’s purposes and describe a fitting response. A correction may involve changing a habit; instruction may require further learning; readiness for good work may involve helping a neighbor. The action should follow the passage’s content rather than being attached as a generic moral at the end. Keep the group’s notes so a pastor or editor can review the route from quotation to explanation to application."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "timothy",
+          "bfm",
+          "wcf",
+          "timothy",
+          "bfm",
+          "wcf",
+          "timothy",
+          "bfm",
+          "wcf"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Bibliology",
+        "fil": "Ang Doktrina Tungkol sa Biblia",
+        "ilo": "Ti Doktrina Maipapan iti Biblia",
+        "definition": "The field of study introduced in The Doctrine of the Bible.",
+        "reference": "2 Timothy 3:16–17",
+        "note": "Editorial study term; equivalents require qualified language review."
+      },
+      {
+        "en": "Canon",
+        "fil": "Kanon",
+        "ilo": "Kanon",
+        "definition": "A received collection of scriptural books. Second Timothy discusses Scripture’s function; it does not itself enumerate a complete canon.",
+        "reference": "2 Timothy 3:14–17",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "Protestant accounts of Scripture as the supreme standard, and Catholic or Orthodox accounts of Scripture within apostolic tradition, require separate confessional review. “Inerrancy” and “infallibility” should be defined before comparison.",
+    "application": [
+      "Choose one purpose from verses 16–17 and identify an appropriate response to the paragraph.",
+      "Label a quotation, paraphrase, and doctrinal inference differently in your study notes."
+    ],
+    "reflection": [
+      "How has Scripture corrected me as well as comforted me?",
+      "Have I confused my certainty with the text’s authority?",
+      "How would a group study change if its goal were readiness for good work?",
+      "Why is disclosing the translation and canon an act of care for readers?"
+    ],
+    "quiz": [
+      {
+        "question": "What outcome does 2 Timothy 3:17 describe?",
+        "options": [
+          "Mastery of every future controversy",
+          "Being equipped for every good work",
+          "A completed list of biblical books"
+        ],
+        "answer": 1,
+        "explanation": "The stated purpose is the formation and equipping of the person who belongs to God."
+      },
+      {
+        "question": "Which statement is accurate about this preview?",
+        "options": [
+          "Every church uses its exact canon",
+          "It quotes the updated WEB 66-book edition",
+          "Its interpretation has church approval"
+        ],
+        "answer": 1,
+        "explanation": "The translation and canon are declared technical and editorial choices awaiting local confirmation."
+      },
+      {
+        "question": "Study check 3: which action best supports the objective “Identify this application’s selected edition and limits.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to 2 Timothy 3:16–17, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Explain Scripture’s stated purposes in 2 Timothy 3.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to 2 Timothy 3:16–17, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Distinguish inspiration, interpretation, translation, and canon.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to 2 Timothy 3:16–17, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "Scripture’s formative purposes",
+      "steps": [
+        "Teaching",
+        "Reproof",
+        "Correction",
+        "Training → good work"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/bibliology.webp",
+      "thumbnail": "/illustrations/bibliology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of the Bible; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "timothy",
+        "title": "World English Bible (Updated): 2 Timothy 3:10–17",
+        "institution": "eBible / World English Bible",
+        "section": "2 Timothy 3:10–17",
+        "url": "https://ebible.org/engwebp/2TI03.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "bfm",
+        "title": "Southern Baptist Convention: Baptist Faith and Message 2000",
+        "institution": "bfm.sbc.net",
+        "section": "Articles I–VII and X",
+        "url": "https://bfm.sbc.net/bfm2000/",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "wcf",
+        "title": "Westminster Confession of Faith, Orthodox Presbyterian Church edition",
+        "institution": "www.opc.org",
+        "section": "Chapters I–III, VI, XI, XXV, XXVIII, XXXII–XXXIII",
+        "url": "https://www.opc.org/wcf.html",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Structured study draft adapted from an existing lesson; broader topic expansion remains under review."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "bibliology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol sa Biblia",
+      "summary": "Ang Biblia ay binabasa bilang Kasulatan ng pamayanang Kristiyano. Pag-aralan ang inspirasyon, kanon, pagsasalin, at konteksto. Ang isang talata ay hindi dapat gawing patunay sa pahayag na hindi nito tinatalakay.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "scripture-section-1": {
+          "title": "Isang pastoral na setting bago ang isang pormula ng doktrina",
+          "paragraphs": [
+            "Tinutugunan ng sipi ang isang mag-aaral na nakaranas ng pagdurusa at nakaliligaw na turo. Ang pagtuturo nito tungkol sa Banal na Kasulatan ay konektado sa pagtitiyaga, kaligtasan sa pamamagitan ng pananampalataya kay Cristo, at ang paghubog ng isang taong handa para sa mabuting gawa. Ang pagbabasa lamang ng bersikulo 16 ay maaaring magtago ng layuning ito. Hindi ipinakikilala ng teksto ang inspirasyon bilang isang palaisipan na hiwalay sa pagsamba at pag-uugali.",
+            "Isinalin ng WEB ang talata 16 ng \"hininga ng Diyos\" at itinala ang isang alternatibong konstruksyon sa talababa nito. Sinusundan ng araling ito ang pangunahing mga salita sa WEB at itinatala na mayroong desisyon sa pagsasalin. Ang inspirasyon ay tungkol sa kaugnayan ng Kasulatan sa Diyos; ang interpretasyon ay tungkol sa kung paano nauunawaan ng isang mambabasa ang nakasulat. Ang isang matibay na pag-aangkin tungkol sa inspirasyon ay hindi nagtatatag ng katumpakan ng bawat sermon, marginal note, o digital na buod."
+          ]
+        },
+        "scripture-section-2": {
+          "title": "Apat na layunin at isang buhay na resulta",
+          "paragraphs": [
+            "Ipinapabatid ng pagtuturo kung ano ang dapat matutunan ng komunidad. Ang pagsaway ay naglalantad ng pagkakamali; ang pagtutuwid ay nagtutulak sa isang mag-aaral tungo sa kung ano ang tama; ang pagsasanay sa katuwiran ay naglalarawan ng patuloy na paghubog. Binanggit ng talata 17 ang isang resulta: kahandaan para sa mabuting gawain. Sa isang grupo ng pag-aaral, tanungin kung ang isang talakayan ay nagsilbi sa mga layuning ito o nakabuo lamang ng isang argumento. Ang sipi ay nangangailangan ng isang malapit na ugnayan sa pagitan ng pag-aaral at pagsasagawa.",
+            "Ang mga banal na kasulatan na alam ni Timoteo noong bata pa siya ay kabilang sa mundo ng banal na kasulatan kung saan nagsasalita ang liham na ito. Ang dalawang talata mismo ay hindi nagbibigay ng talaan ng mga nilalaman para sa susunod na Kristiyanong Bibliya. Inilalarawan ng Canon ang koleksyon na natatanggap ng isang komunidad bilang Banal na Kasulatan. Ginagamit ng preview na ito ang na-update na WEB 66-book protocanon. Ang teknikal na pagpili na iyon ay hindi dapat magpahiwatig na ang mga canon ng Katoliko at Ortodokso ay magkapareho sa isang Protestanteng canon."
+          ]
+        },
+        "scripture-section-3": {
+          "title": "Awtoridad na may pananagutang interpretasyon",
+          "paragraphs": [
+            "Ang Baptist Faith and Message at Westminster Confession ay nagpapahayag ng mga Protestanteng salaysay tungkol sa awtoridad ng Banal na Kasulatan. Ito ay mga denominasyonal na saksi, hindi mga neutral na pamalit para sa sipi. Dapat matukoy ng mga mambabasa mula sa ibang mga tradisyon kung saan inilalarawan ang isang posisyon ng confession. Dapat suriin ng isang lokal na simbahan ang profile bago ituring ang aklat-aralin na ito bilang materyal sa pagtuturo nito.",
+            "Gumamit ng isang salin nang tapat. Ang mga panipi ay nagpapahiwatig ng eksaktong napiling teksto; ang isang paliwanag o pagpapasimple ay dapat lagyan ng label na ganito. Sumangguni sa buong talata kapag ang isang parirala ay tila nakakagulat at ihambing ang mga tala sa teksto sa halip na tahimik na i-edit ang mga ito. Ang digital na paghahanap ay nakakatulong para sa paghahanap ng mga sipi, ngunit ang resulta ng paghahanap ay isang entry sa pagbabasa, hindi ang pagkumpleto ng interpretasyon."
+          ]
+        },
+        "scripture-section-4": {
+          "title": "Isang sesyon ng pag-aaral na may kamalayan sa pinagmulan",
+          "paragraphs": [
+            "Para sa isang praktikal na pagsasanay, ilagay ang sipi mula sa mga talata 16–17 sa tabi ng paliwanag ng aralin. I-highlight ang eksaktong mga salita sa Bibliya sa isang kulay at ang mga konklusyong interpretative sa iba. Pagkatapos ay itanong kung aling mga konklusyon ang direktang sinusuportahan ng talata at alin ang nangangailangan ng karagdagang mga sipi. Pinoprotektahan ng pagsasanay na ito ang awtoridad ng Banal na Kasulatan sa pamamagitan ng pagtangging ilipat ito nang awtomatiko sa may-akda ng aralin. Ang isang digital na mapagkukunan ay dapat gawing mas madaling makita ang pagkakaibang iyon.",
+            "Susunod, suriin ang salaysay ng isang pahayag ng kumpisal tungkol sa Banal na Kasulatan. Itala ang komunidad at numero ng seksyon nito sa halip na ipakilala lamang ito bilang \"kung ano ang pinaniniwalaan ng mga Kristiyano.\" Ang mga dokumento ng Baptist at Westminster ay kapaki-pakinabang dahil ang kanilang pinagmulan ay makikilala at ang kanilang mga salita ay maaaring suriin. Kung ang isang mag-aaral ay kabilang sa ibang tradisyon, ang naaangkop na tugon ay hanapin ang opisyal na turo ng tradisyong iyon, hindi ipagpalagay na ang isang dokumentong Protestante ang nagsasalita para dito.",
+            "Sa wakas, pumili ng isa sa mga layunin ng sipi at ilarawan ang isang angkop na tugon. Ang pagwawasto ay maaaring may kinalaman sa pagbabago ng isang nakagawian; ang pagtuturo ay maaaring mangailangan ng karagdagang pag-aaral; ang kahandaan para sa mabuting gawain ay maaaring may kinalaman sa pagtulong sa isang kapitbahay. Ang aksyon ay dapat sumunod sa nilalaman ng sipi sa halip na ikabit bilang isang pangkalahatang moral sa dulo. Itago ang mga tala ng grupo upang marepaso ng isang pastor o editor ang ruta mula sa sipi patungo sa paliwanag at aplikasyon."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "bibliology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan iti Biblia",
+      "summary": "Ti Biblia ket basaen kas Nasantoan a Surat ti Kristiano a gimong. Adalen ti inspirasion, kanon, panagipatarus, ken konteksto. Saan nga usaren ti maysa a bersikulo a pammaneknek iti sasao a saan a saritaenna.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "scripture-section-1": {
+          "title": "Maysa a pastoral a kasasaad sakbay ti pormula ti doktrina",
+          "paragraphs": [
+            "Ti teksto ket agsao iti maysa nga agadal a nakasango iti panagsagaba ken makaiyaw-awan a panangisuro. Ti bilin daytoy maipapan iti Kasuratan ket nainaig iti panagibtur, pannakaisalakan babaen iti pammati ken Cristo, ken pannakasukog ti maysa a tao a nasanay para iti naimbag nga aramid. Ti panagbasa laeng iti bersikulo 16 ket mabalin a manglemmeng iti daytoy a panggep. Ti teksto ket saan nga iparangna ti inspirasion a kas maysa a narigat a parikut a naisina iti panagdayaw ken kababalin.",
+            "Ti WEB ket ipatarusna ti bersikulo 16 babaen iti “naangesan ti Dios” ken itala ti sabali a pannakabukel ti sasao iti talababa. Daytoy nga aralin ket surotenna ti kangrunaan a sasao ti WEB ken irekordna nga adda pangngeddeng iti panagipatarus. Ti inspirasion ket maipapan iti panagkayamet ti Kasuratan iti Dios; ti interpretasion ket maipapan iti panangawat ti bumasa iti naisurat. Ti napigsa a patigmaan maipapan iti inspirasion ket saan a mangipasingked iti kinaumno ti tunggal sermon, tala iti igid ti panid, wenno digital a pakabuklan."
+          ]
+        },
+        "scripture-section-2": {
+          "title": "Uppat a panggep ken nabiag a resulta",
+          "paragraphs": [
+            "Ti panangisuro ket mangidanon iti masapul nga adalen ti komunidad. Ti panangbabalaw ket mangiparang iti biddut; ti panangilinteg ket mangiturong iti agadal iti umno; ti panagsanay iti kinalinteg ket mangiladawan iti agtultuloy a pannakasukog. Ti bersikulo 17 ket mangibaga iti bunga: panagsagana para iti naimbag nga aramid. Iti bunggoy ti panagadal, saludsoden no ti tungtongan ket nakatulong kadagitoy a panggep wenno nangpataud laeng iti panagsusupiat. Ti teksto ket mangipakita iti asideg a panagkayamet ti panagadal ken panangaramid.",
+            "Dagiti nasantuan a sursurat nga ammo ni Timoteo manipud idi kinaubingna ket paset ti lubong ti Kasuratan a pagsasaoan daytoy a surat. Dagiti dua a bersikulo ket saanda a mangted a mismo iti listaan ti linaon ti naudi a Biblia dagiti Cristiano. Ti kanon ket mangiladawan iti naurnong a libro nga awaten ti komunidad a kas Kasuratan. Daytoy a pangpadas nga edision ket mangar-aramat iti napabaro a WEB 66-book protocanon. Dayta a teknikal a panagpili ket saan a masapul a mangipapan a ti Katoliko ken Ortodokso a kanon ket agpada iti kanon a Protestante."
+          ]
+        },
+        "scripture-section-3": {
+          "title": "Turay a kadua ti panangipatarus nga adda pagsungbatanna",
+          "paragraphs": [
+            "Ti Baptist Faith and Message ken Westminster Confession ket mangilawlawag kadagiti pannakaawat a Protestante iti awtoridad ti Kasuratan. Pammaneknek dagitoy dagiti denominasion, saan a neutral a kasukat ti teksto. Masapul a mailasin dagiti bumasa manipud iti sabali a tradision no sadino a mailadladawan ti maysa a posision iti panangipudno ti pammati. Masapul a repasuen ti lokal nga iglesia ti naipahayag a pagbatayan sakbay nga aramatenna daytoy a pagadalan a kas bukodna a materyal iti panangisuro.",
+            "Usaren a sipupudno ti pannakaipatarus. Dagiti panipi ket mangilasin iti eksakto a napili a teksto; rumbeng a namarkaan a kasta ti pannakailawlawag wenno pannakapasimple. Kitaen ti intero a parapo no makapaklaat ti pangungusap ken idilig dagiti nota ti teksto imbes a sililimed nga ikkaten ida. Makatulong ti digital a panagbirok iti panangsarak kadagiti teksto, ngem ti resulta ti panagbirok ket rugi ti panagbasa, saan a patingga ti panangipatarus."
+          ]
+        },
+        "scripture-section-4": {
+          "title": "Maysa a panagadal a naannad iti paggapuan",
+          "paragraphs": [
+            "Para iti praktikal nga aramid, ikabil ti naadaw iti bersikulo 16–17 iti abay ti pannakailawlawag ti adal. Markaan ti mismo a sasao ti Biblia iti maysa a kolor ken dagiti naadaw a panangipatarus iti sabali. Saludsoden no ania kadagiti pangngeddeng ti direkta a suportaran ti parapo ken ania ti agkasapulan iti dadduma a teksto. Salakniban daytoy nga aramid ti turay ti Kasuratan babaen iti panangtukiad nga awtomatiko nga iyakar dayta iti nagsurat ti adal. Rumbeng a ti digital a pagadalan ket mangpalaka iti pannakakita iti daytoy a nagdumaan.",
+            "Sumaruno a sukimaten ti panangilawlawag ti maysa a pahayag ti pammati maipapan iti Kasuratan. Isurat ti komunidadna ken numero ti seksion imbes nga iparang laeng a kas “ti patien dagiti Kristiano.” Makatulong dagiti dokumento ti Baptist ken Westminster ta mabalin a mailasin ti nagtaudanda ken masuri dagiti sasao a linaonda. No kabilang ti agadal iti sabali a tradision, ti maitutop a sungbat ket ti panangsapul iti opisial a panangisuro dayta a tradision, saan a ti panangipagarup a maysa a dokumento ti Protestante ti mangibagi iti dayta.",
+            "Iti kamaudiananna, pilien ti maysa kadagiti panggep ti teksto ket iladawan ti maitutop a sungbat. Ti panangilinteg ket mabalin a mangiraman iti panangbalbaliw iti ugali; ti panangisuro ket mabalin nga agkasapulan iti ad-adu a panagadal; ti panagsagana para iti naimbag nga aramid ket mabalin a mangiraman iti panangtulong iti kaarruba. Ti aramid ket rumbeng a sumurot iti linaon ti teksto imbes a mainayon laeng a gagangay a moral iti patinggana. Salimetmetan dagiti nota ti grupo tapno marepaso ti pastor wenno editor ti dalan manipud iti naadaw a sasao, agingga iti pannakailawlawag ken panangyaplikar."
+          ]
+        }
+      }
+    }
+  }
+}

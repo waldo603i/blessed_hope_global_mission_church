@@ -1,0 +1,354 @@
+{
+  "chapter": {
+    "id": "christology",
+    "slug": "christology",
+    "order": 3,
+    "title": "The Doctrine of Jesus Christ",
+    "doctrine": "Christology",
+    "summary": "John 6 moves from a shared meal to a demanding conversation about Jesus’ identity, faith, flesh, and life. Read the discourse as a whole and identify sacramental differences fairly.",
+    "question": "What does the crowd seek, and how does Jesus redirect its question?",
+    "scriptureReferences": [
+      {
+        "reference": "John 6:35",
+        "url": "https://ebible.org/engwebp/JHN06.htm#V35",
+        "context": "Read John 6:1–71. The discourse follows the feeding of the crowd near Passover, the crossing of the sea, and the crowd’s search for Jesus. The discussion later occurs in the synagogue at Capernaum."
+      },
+      {
+        "reference": "John 6:51–58",
+        "url": "https://ebible.org/engwebp/JHN06.htm#V51",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "James 2:14–17",
+        "url": "https://ebible.org/engwebp/JAS02.htm#V14",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Trace the movement from the feeding sign to the discourse.",
+      "Explain the connection between coming, believing, and receiving life.",
+      "Distinguish a textual observation from a sacramental interpretation."
+    ],
+    "sections": [
+      {
+        "id": "bread-of-life-section-1",
+        "title": "Read the meal and the discourse together",
+        "paragraphs": [
+          "John locates the feeding near Passover and portrays Jesus giving thanks before the food is distributed. The crowd recognizes a sign but then seeks to make Jesus king by force. Jesus withdraws. The narrative therefore already distinguishes receiving bread from understanding the giver. It does not portray every response to an impressive event as faithful recognition.",
+          "The next day the crowd searches for Jesus. He tells them that their search is connected to having eaten and been filled, then redirects attention toward food that remains to eternal life. This is not contempt for hungry people: the narrative has just described their feeding. The movement is from the gift toward the identity and mission of the giver. A lesson should preserve both the concrete meal and the theological discourse."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "john6",
+          "john6"
+        ]
+      },
+      {
+        "id": "bread-of-life-section-2",
+        "title": "The manna question and the invitation to believe",
+        "paragraphs": [
+          "The conversation invokes bread from heaven and the ancestors’ experience of manna. Jesus shifts attention from Moses to the Father as giver and from past food to the true bread giving life to the world. This comparison belongs to Israel’s scriptural story; it should not be treated as though Jesus were inventing an isolated spiritual metaphor without a literary history.",
+          "Verse 35 joins coming to Jesus with believing in him. In this setting “bread of life” identifies Jesus as the one through whom life is received. The promise is not a guarantee that a Christian body will never need food or water. Reading literal biological immunity into the sentence would ignore the discourse’s way of speaking about eternal life and resurrection."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "john6",
+          "john6"
+        ]
+      },
+      {
+        "id": "bread-of-life-section-3",
+        "title": "The gift of flesh and the difficulty of the saying",
+        "paragraphs": [
+          "The later discourse speaks of Jesus giving his flesh for the life of the world and of eating his flesh and drinking his blood. The language provokes dispute and leads some disciples to call the teaching hard. Its difficulty is part of the narrative, not a problem a teacher should erase by selecting only the most familiar sentence.",
+          "Verse 63 says the Spirit gives life and that Jesus’ words are spirit and life. Different traditions understand how this statement relates to the preceding flesh-and-blood language. The text must be read as a sequence, without using one line to dismiss the rest. A group can identify the verbal links before deciding how a confessional interpretation explains them."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "john6",
+          "john6"
+        ]
+      },
+      {
+        "id": "bread-of-life-section-4",
+        "title": "Sacramental readings must be named",
+        "paragraphs": [
+          "Catholic teaching on Christian initiation describes the Eucharist as nourishment with Christ’s Body and Blood. The Baptist Faith and Message VII describes the Lord’s Supper with symbolic and memorial language. These are examples of identified confessional positions, not a complete survey of every Catholic, Orthodox, Lutheran, Reformed, Anglican, Baptist, or other Christian account.",
+          "This preview does not rule that all readers must understand every verse of John 6 as an exclusive reference to the Eucharist, nor does it rule out sacramental meaning. It records the passage and a genuine interpretive difference. A church adopting the lesson should supply its received teaching and review the terminology before using it for sacramental preparation."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "john6",
+          "ccc-initiation",
+          "bfm",
+          "john6",
+          "ccc-initiation",
+          "bfm"
+        ]
+      },
+      {
+        "id": "bread-of-life-section-5",
+        "title": "Receive the person, not a technique",
+        "paragraphs": [
+          "At the end of the chapter, many disciples withdraw and Jesus questions the twelve. Peter responds by appealing to the words of eternal life. The narrative ends with trust and a warning concerning betrayal, so it cannot be reduced to a promise of an uncomplicated religious experience. The title “Bread of Life” directs attention to Jesus’ identity and words.",
+          "A pastoral application is to ask what one seeks from Jesus: merely a solution to a pressing problem, or a life shaped by receiving his teaching. That question should not belittle material need. A community can study the discourse while sharing actual bread with a neighbor. The meal and the discourse make it especially inappropriate to use spiritual language as an excuse for practical indifference."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "john6",
+          "james",
+          "john6",
+          "james"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Christology",
+        "fil": "Ang Doktrina Tungkol kay Jesu-Cristo",
+        "ilo": "Ti Doktrina Maipapan ken Jesu-Cristo",
+        "definition": "The field of study introduced in The Doctrine of Jesus Christ.",
+        "reference": "John 6:35",
+        "note": "Editorial study term; equivalents require qualified language review."
+      },
+      {
+        "en": "Incarnation",
+        "fil": "Pagkakatawang-tao",
+        "ilo": "Panagbalin a tao",
+        "definition": "The Christian confession of the Word becoming flesh, read in John’s prologue rather than as an illustration of a created Son.",
+        "reference": "John 1:1–18",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "Christians differ over the Eucharistic significance of John 6 and the manner of Christ’s presence in communion. Catholic and Baptist sources illustrate distinct views without exhausting the range of traditions.",
+    "application": [
+      "Read the full discourse before using verse 35 devotionally.",
+      "Pair study with a concrete act of care for someone lacking food.",
+      "Use your church’s reviewed sacramental terminology in teaching."
+    ],
+    "reflection": [
+      "What do I seek when I come to Jesus?",
+      "Which difficult part of the discourse do I tend to skip?",
+      "How does the feeding sign prepare the conversation?",
+      "Where can different traditions agree on textual observations before debating interpretation?",
+      "How can spiritual language and material care remain connected?"
+    ],
+    "quiz": [
+      {
+        "question": "What event precedes the discourse?",
+        "options": [
+          "The feeding of a crowd",
+          "The building of a temple",
+          "An ascension in Jerusalem"
+        ],
+        "answer": 0,
+        "explanation": "John 6 begins with the feeding sign and then follows the crowd’s search for Jesus."
+      },
+      {
+        "question": "Which interpretation is inappropriate?",
+        "options": [
+          "The discourse connects believing with life",
+          "Verse 35 guarantees that believers never need physical food",
+          "The chapter includes difficult language about flesh and blood"
+        ],
+        "answer": 1,
+        "explanation": "The discourse concerns Jesus as giver of eternal life; it does not promise biological immunity to hunger."
+      },
+      {
+        "question": "How should sacramental differences be presented?",
+        "options": [
+          "As though every church has the same account",
+          "With named traditions, sources, and review",
+          "By removing the difficult verses"
+        ],
+        "answer": 1,
+        "explanation": "The preview identifies differences and asks a local church to confirm its received teaching."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Trace the movement from the feeding sign to the discourse.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to John 6:35, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Explain the connection between coming, believing, and receiving life.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to John 6:35, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "Follow John’s narrative",
+      "steps": [
+        "A meal shared",
+        "The giver sought",
+        "The bread of life revealed",
+        "A response of faith"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/christology.webp",
+      "thumbnail": "/illustrations/christology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of Jesus Christ; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "john6",
+        "title": "World English Bible (Updated): John 6:1–71",
+        "institution": "eBible / World English Bible",
+        "section": "John 6:1–71",
+        "url": "https://ebible.org/engwebp/JHN06.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "james",
+        "title": "World English Bible (Updated): James 2:14–17",
+        "institution": "eBible / World English Bible",
+        "section": "James 2:14–17",
+        "url": "https://ebible.org/engwebp/JAS02.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "ccc-initiation",
+        "title": "Catechism of the Catholic Church: Christian Initiation",
+        "institution": "www.vatican.va",
+        "section": "1275–1284, especially 1275",
+        "url": "https://www.vatican.va/archive/ENG0015/__P3O.HTM",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "bfm",
+        "title": "Southern Baptist Convention: Baptist Faith and Message 2000",
+        "institution": "bfm.sbc.net",
+        "section": "Articles I–VII and X",
+        "url": "https://bfm.sbc.net/bfm2000/",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Structured study draft adapted from an existing lesson; broader topic expansion remains under review."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "christology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol kay Jesu-Cristo",
+      "summary": "Nakatuon ang Kristolohiya sa pagkatao at gawain ni Jesu-Cristo. Inilalarawan ng Juan 1 ang Salita na naging tao. Pag-aralan ang kanyang ministeryo, kamatayan, muling pagkabuhay, at ang makasaysayang pagpapahayag ng kanyang pagka-Diyos at pagkatao.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "bread-of-life-section-1": {
+          "title": "Basahin ang pagkain at ang diskurso nang magkasama",
+          "paragraphs": [
+            "Inilagay ni Juan ang pagpapakain malapit sa Paskuwa at inilalarawan si Hesus na nagpapasalamat bago ipinamahagi ang pagkain. Nakilala ng karamihan ang isang tanda ngunit pagkatapos ay hinangad nilang gawing hari si Hesus sa pamamagitan ng puwersa. Umalis si Hesus. Samakatuwid, pinag-iiba na ng salaysay ang pagtanggap ng tinapay mula sa pag-unawa sa nagbibigay. Hindi nito inilalarawan ang bawat tugon sa isang kahanga-hangang pangyayari bilang tapat na pagkilala.",
+            "Kinabukasan, hinanap ng karamihan si Hesus. Sinabi niya sa kanila na ang kanilang paghahanap ay konektado sa pagkain at pagkabusog, pagkatapos ay ibinaling ang atensyon sa pagkaing nananatili tungo sa buhay na walang hanggan. Hindi ito paghamak sa mga taong nagugutom: inilarawan lamang ng salaysay ang kanilang pagpapakain. Ang paggalaw ay mula sa kaloob patungo sa pagkakakilanlan at misyon ng nagbibigay. Dapat mapanatili ng isang aral ang parehong konkretong pagkain at ang diskursong teolohikal."
+          ]
+        },
+        "bread-of-life-section-2": {
+          "title": "Ang tanong tungkol sa manna at ang imbitasyon na maniwala",
+          "paragraphs": [
+            "Tinatawag ng pag-uusap ang tinapay mula sa langit at ang karanasan ng mga ninuno sa manna. Inilipat ni Hesus ang atensyon mula kay Moises patungo sa Ama bilang tagapagbigay at mula sa nakaraang pagkain patungo sa tunay na tinapay na nagbibigay-buhay sa mundo. Ang paghahambing na ito ay kabilang sa kuwento ng Israel sa banal na kasulatan; hindi ito dapat ituring na parang si Hesus ay nag-iimbento ng isang nakahiwalay na espirituwal na metapora nang walang kasaysayang pampanitikan.",
+            "Pinagsasama ng talata 35 ang paglapit kay Hesus sa paniniwala sa kanya. Sa ganitong konteksto, kinikilala ng \"tinapay ng buhay\" si Hesus bilang ang siyang tinatanggap na buhay. Ang pangako ay hindi isang garantiya na ang isang Kristiyanong katawan ay hindi kailanman mangangailangan ng pagkain o tubig. Ang pagbasa ng literal na biyolohikal na kaligtasan sa sakit sa pangungusap ay magwawalang-bahala sa paraan ng pagsasalita ng diskurso tungkol sa buhay na walang hanggan at muling pagkabuhay."
+          ]
+        },
+        "bread-of-life-section-3": {
+          "title": "Ang kaloob na laman at ang kahirapan ng kasabihan",
+          "paragraphs": [
+            "Ang huling diskurso ay nagsasalita tungkol sa pagbibigay ni Hesus ng kanyang laman para sa buhay ng sanlibutan at ng pagkain ng kanyang laman at pag-inom ng kanyang dugo. Ang wika ay pumupukaw ng pagtatalo at humantong sa ilang mga disipulo na tawaging mahirap ang turo. Ang kahirapan nito ay bahagi ng salaysay, hindi isang problemang dapat burahin ng isang guro sa pamamagitan lamang ng pagpili ng pinakapamilyar na pangungusap.",
+            "Sinasabi sa talata 63 na ang Espiritu ang nagbibigay-buhay at ang mga salita ni Hesus ay espiritu at buhay. Nauunawaan ng iba't ibang tradisyon kung paano nauugnay ang pahayag na ito sa naunang wika ng laman at dugo. Ang teksto ay dapat basahin bilang isang pagkakasunod-sunod, nang hindi gumagamit ng isang linya upang balewalain ang iba. Maaaring matukoy ng isang grupo ang mga berbal na kawing bago magpasya kung paano ito ipapaliwanag ng isang interpretasyon ng kumpisal."
+          ]
+        },
+        "bread-of-life-section-4": {
+          "title": "Dapat pangalanan ang mga pagbasa sa sakramento",
+          "paragraphs": [
+            "Inilalarawan ng katuruang Katoliko tungkol sa Kristiyanong inisyatiba ang Eukaristiya bilang pagpapakain gamit ang Katawan at Dugo ni Kristo. Inilalarawan ng Pananampalataya at Mensahe ng Baptist VII ang Hapunan ng Panginoon gamit ang simboliko at pang-alaalang wika. Ito ay mga halimbawa ng mga natukoy na posisyon sa kumpisal, hindi isang kumpletong pagsusuri ng bawat Katoliko, Ortodokso, Lutheran, Repormado, Anglikano, Baptist, o iba pang Kristiyanong salaysay.",
+            "Ang preview na ito ay hindi nagsasaad na dapat maunawaan ng lahat ng mambabasa ang bawat talata ng Juan 6 bilang isang eksklusibong pagtukoy sa Eukaristiya, ni hindi nito isinasantabi ang kahulugan ng sakramento. Itinatala nito ang sipi at isang tunay na pagkakaiba sa interpretasyon. Ang isang simbahang tumatanggap sa aralin ay dapat magbigay ng natanggap nitong turo at suriin ang terminolohiya bago ito gamitin para sa paghahanda ng sakramento."
+          ]
+        },
+        "bread-of-life-section-5": {
+          "title": "Tanggapin ang tao, hindi ang isang pamamaraan",
+          "paragraphs": [
+            "Sa pagtatapos ng kabanata, maraming disipulo ang umalis at tinanong ni Hesus ang labindalawa. Tumugon si Pedro sa pamamagitan ng paghingi ng tulong sa mga salita ng buhay na walang hanggan. Nagtatapos ang salaysay sa pagtitiwala at isang babala tungkol sa pagtataksil, kaya hindi ito maaaring mabawasan sa isang pangako ng isang hindi komplikadong karanasan sa relihiyon. Ang pamagat na \"Tinapay ng Buhay\" ay nagbibigay-pansin sa pagkakakilanlan at mga salita ni Hesus.",
+            "Ang isang pastoral na aplikasyon ay ang pagtatanong kung ano ang hinahanap ng isang tao kay Hesus: isang solusyon lamang sa isang apurahang problema, o isang buhay na hinubog ng pagtanggap ng kanyang mga turo. Ang tanong na iyon ay hindi dapat maliitin ang materyal na pangangailangan. Maaaring pag-aralan ng isang komunidad ang diskurso habang nagbabahagi ng aktwal na tinapay sa isang kapitbahay. Ang pagkain at ang diskurso ay lalong nagpapahirap sa paggamit ng espirituwal na wika bilang dahilan para sa praktikal na kawalang-bahala."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "christology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan ken Jesu-Cristo",
+      "summary": "Ti Kristolohia ket agsentro iti kinasiasino ken aramid ni Jesu-Cristo. Ti Juan 1 saritaenna ti Sao a nagbalin a tao. Adalen ti ministeriona, ipapatayna, panagungarna, ken ti naistorian a panangipudno iti kinadios ken kinataona.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "bread-of-life-section-1": {
+          "title": "Basaen a sangsangkamaysa ti panangan ken ti panagsasarita",
+          "paragraphs": [
+            "Ikabil ni Juan ti panangpakan iti asideg ti Paskua ken iladawanna ni Jesus nga agyaman sakbay a maibunong ti makan. Nailasin ti umariwekwek ti maysa a pagilasinan, ngem kalpasanna kayatda a piliten ni Jesus nga agbalin nga ari. Pumanaw ni Jesus. Gapuna, nailasinen ti salaysay ti panangawat iti tinapay manipud iti pannakaawat iti mangted. Saan nga iparang daytoy ti tunggal sungbat iti makapasiddaaw a pasamak a kas matalek a pannakailasin.",
+            "Iti sumaganad nga aldaw, sapulen dagiti umariwekwek a tattao ni Jesus. Ibagana kadakuada a ti panagsapulda ket nainaig iti pannanganda ken pannakabsogda, sa iyalisna ti atension iti taraon nga agtalinaed agingga iti agnanayon a biag. Saan daytoy a pananglais kadagiti mabisin a tattao: kas palpas laeng ti salaysay a mangiladawan iti pannakapakanda. Ti panagtignay ket manipud iti sagut agturong iti kinasiasino ken misyon ti mangted. Masapul a pagtalinaeden ti aralin ti pudno a makan ken ti teolohiko a diskurso."
+          ]
+        },
+        "bread-of-life-section-2": {
+          "title": "Ti saludsod maipapan iti manna ken ti awis nga agpammati",
+          "paragraphs": [
+            "Ti tungtongan ket mangipalagip iti tinapay manipud langit ken kapadasan dagiti kapuonan iti manna. Ni Jesus ket iyalisna ti atension manipud ken Moises iti Ama a kas mangted ken manipud iti napalabas a taraon iti pudno a tinapay a mangted iti biag iti lubong. Daytoy a panangidilig ket paset ti salaysay ti Israel iti Kasuratan; saan a masapul a trataren daytoy a kasla ni Jesus ket mangpartuat iti naisina nga espirituan a pangngarig nga awan pakasaritaan iti literatura.",
+            "Ti bersikulo 35 ket pagtiponenna ti iyaay ken Jesus ken ti panamati kenkuana. Iti daytoy a konteksto, ti “tinapay ti biag” ket ilasinna ni Jesus kas pagtaudan ti biag a maawat. Ti kari ket saan a garantiya a ti bagi ti Cristiano ket saan a pulos nga agkasapulan iti makan wenno danum. Ti panangibasa iti literal a pisikal a salaknib iti dayta a pangungusap ket mangbaybay-a iti wagas ti panagsasarita maipapan iti agnanayon a biag ken panagungar."
+          ]
+        },
+        "bread-of-life-section-3": {
+          "title": "Ti sagut a lasag ken ti rigat ti sasao",
+          "paragraphs": [
+            "Ti sumaruno a diskurso ket saritaenna ti panangited ni Jesus iti lasagna para iti biag ti lubong ken ti pannangan iti lasagna ken panaginum iti darana. Ti sasao ket mangrugi iti panagsusupiat ken mangiturong iti sumagmamano nga adalan a mangawag iti panangisuro a narigat. Ti rigatna ket paset ti salaysay, saan a parikut a masapul a punasen ti manursuro babaen iti panangpili laeng iti kalatakan a sasao.",
+            "Ibaga ti bersikulo 63 a ti Espiritu ti mangted iti biag ken dagiti sasao ni Jesus ket espiritu ken biag. Agduduma dagiti tradision iti pannakaawatda no kasano a daytoy a pahayag ket naisilpu iti nauna a pagsasao ti lasag ken dara. Masapul a basaen ti teksto a nainurnos, a saan nga usaren ti maysa a linia a mangilaksid iti nabati. Mabalin nga ilasin ti grupo dagiti pannakaisilpu ti sasao sakbay nga ikeddeng no kasano nga ilawlawag dagita ti panangipatarus ti tradision."
+          ]
+        },
+        "bread-of-life-section-4": {
+          "title": "Masapul a mailasin dagiti sakramental a panagbasa",
+          "paragraphs": [
+            "Ti panangisuro a Catolico maipapan iti pannakairugi iti Cristiano a biag ket mangiladawan iti Eukaristia a kas taraon babaen iti Bagi ken Dara ni Cristo. Ti Baptist Faith and Message VII ket mangiladawan iti Pangrabii ti Apo babaen iti sasao a simboliko ken panglaglagip. Dagitoy ket pagwadan dagiti nailasin a takder ti panagpudno, saan a kompleto a panangsukisok iti tunggal pannakailawlawag a Catolico, Ortodoxo, Luterano, Reformed, Anglicano, Baptista, wenno sabali a Cristiano.",
+            "Saan nga ikeddeng daytoy a pagipadas a ti amin a bumasa ket masapul nga awatenda ti tunggal bersikulo ti Juan 6 kas eksklusibo a panangibaga iti Eukaristia, wenno ilaksidna ti sakramental a kaipapanan. Ilanadna ti teksto ken ti pudno a panagduduma ti panangipatarus. Ti iglesia nga umawat iti adal ket rumbeng nga itedna ti naawat a panursurona ken repasuenna dagiti balikas sakbay nga usaren iti panagsagana para iti sakramento."
+          ]
+        },
+        "bread-of-life-section-5": {
+          "title": "Awaten ti persona, saan laeng a pamuspusan",
+          "paragraphs": [
+            "Iti pagpatinggaan ti kapitulo, adu nga adalan ti pimmanaw ket sinaludsod ni Jesus dagiti sangapulo ket dua. Simmungbat ni Pedro babaen iti panagtalekna kadagiti sasao ti biag nga agnanayon. Agpatingga ti salaysay iti panagtalek ken maysa a ballaag maipapan iti panangliput, isu a saan a maipabassit daytoy iti kari ti awan pakarigatanna a narelihionan a kapadasan. Ti titulo a “Tinapay ti Biag” ket mangiturong iti panangikankano iti kinasiasino ken sasao ni Jesus.",
+            "Maysa a pastoral a panangyaplikar ti panangsaludsod no ania ti sapsapulen ti tao ken Jesus: solusion laeng iti maysa a naganat a parikut, wenno biag a maporma babaen iti panangawat iti panangisurona. Saan koma nga ibabain dayta a saludsod ti material a kasapulan. Mabalin nga adalen ti komunidad ti pannakaisao bayat a mangibingay iti pudno a tinapay iti kaarruba. Gapu iti taraon ken iti pannakaisao, nangruna a saan a maitutop ti panangusar iti naespirituan a sasao a kas pambar ti panangliway iti praktikal a tulong."
+          ]
+        }
+      }
+    }
+  }
+}

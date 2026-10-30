@@ -1,0 +1,370 @@
+{
+  "chapter": {
+    "id": "ecclesiology",
+    "slug": "ecclesiology",
+    "order": 9,
+    "title": "The Doctrine of the Church",
+    "doctrine": "Ecclesiology",
+    "summary": "Acts 2 portrays a community formed around apostolic teaching and shared life. The narrative offers a rich starting point while leaving later questions of polity and sacramental practice for identified traditions.",
+    "question": "What makes the community recognizable in this paragraph?",
+    "scriptureReferences": [
+      {
+        "reference": "Acts 2:42",
+        "url": "https://ebible.org/engwebp/ACT02.htm#V42",
+        "context": "Read Acts 2:37–47 after the Pentecost sermon. Those receiving the message are baptized, and the narrative describes their practices and material care."
+      },
+      {
+        "reference": "1 Corinthians 12:12–26",
+        "url": "https://ebible.org/engwebp/1CO12.htm#V12",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Ephesians 2:19–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm#V19",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Identify the practices named in Acts 2:42–47.",
+      "Connect belonging with material care and mutual dependence.",
+      "Distinguish narrative description from a complete church constitution."
+    ],
+    "sections": [
+      {
+        "id": "church-section-1",
+        "title": "A community formed by a message",
+        "paragraphs": [
+          "Acts 2 places the shared life of the community after Peter’s proclamation concerning Jesus, resurrection, repentance, and baptism. The practices in verse 42 do not appear as a generic strategy for building an appealing club. They belong to a people responding to the message that Luke’s narrative has just reported.",
+          "The paragraph names apostolic teaching, fellowship, breaking bread, and prayer. It then describes shared possessions and distribution according to need. Reading to the end prevents “fellowship” from becoming only a pleasant meeting. Material care is visible within the picture of communal life."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "acts",
+          "acts"
+        ]
+      },
+      {
+        "id": "church-section-2",
+        "title": "Belonging and mutual dependence",
+        "paragraphs": [
+          "First Corinthians 12 offers a companion image: a body with many members. The metaphor rules out the idea that one visible member can dismiss the rest as unnecessary. It does not require everyone to perform the same role. Belonging includes both contributing and receiving, so needing help is not evidence of having no place.",
+          "Ephesians 2 adds images of citizenship, household, and a building with Christ as cornerstone. These images help a beginner see why ecclesiology concerns a people rather than merely an institution or building. Each image has its own setting and limits; no single one supplies every detail of organization."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "corinthians",
+          "ephesians",
+          "corinthians",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "church-section-3",
+        "title": "Description, pattern, and church decisions",
+        "paragraphs": [
+          "Acts is a narrative. Its account can shape reflection without being treated as a complete legal code prescribing every detail in every place. Readers should distinguish a description of what happened, an enduring principle inferred from it, and a practical decision for a present congregation. Those are related but separate steps.",
+          "The Baptist Faith and Message VI–VII describes Baptist congregational life and ordinances; Westminster XXV and XXVIII provides a Reformed confessional account. The Catholic Catechism’s account of initiation describes a different sacramental framework. Baptism, communion, ordination, and oversight therefore require explicit local doctrinal review. This preview offers a shared study text while identifying that such decisions remain."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "acts",
+          "bfm",
+          "wcf",
+          "ccc-initiation",
+          "acts",
+          "bfm",
+          "wcf",
+          "ccc-initiation"
+        ]
+      },
+      {
+        "id": "church-section-4",
+        "title": "A community that can be inspected",
+        "paragraphs": [
+          "A church can ask concrete questions of this portrait: Is teaching understandable? Are prayer and shared meals accessible? Does someone’s need become visible without humiliating them? Are resources distributed fairly? These are applications for discernment rather than a claim that a numerical score can determine whether a congregation is the church.",
+          "Choose one improvement small enough to complete: arrange a meal for someone recovering, make a study resource accessible, or establish a clear way to request help. A study of ecclesiology becomes more credible when the vocabulary of body and household is accompanied by actual practices of welcome, care, and accountability."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "acts",
+          "corinthians",
+          "ephesians",
+          "acts",
+          "corinthians",
+          "ephesians"
+        ]
+      },
+      {
+        "id": "church-section-5",
+        "title": "Shared life with accountable practice",
+        "paragraphs": [
+          "The description of distribution according to need invites attention to how need is recognized. People do not always ask for assistance publicly, and a community may need a respectful process for receiving requests. The passage does not prescribe a modern administrative system; the principle must be worked out through wise, transparent, and appropriate practice.",
+          "Similarly, the body metaphor should not become a way to pressure exhausted people into constant unpaid labor. Mutual care includes receiving support and recognizing limits. A ministry plan can be reviewed by asking whether it protects participation, shares burdens, and gives less visible members a voice. These are contemporary applications offered for discussion and pastoral judgment. They should be evaluated with the people affected rather than presented as a complete blueprint dictated by one verse. Keep a record of the decision and invite review when its effect differs from what the group intended."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "acts",
+          "corinthians",
+          "acts",
+          "corinthians"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Ecclesiology",
+        "fil": "Ang Doktrina Tungkol sa Iglesya",
+        "ilo": "Ti Doktrina Maipapan iti Iglesia",
+        "definition": "The field of study introduced in The Doctrine of the Church.",
+        "reference": "Acts 2:42",
+        "note": "Editorial study term; equivalents require qualified language review."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "Baptism’s recipients and efficacy, communion, apostolic succession, ordination, and forms of governance differ among traditions. Local choices remain unconfirmed.",
+    "application": [
+      "Connect a study gathering to a concrete practice of care.",
+      "Check whether people can request help without shame or unnecessary disclosure."
+    ],
+    "reflection": [
+      "What do I receive from the body as well as contribute?",
+      "Whose need may be difficult to see in our community?",
+      "Which practices are explicitly named in Acts 2?",
+      "How can a church move from a biblical principle to a practical policy transparently?"
+    ],
+    "quiz": [
+      {
+        "question": "Which practice appears in Acts 2:42?",
+        "options": [
+          "A complete modern constitution",
+          "The apostles’ teaching",
+          "Uniform gifts for everyone"
+        ],
+        "answer": 1,
+        "explanation": "Acts names teaching, fellowship, breaking bread, and prayer, then describes material care."
+      },
+      {
+        "question": "What does the body metaphor resist?",
+        "options": [
+          "Mutual dependence",
+          "Dismissing another member as unnecessary",
+          "Different forms of service"
+        ],
+        "answer": 1,
+        "explanation": "The body needs its members, including those considered weaker."
+      },
+      {
+        "question": "Study check 3: which action best supports the objective “Distinguish narrative description from a complete church constitution.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Acts 2:42, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Identify the practices named in Acts 2:42–47.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Acts 2:42, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Connect belonging with material care and mutual dependence.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Acts 2:42, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "A shared life in Acts 2",
+      "steps": [
+        "Teaching",
+        "Fellowship",
+        "Bread and prayer",
+        "Care according to need"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/ecclesiology.webp",
+      "thumbnail": "/illustrations/ecclesiology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of the Church; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "acts",
+        "title": "World English Bible (Updated): Acts 2:22–47",
+        "institution": "eBible / World English Bible",
+        "section": "Acts 2:22–47",
+        "url": "https://ebible.org/engwebp/ACT02.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "corinthians",
+        "title": "World English Bible (Updated): 1 Corinthians 12:12–26",
+        "institution": "eBible / World English Bible",
+        "section": "1 Corinthians 12:12–26",
+        "url": "https://ebible.org/engwebp/1CO12.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "ephesians",
+        "title": "World English Bible (Updated): Ephesians 2:19–22",
+        "institution": "eBible / World English Bible",
+        "section": "Ephesians 2:19–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "bfm",
+        "title": "Southern Baptist Convention: Baptist Faith and Message 2000",
+        "institution": "bfm.sbc.net",
+        "section": "Articles I–VII and X",
+        "url": "https://bfm.sbc.net/bfm2000/",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "wcf",
+        "title": "Westminster Confession of Faith, Orthodox Presbyterian Church edition",
+        "institution": "www.opc.org",
+        "section": "Chapters I–III, VI, XI, XXV, XXVIII, XXXII–XXXIII",
+        "url": "https://www.opc.org/wcf.html",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "ccc-initiation",
+        "title": "Catechism: Christian Initiation",
+        "institution": "www.vatican.va",
+        "section": "1275–1284",
+        "url": "https://www.vatican.va/archive/ENG0015/__P3O.HTM",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Structured study draft adapted from an existing lesson; broader topic expansion remains under review."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "ecclesiology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol sa Iglesya",
+      "summary": "Ang Iglesya ay bayan na tinawag upang sumunod kay Cristo. Binibigyang-diin ng Gawa 2 ang pagtuturo, pagsasama, paghahati ng tinapay, at panalangin. May makabuluhang pagkakaiba ang mga tradisyon sa pamumuno, bautismo, at komunyon.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "church-section-1": {
+          "title": "Isang komunidad na nabuo sa pamamagitan ng isang mensahe",
+          "paragraphs": [
+            "Inilalagay sa Mga Gawa 2 ang ibinahaging buhay ng komunidad pagkatapos ng pagpapahayag ni Pedro tungkol kay Hesus, muling pagkabuhay, pagsisisi, at binyag. Ang mga gawi sa talata 42 ay hindi lumilitaw bilang isang pangkalahatang estratehiya para sa pagbuo ng isang kaakit-akit na samahan. Ang mga ito ay kabilang sa isang bayang tumutugon sa mensaheng iniulat lamang sa salaysay ni Lucas.",
+            "Binanggit ng talata ang mga turo ng apostol, pakikisama, paghati-hati ng tinapay, at panalangin. Pagkatapos ay inilalarawan nito ang mga pinagsasaluhang ari-arian at pamamahagi ayon sa pangangailangan. Pinipigilan ng pagbabasa hanggang dulo ang \"pakikisama\" na maging isang kaaya-ayang pagpupulong lamang. Ang pangangalaga sa materyal ay makikita sa larawan ng buhay pangkomunidad."
+          ]
+        },
+        "church-section-2": {
+          "title": "Pagiging kabilang at pag-asa sa isa't isa",
+          "paragraphs": [
+            "Ang Unang Corinto 12 ay nag-aalok ng isang kasamang imahe: isang katawan na may maraming miyembro. Inaalis ng metapora ang ideya na ang isang nakikitang miyembro ay maaaring balewalain ang iba bilang hindi kinakailangan. Hindi nito hinihiling sa lahat na gampanan ang parehong papel. Kasama sa pagiging kabilang ang parehong pag-aambag at pagtanggap, kaya ang pangangailangan ng tulong ay hindi ebidensya ng kawalan ng lugar.",
+            "Nagdaragdag ang Mga Taga-Efeso 2 ng mga larawan ng pagkamamamayan, sambahayan, at isang gusali kung saan si Kristo ang batong panulok. Ang mga larawang ito ay tumutulong sa isang baguhan na makita kung bakit ang eklesiolohiya ay tungkol sa isang bayan sa halip na isang institusyon o gusali lamang. Ang bawat larawan ay may sariling setting at mga limitasyon; walang isa man ang nagbibigay ng bawat detalye ng organisasyon."
+          ]
+        },
+        "church-section-3": {
+          "title": "Paglalarawan, huwaran, at mga desisyon ng simbahan",
+          "paragraphs": [
+            "Ang Mga Gawa ay isang salaysay. Ang salaysay nito ay maaaring humubog sa pagninilay nang hindi itinuturing na isang kumpletong legal na kodigo na nagtatakda ng bawat detalye sa bawat lugar. Dapat makilala ng mga mambabasa ang isang paglalarawan ng nangyari, isang namamahalang prinsipyo na hinuha mula rito, at isang praktikal na desisyon para sa isang kasalukuyang kongregasyon. Ang mga iyon ay magkakaugnay ngunit magkakahiwalay na hakbang.",
+            "Inilalarawan ng Baptist Faith and Message VI–VII ang buhay at mga ordinansa ng kongregasyon ng mga Baptist; Ang Westminster XXV at XXVIII ay nagbibigay ng isang Reformed confessionary account. Ang salaysay ng Catholic Catechism tungkol sa initiation ay naglalarawan ng ibang balangkas ng sakramento. Samakatuwid, ang binyag, komunyon, ordinasyon, at pangangasiwa ay nangangailangan ng tahasang lokal na pagsusuri ng doktrina. Ang preview na ito ay nag-aalok ng isang nakabahaging teksto ng pag-aaral habang tinutukoy na ang mga naturang desisyon ay nananatili."
+          ]
+        },
+        "church-section-4": {
+          "title": "Isang komunidad na maaaring siyasatin",
+          "paragraphs": [
+            "Maaaring magtanong ang isang simbahan ng mga konkretong tanong tungkol sa larawang ito: Nauunawaan ba ang pagtuturo? Naa-access ba ang panalangin at mga pinagsasaluhang pagkain? Nakikita ba ang pangangailangan ng isang tao nang hindi sila pinapahiya? Patas ba ang ipinamamahaging mga mapagkukunan? Ito ay mga aplikasyon para sa pag-unawa sa halip na isang pag-aangkin na ang isang numerical score ay maaaring matukoy kung ang isang kongregasyon ay ang simbahan.",
+            "Pumili ng isang pagpapabuti na sapat ang laki upang makumpleto: mag-ayos ng pagkain para sa isang taong nagpapagaling, gawing madaling ma-access ang isang mapagkukunan ng pag-aaral, o magtatag ng isang malinaw na paraan upang humingi ng tulong. Ang isang pag-aaral ng eklesiolohiya ay nagiging mas kapani-paniwala kapag ang bokabularyo ng katawan at sambahayan ay sinasamahan ng mga aktwal na kasanayan ng pagtanggap, pangangalaga, at pananagutan."
+          ]
+        },
+        "church-section-5": {
+          "title": "Pinagsasaluhang buhay na may pananagutang pagsasagawa",
+          "paragraphs": [
+            "Ang paglalarawan ng pamamahagi ayon sa pangangailangan ay nag-aanyaya ng pansin sa kung paano kinikilala ang pangangailangan. Ang mga tao ay hindi palaging humihingi ng tulong sa publiko, at ang isang komunidad ay maaaring mangailangan ng isang magalang na proseso para sa pagtanggap ng mga kahilingan. Ang sipi ay hindi nagtatakda ng isang modernong sistemang administratibo; Ang prinsipyo ay dapat na maisabuhay sa pamamagitan ng matalino, malinaw, at angkop na pagsasagawa.",
+            "Gayundin, ang metapora ng katawan ay hindi dapat maging isang paraan upang pilitin ang mga taong pagod na pagod sa patuloy na walang bayad na paggawa. Kasama sa pagmamalasakit sa isa't isa ang pagtanggap ng suporta at pagkilala sa mga limitasyon. Ang isang plano sa ministeryo ay maaaring suriin sa pamamagitan ng pagtatanong kung pinoprotektahan nito ang pakikilahok, pagbabahagi ng mga pasanin, at pagbibigay ng boses sa mga hindi gaanong nakikitang miyembro. Ito ay mga kontemporaryong aplikasyon na inaalok para sa talakayan at pastoral na paghatol. Dapat itong suriin kasama ang mga taong apektado sa halip na ipakita bilang isang kumpletong blueprint na idinidikta ng isang talata. Magtago ng talaan ng desisyon at anyayahan ang pagsusuri kapag ang epekto nito ay naiiba sa nilayon ng grupo."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "ecclesiology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan iti Iglesia",
+      "summary": "Ti Iglesia ket ili a naayaban a sumurot ken Cristo. Ti Aramid 2 ipaganetgetna ti pannursuro, panagkakadua, panagbingay iti tinapay, ken kararag. Adda napateg a pagdudumaan dagiti tradision iti panangidaulo, bautismo, ken komunyon.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "church-section-1": {
+          "title": "Maysa a komunidad a nabukel babaen iti damag",
+          "paragraphs": [
+            "Ipakita ti Acts 2 ti panagkakadua a biag ti komunidad kalpasan ti pannakaipakaammo ni Pedro maipapan ken Jesus, panagungar, panagbabawi, ken bautismo. Dagiti aramid iti bersikulo 42 ket saan a naipakita a kas sapasap nga estratehia a pangbangon iti makaay-ayo a klab. Kukuada dagiti tattao a sumungsungbat iti damag a kakaipakaammo laeng ti salaysay ni Lucas.",
+            "Ti parapo ket mangibaga iti panangisuro dagiti apostol, panagkakadua, panangpipisi iti tinapay, ken kararag. Kalpasanna, iladawanna ti panagbibingay kadagiti sanikua ken pannakaiwaras a maitunos iti kasapulan. Ti panagbasa agingga iti panungpalan ket manglapped a ti “panagkakadua” ket agbalin laeng a makaay-ayo a panagtipon. Makita ti materyal nga aywan iti uneg ti ladawan ti biag ti komunidad."
+          ]
+        },
+        "church-section-2": {
+          "title": "Pannakabilang ken panagsisinnaranay",
+          "paragraphs": [
+            "Ti 1 Corinto 12 ket mangited iti kaugnay a ladawan: maysa a bagi nga addaan iti adu a miembro. Ti panangidilig ket saanna a palubosan ti kapanunotan a mabalin ti maysa a makita a miembro nga ibilangna dagiti dadduma a saan a kasapulan. Saanna a kasapulan nga agaramid ti amin iti isu met laeng nga akem. Ti pannakairaman ket mangiraman iti panangited ken panangawat, isu a ti panagkasapulan iti tulong ket saan a pammaneknek nga awan ti lugarna.",
+            "Ti Efeso 2 ket manginayon kadagiti ladawan ti pannakipagili, sangakabbalayan, ken pasdek a ni Cristo ti bato iti suli. Dagitoy a ladawan ket tumulong iti mangrugi a makaawat no apay a ti eklesiologia ket maipapan iti umili, saan laeng nga iti institusion wenno pasdek. Tunggal ladawan ket addaan iti bukodna a konteksto ken limitasion; awan ti maysa a mangited iti amin a detalye ti pannakaorganisar."
+          ]
+        },
+        "church-section-3": {
+          "title": "Pannakailadawan, pagtuladan, ken pangngeddeng ti iglesia",
+          "paragraphs": [
+            "Ti Acts ket maysa a salaysay. Mabalin a pormaenna ti panagmennamenna nga awan panangtratar iti daytoy a kas kompleto a kodigo ti linteg a mangibilin iti tunggal detalye iti amin a lugar. Rumbeng nga ilasin dagiti agbasa ti pannakailadawan ti napasamak, ti agnanayon a prinsipio a naadaw manipud iti daytoy, ken ti praktikal a pangngeddeng para iti agdama a kongregasion. Agkakainaig dagitoy ngem agsisina nga addang.",
+            "Ti Baptist Faith and Message VI–VII ket mangiladawan iti biag dagiti kongregasion a Baptist ken dagiti ordinansada; ti Westminster XXV ken XXVIII ket mangted iti pannakailawlawag a Reformed iti panangipudno ti pammati. Ti pannakailawlawag ti Catholic Catechism maipapan iti panangawat iti pammati ket mangiladawan iti naiduma nga urnos dagiti sakramento. Gapuna, ti bautismo, komunyon, ordinasion, ken panangidaulo ket kasapulanda ti nalawag a lokal a panangrepaso iti doktrina. Daytoy a pangpadas nga edision ket mangted iti teksto a mabalin a kadua nga adalen bayat nga ilasinanna a dagita a pangngeddeng ket masapul pay nga aramiden."
+          ]
+        },
+        "church-section-4": {
+          "title": "Maysa a komunidad a mabalin a sukisoken",
+          "paragraphs": [
+            "Mabalin a damagen ti iglesia dagiti nalawag a saludsod maipapan iti daytoy a ladawan: Maawatan kadi ti panangisuro? Mabalin kadi ti amin ti makipaset iti panagkararag ken panagkakadua a mangan? Makita kadi ti kasapulan ti maysa a tao nga awan panangibabain kenkuana? Nalinteg kadi ti pannakabingay dagiti sanikua? Dagitoy ket panangyaplikar para iti panangilasin, saan a panangibaga a mabalin a pangikeddeng ti numero a marka no ti maysa a kongregasion ket isu ti iglesia.",
+            "Pilien ti maysa a panangpasayaat a bassit a mabalin a malpas: mangisagana iti taraon para iti agpalaing manipud iti sakit, mangaramid iti materyal a pagadalan a mabalin nga usaren ti amin, wenno mangipasdek iti nalawag a pamay-an ti panagkiddaw iti tulong. Ad-adda a kapapati ti panagadal iti eklesiolohia no ti bokabulario ti bagi ken sangakabbalay ket makadua dagiti pudno nga aramid ti panangpasangbay, panangaywan, ken panagsungbat iti aramid."
+          ]
+        },
+        "church-section-5": {
+          "title": "Biag a sangsangkamaysa nga addaan iti managbatbat nga aramid",
+          "paragraphs": [
+            "Ti pannakailadawan ti pannakaiwaras a maitunos iti kasapulan ket mangawis iti atension no kasano a mailasin ti kasapulan. Saan nga agkiddaw dagiti tattao iti tulong iti publiko iti amin a tiempo, ken mabalin nga agkasapulan ti komunidad iti managraem a proseso iti panangawat kadagiti kiddaw. Ti teksto ket saan a mangibilin iti moderno a sistema ti panangtaripato; ti prinsipio ket masapul a maipakat babaen iti nasirib, nalawag, ken maitutop a panangaramid.",
+            "Kasta met, ti panangidilig iti bagi ket saan a rumbeng nga agbalin a pamuspusan ti panangpilit kadagiti nabannog a tattao iti agtultuloy a trabaho nga awan bayadna. Ti agsinnukat a panangaywan ket mangiraman iti panangawat iti tulong ken panangilasin kadagiti limitasion. Mabalin a marepaso ti plano ti ministerio babaen iti panagsaludsod no salaknibanna ti pannakipaset, ibingayna dagiti dadagsen, ken ipalubosna ti boses dagiti saan unay a makita a miembro. Dagitoy ket agdama a panangyaplikar a naited para iti panagsasarita ken pangngeddeng ti pastor. Rumbeng a marukodda a kadua dagiti maapektaran imbes a maiparang kas naan-anay a plano nga imbilin ti maysa a bersikulo. Ilista ti pangngeddeng ket awisen ti panangrepaso no ti bungana ket naiduma iti inranta ti grupo."
+          ]
+        }
+      }
+    }
+  }
+}

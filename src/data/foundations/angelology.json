@@ -1,0 +1,861 @@
+{
+  "chapter": {
+    "id": "angelology",
+    "slug": "angelology",
+    "order": 5,
+    "title": "The Doctrine of Angels",
+    "doctrine": "Angelology",
+    "summary": "Angels serve God. Meet Michael and Gabriel in their biblical settings, compare seraphim and cherubim, and learn why Raphael and other names require careful canon and tradition labels.",
+    "question": "What question is Hebrews 1 answering?",
+    "scriptureReferences": [
+      {
+        "reference": "Hebrews 1:14",
+        "url": "https://ebible.org/engwebp/HEB01.htm#V14",
+        "context": "Read Hebrews 1:1–14. A sequence of scriptural quotations establishes the Son’s distinctive status in comparison with angels."
+      },
+      {
+        "reference": "Colossians 1:15–20",
+        "url": "https://ebible.org/engwebp/COL01.htm#V15",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Matthew 28:1–7",
+        "url": "https://ebible.org/engwebp/MAT28.htm#V1",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Daniel 10:13",
+        "url": "https://ebible.org/engwebp/DAN10.htm#V13",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Daniel 12:1",
+        "url": "https://ebible.org/engwebp/DAN12.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Jude 1:9",
+        "url": "https://ebible.org/engwebp/JUD01.htm#V9",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Revelation 12:7–9",
+        "url": "https://ebible.org/engwebp/REV12.htm#V7",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Daniel 8:16",
+        "url": "https://ebible.org/engwebp/DAN08.htm#V16",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Daniel 9:21–23",
+        "url": "https://ebible.org/engwebp/DAN09.htm#V21",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Luke 1:19",
+        "url": "https://ebible.org/engwebp/LUK01.htm#V19",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Luke 1:26–38",
+        "url": "https://ebible.org/engwebp/LUK01.htm#V26",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Jude 1:14–15",
+        "url": "https://ebible.org/engwebp/JUD01.htm#V14",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Isaiah 6:1–7",
+        "url": "https://ebible.org/engwebp/ISA06.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Ezekiel 10:9–22",
+        "url": "https://ebible.org/engwebp/EZK10.htm#V9",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Genesis 3:24",
+        "url": "https://ebible.org/engwebp/GEN03.htm#V24",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Genesis 18:1–8",
+        "url": "https://ebible.org/engwebp/GEN18.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Genesis 19:1",
+        "url": "https://ebible.org/engwebp/GEN19.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Luke 24:4–7",
+        "url": "https://ebible.org/engwebp/LUK24.htm#V4",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Hebrews 13:2",
+        "url": "https://ebible.org/engwebp/HEB13.htm#V2",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Revelation 22:8–9",
+        "url": "https://ebible.org/engwebp/REV22.htm#V8",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Hebrews 1:1–14",
+        "url": "https://ebible.org/engwebp/HEB01.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Colossians 1:16–20",
+        "url": "https://ebible.org/engwebp/COL01.htm#V16",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Identify Michael and Gabriel and locate their named appearances.",
+      "Explain Raphael and the other names with explicit canon and tradition labels.",
+      "Compare seraphim, cherubim, and narrative messengers using the actual texts.",
+      "Distinguish the Son from angelic servants and apply the call to worship God."
+    ],
+    "sections": [
+      {
+        "id": "angels-section-1",
+        "title": "Read the comparison from the beginning",
+        "paragraphs": [
+          "Hebrews begins with God’s speech through prophets and then through the Son. It describes the Son’s relation to creation, purification, and divine glory before contrasting him with angels. The chapter’s principal purpose is therefore not to satisfy curiosity about an invisible world. It directs attention to the Son’s distinctive identity and work.",
+          "The sequence of quotations is important. Individual lines are assembled into an argument, so a study should ask how each contributes to that argument. Verse 14 names angels as serving spirits. That description locates their role in service rather than making them rivals to the Son or independent sources of salvation."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "hebrews",
+          "hebrews"
+        ]
+      },
+      {
+        "id": "angels-section-2",
+        "title": "Service rather than fascination",
+        "paragraphs": [
+          "A reader may reasonably ask about angelic appearances elsewhere in Scripture, but this passage does not offer a complete hierarchy, anatomy, or list of names. It does not specify how every instance of angelic service can be recognized in daily experience. Refusing to invent those details is part of learning from the text.",
+          "Colossians 1 includes invisible things, thrones, dominions, principalities, and powers within the scope of what is created through and for Christ. The passage’s broad claim is Christ’s preeminence. A speculative chart assigning each expression to a precise cosmic rank would require evidence the paragraph does not supply."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "hebrews",
+          "colossians",
+          "hebrews",
+          "colossians"
+        ]
+      },
+      {
+        "id": "angels-section-3",
+        "title": "The difference between art and evidence",
+        "paragraphs": [
+          "Christian art depicts spiritual beings in many ways. An illustration can symbolize service, holiness, or proclamation without documenting the physical appearance of a being. Every such image in this project should be labeled as an artist’s interpretation. Visual familiarity does not turn a detail into a verified biblical statement.",
+          "The same care applies to stories about protection or an unusual experience. A testimony can be heard respectfully without being certified as proof of a specific angelic intervention. This lesson does not diagnose spiritual causes for illness, distress, or an unexplained event. Appropriate practical and professional help should not be displaced by a speculative explanation."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "hebrews",
+          "colossians",
+          "hebrews",
+          "colossians"
+        ]
+      },
+      {
+        "id": "angels-section-4",
+        "title": "An appropriately modest response",
+        "paragraphs": [
+          "The lesson’s diagram records a textual order: God speaks through the Son; the Son is distinguished from angels; angels are described in terms of service. This simple visual keeps the argument readable. It is intentionally not a complete map of spiritual reality.",
+          "For group discussion, divide proposed claims into three columns: directly stated in the passage, inferred from it, and not established by it. Then ask what ordinary service the community can practice. The application is not that humans are angels; it is that fascination with the unseen should not distract from clear responsibilities toward a neighbor."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "hebrews",
+          "hebrews"
+        ]
+      },
+      {
+        "id": "angels-section-5",
+        "title": "A claim-by-claim reading exercise",
+        "paragraphs": [
+          "Take a familiar claim about angels and ask whether either selected passage establishes it. A claim about service has a direct textual locator in Hebrews 1:14. A claim about a specific color of wings or a fixed arrangement of ranks does not follow from that verse. The difference is not hostility to art or tradition; it is an honest account of what evidence is doing.",
+          "If the claim belongs to a particular tradition, identify that source and record it under the appropriate category. If it is an artistic choice, label it as such. If no source has been established, leave it as a question. A reader should never have to guess whether a confident sentence comes from Scripture, a church document, or the author’s imagination. This discipline can make a visually rich chapter more trustworthy rather than less engaging. Clear labels help readers enjoy art without confusing its details with doctrine."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "hebrews",
+          "colossians",
+          "hebrews",
+          "colossians"
+        ]
+      },
+      {
+        "id": "michael-named",
+        "title": "Michael: prince, archangel, and servant",
+        "paragraphs": [
+          "Daniel names Michael as one of the chief princes and as the great prince associated with Daniel’s people. Jude explicitly calls him the archangel in a dispute concerning Moses’ body. Revelation depicts Michael and his angels fighting the dragon. These are different literary settings: a prophetic vision, a letter’s warning against arrogant speech, and an apocalyptic conflict. Together they support a portrait of a powerful servant under God’s authority. Jude’s Michael appeals to the Lord’s rebuke instead of treating his own power as ultimate. The texts do not provide his face, armor design, or a biography of his creation. Some traditions connect Michael with Christ; many distinguish him from Christ. Such identifications require a named interpretive argument and must not be smuggled into an illustration."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "daniel-10-13",
+          "daniel-12-1",
+          "jude-1-9",
+          "revelation-12-7-9"
+        ]
+      },
+      {
+        "id": "gabriel-named",
+        "title": "Gabriel: explaining visions and announcing good news",
+        "paragraphs": [
+          "Gabriel is named in Daniel as a messenger who helps explain a vision and brings understanding. Luke identifies him as the one sent to Zechariah and later to Mary. His message concerns God’s action: the coming birth of John and the promised birth and reign of Jesus. Luke 1:19 places Gabriel in God’s presence and describes him as sent. The focus is the message and its sender, not an independent angelic source of revelation. Neither Daniel nor Luke explicitly gives Gabriel the title archangel. Later churches often honor him under that title, but the difference between the biblical wording and later classification should remain visible. The Nazareth illustration uses simple clothing and an ancient setting; both the messenger’s appearance and the room’s details are artistic choices."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "daniel-8-16",
+          "daniel-9-21-23",
+          "luke-1-19",
+          "luke-1-26-38"
+        ]
+      },
+      {
+        "id": "raphael-and-canon",
+        "title": "Raphael: why the Bible’s table of contents matters",
+        "paragraphs": [
+          "Raphael identifies himself in Tobit 12 as one of the seven angels who stand before God. The story presents him as a companion and an agent of healing sent by God, and his final words direct gratitude toward God. Tobit belongs to the Catholic Old Testament and to many Orthodox collections, while Protestant Bibles normally place it outside their 66-book canon or in an Apocrypha section. Consequently, the slogan that only Michael and Gabriel are named in the Bible needs a stated canon. For this website’s 66-book WEB edition, Raphael has no chapter in the passage popup; his profile provides a separately labeled Tobit source. The familiar fish and traveling scene follow the narrative tradition; a medical staff or modern caduceus would be an added symbol."
+        ],
+        "depth": "beginner",
+        "category": "C",
+        "sourceIds": [
+          "hebrews-1-14",
+          "tobit"
+        ]
+      },
+      {
+        "id": "other-four-names",
+        "title": "Uriel, Raguel, Sariel, and Remiel: trace each name",
+        "paragraphs": [
+          "Uriel is named as the angel answering Ezra in 2 Esdras 4:1, outside the app’s 66-book collection. A list in 1 Enoch 20 includes Uriel, Raphael, Raguel, Michael, Saraqael, Gabriel, and Remiel in the consulted English textual tradition. Saraqael is associated with Sariel in some later lists, but spelling and identity should not be treated as universally interchangeable. The screenshot’s verse numbers and titles such as prince of God and angel of hope do not consistently match that list. 1 Enoch has a different canonical reception across churches, including its reception in Ethiopian tradition; it is not part of this app’s Protestant canon. Jude’s use of Enochic material does not by itself settle the canonical status of the entire book. The four portraits are literary illustrations, not four additional biblical biographies."
+        ],
+        "depth": "beginner",
+        "category": "C",
+        "sourceIds": [
+          "jude-1-14-15",
+          "enoch",
+          "esdras",
+          "ethiopian-canon"
+        ]
+      },
+      {
+        "id": "seraphim-and-cherubim",
+        "title": "Seraphim and cherubim: read the actual descriptions",
+        "paragraphs": [
+          "Isaiah describes seraphim with six wings: two covering the face, two covering the feet, and two used for flight. Their proclamation emphasizes God’s holiness, and one brings a coal associated with the prophet’s cleansing. Ezekiel describes cherubim in a mobile throne vision, with four faces, four wings, hands, and wheels. Genesis associates cherubim with guarding the way to the tree of life. These passages are not interchangeable descriptions of a single standard angel body. Nor do they resemble the winged infants common in later decorative art. The visionary details invite close reading of holiness, presence, and divine freedom. They should not be converted into a zoological specimen chart. The textbook therefore labels both images as imaginative visualizations of particular passages and keeps their descriptions beside the art."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "isaiah-6-1-7",
+          "ezekiel-10-9-22",
+          "genesis-3-24"
+        ]
+      },
+      {
+        "id": "unnamed-messengers",
+        "title": "Unnamed angels: appearance is tied to the story",
+        "paragraphs": [
+          "Some narratives describe visitors in human terms; Luke’s empty-tomb scene describes two men in dazzling clothing, and Hebrews recalls hospitality to angels without knowing it. Other passages use extraordinary visionary imagery. Readers should therefore resist the claim that all angels must look like armored men with two wings, or that every stranger is secretly an angel. Revelation 22 is especially clear about worship: the angel refuses John’s prostration and directs him to worship God. This gives the gallery its proper emphasis. The messengers serve God’s purpose and do not become objects of dependence or substitutes for Christ. Images may help us remember a passage, but no drawing can identify an unseen protector assigned to a particular reader."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "genesis-18-1-8",
+          "genesis-19-1",
+          "luke-24-4-7",
+          "hebrews-13-2",
+          "revelation-22-8-9"
+        ]
+      },
+      {
+        "id": "angels-and-hope",
+        "title": "What we should learn from angelic service",
+        "paragraphs": [
+          "The central distinction remains between the Son and created servants. Hebrews frames the angels’ ministry within its larger witness to the Son, while Colossians places invisible powers within creation’s relation to Christ. The practical lesson is reverent trust in God, attention to the message, and humility about details not revealed. Spiritual interest should lead toward worship and service rather than collecting unverifiable ranks, secret names, or techniques for summoning beings. A useful group exercise is to choose one portrait, read its source, and identify which details the text actually supplies. Then name the artistic additions and explain the passage’s purpose. This approach allows rich visual teaching while helping beginners develop discernment and a reliable habit of returning to the biblical context."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "hebrews-1-1-14",
+          "colossians-1-16-20"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Angelology",
+        "fil": "Ang Doktrina Tungkol sa mga Anghel",
+        "ilo": "Ti Doktrina Maipapan kadagiti Anghel",
+        "definition": "The field of study introduced in The Doctrine of Angels.",
+        "reference": "Hebrews 1:14",
+        "note": "Editorial study term; equivalents require qualified language review."
+      },
+      {
+        "en": "Archangel",
+        "fil": "Arkanghel",
+        "ilo": "Arkanghel",
+        "definition": "A title explicitly applied to Michael in Jude 1:9. The title does not establish a complete hierarchy or prove that only one archangel exists.",
+        "reference": "Jude 1:9",
+        "note": "Later traditions extend the title to other named angels."
+      },
+      {
+        "en": "Seraphim",
+        "fil": "Mga serapin",
+        "ilo": "Dagiti serafin",
+        "definition": "Six-winged beings in Isaiah’s temple vision, associated with the proclamation of holiness and the prophet’s cleansing.",
+        "reference": "Isaiah 6:1–7",
+        "note": "A visionary description; not a standard body plan for all angels."
+      },
+      {
+        "en": "Cherubim",
+        "fil": "Mga kerubin",
+        "ilo": "Dagiti kerubin",
+        "definition": "Beings associated with guarding the way to life and, in Ezekiel’s vision, the divine throne and its movement.",
+        "reference": "Ezekiel 10:9–22",
+        "note": "Do not confuse the biblical description with winged infants in later art."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "Guardian-angel traditions, detailed hierarchies, and accounts of contemporary spiritual activity vary. They are not authenticated by this introductory lesson.",
+    "application": [
+      "Label artistic depictions honestly.",
+      "Keep a list of questions the passage does not answer instead of inventing a system."
+    ],
+    "reflection": [
+      "Does curiosity about the unseen draw me away from a clear responsibility?",
+      "Can I respect a testimony without claiming certainty about its explanation?",
+      "How does the opening of Hebrews control the interpretation of verse 14?",
+      "Which details in a familiar angel image are actually established by the selected passage?"
+    ],
+    "quiz": [
+      {
+        "question": "What is the main comparison in Hebrews 1?",
+        "options": [
+          "The Son and angels",
+          "Two equal creators",
+          "A complete list of cosmic ranks"
+        ],
+        "answer": 0,
+        "explanation": "The chapter emphasizes the Son’s distinctive status and describes angels as servants."
+      },
+      {
+        "question": "How should a symbolic angel illustration be labeled?",
+        "options": [
+          "A verified anatomical reconstruction",
+          "An artist’s interpretation",
+          "A new source of doctrine"
+        ],
+        "answer": 1,
+        "explanation": "Art may support learning, but its details must not be presented as independently verified evidence."
+      },
+      {
+        "question": "Study check 3: which action best supports the objective “Distinguish biblical information from artistic and speculative additions.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Hebrews 1:14, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Describe the role assigned to angels in Hebrews 1.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Hebrews 1:14, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Recognize the chapter’s principal focus on the Son.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Hebrews 1:14, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "The focus of Hebrews 1",
+      "steps": [
+        "God speaks",
+        "The Son revealed",
+        "Angels distinguished",
+        "Service described"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/angelology.webp",
+      "thumbnail": "/illustrations/angelology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of Angels; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "hebrews",
+        "title": "World English Bible (Updated): Hebrews 1:1–14",
+        "institution": "eBible / World English Bible",
+        "section": "Hebrews 1:1–14",
+        "url": "https://ebible.org/engwebp/HEB01.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "colossians",
+        "title": "World English Bible (Updated): Colossians 1:15–20",
+        "institution": "eBible / World English Bible",
+        "section": "Colossians 1:15–20",
+        "url": "https://ebible.org/engwebp/COL01.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "tobit",
+        "title": "Tobit 12",
+        "institution": "USCCB / New Advent",
+        "section": "Tobit 12:12–20",
+        "url": "https://www.newadvent.org/bible/tob012.htm",
+        "accessed": "2026-10-31",
+        "notes": "Deuterocanonical in Catholic and many Orthodox Bibles; outside this app’s Protestant 66-book reading edition. Numbering and textual forms differ."
+      },
+      {
+        "id": "enoch",
+        "title": "1 Enoch, chapter 20",
+        "institution": "Internet Sacred Text Archive, R. H. Charles English text",
+        "section": "1 Enoch 20:1–8",
+        "url": "https://sacred-texts.com/book/the-book-of-enoch/chapter-xx",
+        "accessed": "2026-10-31",
+        "notes": "Full chapter retrieved and numbering checked: Raguel 20:4, Saraqael 20:6, Remiel 20:8 in this edition. Textual forms and canonical reception require specialist review."
+      },
+      {
+        "id": "esdras",
+        "title": "World English Bible Classic: 2 Esdras 4",
+        "institution": "eBible",
+        "section": "2 Esdras 4:1–11",
+        "url": "https://ebible.org/eng-web/2ES04.htm",
+        "accessed": "2026-10-31",
+        "notes": "Uriel’s name checked in verse 1. Outside the app’s 66-book edition; book names and canonical reception vary."
+      },
+      {
+        "id": "daniel-10-13",
+        "title": "World English Bible (Updated): Daniel 10:13",
+        "institution": "eBible / World English Bible",
+        "section": "Daniel 10:13",
+        "url": "https://ebible.org/engwebp/DAN10.htm#V13",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "daniel-12-1",
+        "title": "World English Bible (Updated): Daniel 12:1",
+        "institution": "eBible / World English Bible",
+        "section": "Daniel 12:1",
+        "url": "https://ebible.org/engwebp/DAN12.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "jude-1-9",
+        "title": "World English Bible (Updated): Jude 1:9",
+        "institution": "eBible / World English Bible",
+        "section": "Jude 1:9",
+        "url": "https://ebible.org/engwebp/JUD01.htm#V9",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "revelation-12-7-9",
+        "title": "World English Bible (Updated): Revelation 12:7–9",
+        "institution": "eBible / World English Bible",
+        "section": "Revelation 12:7–9",
+        "url": "https://ebible.org/engwebp/REV12.htm#V7",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "daniel-8-16",
+        "title": "World English Bible (Updated): Daniel 8:16",
+        "institution": "eBible / World English Bible",
+        "section": "Daniel 8:16",
+        "url": "https://ebible.org/engwebp/DAN08.htm#V16",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "daniel-9-21-23",
+        "title": "World English Bible (Updated): Daniel 9:21–23",
+        "institution": "eBible / World English Bible",
+        "section": "Daniel 9:21–23",
+        "url": "https://ebible.org/engwebp/DAN09.htm#V21",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "luke-1-19",
+        "title": "World English Bible (Updated): Luke 1:19",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 1:19",
+        "url": "https://ebible.org/engwebp/LUK01.htm#V19",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "luke-1-26-38",
+        "title": "World English Bible (Updated): Luke 1:26–38",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 1:26–38",
+        "url": "https://ebible.org/engwebp/LUK01.htm#V26",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "hebrews-1-14",
+        "title": "World English Bible (Updated): Hebrews 1:14",
+        "institution": "eBible / World English Bible",
+        "section": "Hebrews 1:14",
+        "url": "https://ebible.org/engwebp/HEB01.htm#V14",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "jude-1-14-15",
+        "title": "World English Bible (Updated): Jude 1:14–15",
+        "institution": "eBible / World English Bible",
+        "section": "Jude 1:14–15",
+        "url": "https://ebible.org/engwebp/JUD01.htm#V14",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "isaiah-6-1-7",
+        "title": "World English Bible (Updated): Isaiah 6:1–7",
+        "institution": "eBible / World English Bible",
+        "section": "Isaiah 6:1–7",
+        "url": "https://ebible.org/engwebp/ISA06.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "ezekiel-10-9-22",
+        "title": "World English Bible (Updated): Ezekiel 10:9–22",
+        "institution": "eBible / World English Bible",
+        "section": "Ezekiel 10:9–22",
+        "url": "https://ebible.org/engwebp/EZK10.htm#V9",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "genesis-3-24",
+        "title": "World English Bible (Updated): Genesis 3:24",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 3:24",
+        "url": "https://ebible.org/engwebp/GEN03.htm#V24",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "genesis-18-1-8",
+        "title": "World English Bible (Updated): Genesis 18:1–8",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 18:1–8",
+        "url": "https://ebible.org/engwebp/GEN18.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "genesis-19-1",
+        "title": "World English Bible (Updated): Genesis 19:1",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 19:1",
+        "url": "https://ebible.org/engwebp/GEN19.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "luke-24-4-7",
+        "title": "World English Bible (Updated): Luke 24:4–7",
+        "institution": "eBible / World English Bible",
+        "section": "Luke 24:4–7",
+        "url": "https://ebible.org/engwebp/LUK24.htm#V4",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "hebrews-13-2",
+        "title": "World English Bible (Updated): Hebrews 13:2",
+        "institution": "eBible / World English Bible",
+        "section": "Hebrews 13:2",
+        "url": "https://ebible.org/engwebp/HEB13.htm#V2",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "revelation-22-8-9",
+        "title": "World English Bible (Updated): Revelation 22:8–9",
+        "institution": "eBible / World English Bible",
+        "section": "Revelation 22:8–9",
+        "url": "https://ebible.org/engwebp/REV22.htm#V8",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "hebrews-1-1-14",
+        "title": "World English Bible (Updated): Hebrews 1:1–14",
+        "institution": "eBible / World English Bible",
+        "section": "Hebrews 1:1–14",
+        "url": "https://ebible.org/engwebp/HEB01.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "colossians-1-16-20",
+        "title": "World English Bible (Updated): Colossians 1:16–20",
+        "institution": "eBible / World English Bible",
+        "section": "Colossians 1:16–20",
+        "url": "https://ebible.org/engwebp/COL01.htm#V16",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "ethiopian-canon",
+        "title": "The Bible: Ethiopian Orthodox canon",
+        "institution": "Ethiopian Orthodox Tewahedo Church",
+        "section": "Canonical books, Old Testament list and Enoch discussion",
+        "url": "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "accessed": "2026-10-31",
+        "notes": "Primary church source identifies Enoch and Tobit in this church’s received collection. It does not mean that all Orthodox churches have the same canon."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 2,
+    "coverage": "Expanded named-angel profiles, visionary beings, canon distinctions, and illustrated passage-based guide. Human review pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "angelology",
+      "locale": "fil",
+      "sourceVersion": 2,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol sa mga Anghel",
+      "summary": "Ang mga anghel ay mga lingkod ng Diyos. Binabanggit sina Miguel at Gabriel sa mga aklat na tinatanggap ng mga tradisyong Protestante, Katoliko, at Ortodokso; si Rafael ay nasa Tobit, na kabilang sa kanon ng ilang tradisyon. Tukuyin ang kanon bago magsabi ng pangkalahatang tuntunin.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "angels-section-1": {
+          "title": "Basahin ang paghahambing mula sa simula",
+          "paragraphs": [
+            "Nagsisimula ang Mga Hebreo sa pananalita ng Diyos sa pamamagitan ng mga propeta at pagkatapos ay sa pamamagitan ng Anak. Inilalarawan nito ang kaugnayan ng Anak sa paglikha, paglilinis, at banal na kaluwalhatian bago siya inihambing sa mga anghel. Samakatuwid, ang pangunahing layunin ng kabanata ay hindi upang bigyang-kasiyahan ang kuryusidad tungkol sa isang di-nakikitang mundo. Itinuturo nito ang pansin sa natatanging pagkakakilanlan at gawain ng Anak.",
+            "Mahalaga ang pagkakasunod-sunod ng mga sipi. Ang mga indibidwal na linya ay pinagsama-sama sa isang argumento, kaya dapat itanong ng isang pag-aaral kung paano nakakatulong ang bawat isa sa argumentong iyon. Binanggit sa talata 14 ang mga anghel bilang mga espiritung naglilingkod. Inilalagay ng paglalarawang iyon ang kanilang papel sa paglilingkod sa halip na gawin silang mga karibal ng Anak o mga independiyenteng mapagkukunan ng kaligtasan."
+          ]
+        },
+        "angels-section-2": {
+          "title": "Serbisyo sa halip na pagkahumaling",
+          "paragraphs": [
+            "Ang isang mambabasa ay maaaring makatuwirang magtanong tungkol sa mga pagpapakita ng mga anghel sa ibang bahagi ng Banal na Kasulatan, ngunit ang siping ito ay hindi nag-aalok ng isang kumpletong hierarchy, anatomiya, o listahan ng mga pangalan. Hindi nito tinukoy kung paano makikilala ang bawat halimbawa ng paglilingkod ng mga anghel sa pang-araw-araw na karanasan. Ang pagtangging mag-imbento ng mga detalyeng iyon ay bahagi ng pag-aaral mula sa teksto.",
+            "Kasama sa Colosas 1 ang mga bagay na hindi nakikita, mga trono, mga nasasakupan, mga pamunuan, at mga kapangyarihan sa loob ng saklaw ng kung ano ang nilikha sa pamamagitan at para kay Kristo. Ang malawak na pahayag ng sipi ay ang pagiging dakila ni Kristo. Ang isang haka-haka na tsart na nagtatalaga ng bawat ekspresyon sa isang tiyak na kosmikong ranggo ay mangangailangan ng ebidensya na hindi ibinibigay ng talata."
+          ]
+        },
+        "angels-section-3": {
+          "title": "Ang pagkakaiba ng sining at ebidensya",
+          "paragraphs": [
+            "Ang sining Kristiyano ay naglalarawan ng mga espirituwal na nilalang sa maraming paraan. Ang isang ilustrasyon ay maaaring sumisimbolo sa paglilingkod, kabanalan, o pagpapahayag nang hindi idinodokumento ang pisikal na anyo ng isang nilalang. Ang bawat naturang imahe sa proyektong ito ay dapat na lagyan ng label bilang interpretasyon ng isang artista. Ang pamilyaridad sa paningin ay hindi ginagawang isang napatunayang pahayag sa Bibliya ang isang detalye.",
+            "Ang parehong pag-iingat ay naaangkop sa mga kuwento tungkol sa proteksyon o isang hindi pangkaraniwang karanasan. Ang isang patotoo ay maaaring marinig nang may paggalang nang hindi pinapatunayan bilang patunay ng isang partikular na interbensyon ng anghel. Hindi sinusuri ng araling ito ang mga espirituwal na sanhi ng sakit, pagkabalisa, o isang hindi maipaliwanag na pangyayari. Ang angkop na praktikal at propesyonal na tulong ay hindi dapat palitan ng isang haka-haka na paliwanag."
+          ]
+        },
+        "angels-section-4": {
+          "title": "Isang angkop na mahinhing tugon",
+          "paragraphs": [
+            "Ang diagram ng aralin ay nagtatala ng isang pagkakasunud-sunod ng teksto: Ang Diyos ay nagsasalita sa pamamagitan ng Anak; ang Anak ay naiiba sa mga anghel; ang mga anghel ay inilalarawan sa mga tuntunin ng paglilingkod. Ang simpleng biswal na ito ay nagpapanatili sa argumento na madaling basahin. Ito ay sadyang hindi isang kumpletong mapa ng espirituwal na realidad.",
+            "Para sa talakayan ng grupo, hatiin ang mga iminungkahing pahayag sa tatlong kolum: direktang nakasaad sa sipi, hinuha mula rito, at hindi itinatag nito. Pagkatapos ay itanong kung anong ordinaryong serbisyo ang maaaring gawin ng komunidad. Ang aplikasyon ay hindi ang mga tao ay mga anghel; ito ay ang pagkahumaling sa mga hindi nakikita ay hindi dapat makagambala sa malinaw na mga responsibilidad sa isang kapwa."
+          ]
+        },
+        "angels-section-5": {
+          "title": "Isang pagsasanay sa pagbasa ayon sa pag-aangkin",
+          "paragraphs": [
+            "Kumuha ng isang pamilyar na pahayag tungkol sa mga anghel at tanungin kung ang alinman sa napiling sipi ay nagpapatunay nito. Ang isang pahayag tungkol sa paglilingkod ay may direktang tagahanap ng teksto sa Hebreo 1:14. Ang isang pahayag tungkol sa isang partikular na kulay ng mga pakpak o isang nakapirming pagsasaayos ng mga ranggo ay hindi sumusunod sa talatang iyon. Ang pagkakaiba ay hindi ang poot sa sining o tradisyon; ito ay isang tapat na salaysay ng kung ano ang ginagawa ng ebidensya.",
+            "Kung ang pahayag ay kabilang sa isang partikular na tradisyon, tukuyin ang pinagmulang iyon at itala ito sa ilalim ng naaangkop na kategorya. Kung ito ay isang artistikong pagpili, lagyan ito ng label bilang ganito. Kung walang naitatag na pinagmulan, iwanan ito bilang isang tanong. Hindi dapat hulaan ng isang mambabasa kung ang isang kumpiyansang pangungusap ay nagmula sa Banal na Kasulatan, isang dokumento ng simbahan, o imahinasyon ng may-akda. Ang disiplinang ito ay maaaring gawing mas mapagkakatiwalaan ang isang kabanatang mayaman sa paningin kaysa sa hindi gaanong nakakaengganyo. Ang malinaw na mga label ay nakakatulong sa mga mambabasa na masiyahan sa sining nang hindi nalilito ang mga detalye nito sa doktrina."
+          ]
+        },
+        "michael-named": {
+          "title": "Miguel: prinsipe at arkanghel",
+          "paragraphs": [
+            "Pinangalanan si Miguel sa Daniel 10:13 at 12:1, Judas 1:9, at Apocalipsis 12:7–9. Tahasan siyang tinatawag na arkanghel sa Judas. Makapangyarihang lingkod siya sa mga salaysay, ngunit nasa ilalim ng kapangyarihan ng Diyos. Hindi inilalarawan ng mga talata ang kanyang mukha o baluti."
+          ],
+          "scope": "abridged"
+        },
+        "gabriel-named": {
+          "title": "Gabriel: tagapagpaliwanag at sugo",
+          "paragraphs": [
+            "Sa Daniel 8:16 at 9:21–23, tumutulong si Gabriel sa pag-unawa ng pangitain. Sa Lucas 1, ipinahahayag niya ang kapanganakan ni Juan at ni Jesus. Inilalarawan siyang sinugo mula sa harapan ng Diyos. Hindi siya tahasang tinatawag na arkanghel sa mga talatang ito; ginagamit ang titulong iyon sa mga sumunod na tradisyon."
+          ],
+          "scope": "abridged"
+        },
+        "raphael-and-canon": {
+          "title": "Rafael at ang kanon",
+          "paragraphs": [
+            "Nagpapakilala si Rafael sa Tobit 12 bilang isa sa pitong anghel sa harapan ng Diyos. Kabilang ang Tobit sa Lumang Tipan ng Katoliko at sa maraming koleksiyong Ortodokso, ngunit wala sa 66 na aklat ng edisyong Protestante ng app. Kailangang tukuyin ang kanon kapag sinasabing sino ang pinangalanan sa Bibliya."
+          ],
+          "scope": "abridged"
+        },
+        "other-four-names": {
+          "title": "Uriel, Raguel, Sariel, at Remiel",
+          "paragraphs": [
+            "Si Uriel ay pinangalanan sa 2 Esdras 4:1. Kasama sa listahan ng 1 Enoch 20 sina Uriel, Raguel, Saraqael, at Remiel; may pagkakaiba sa pagbabaybay at pagbilang. Hindi bahagi ng 66 na aklat ng app ang mga aklat na ito. Hindi sapat ang pagsipi ng Judas sa materyal na Enoch upang patunayang tinatanggap ng lahat ng simbahan ang buong aklat."
+          ],
+          "scope": "abridged"
+        },
+        "seraphim-and-cherubim": {
+          "title": "Mga serapin at kerubin",
+          "paragraphs": [
+            "May anim na pakpak ang mga serapin sa Isaias 6: dalawa para sa mukha, dalawa para sa paa, at dalawa sa paglipad. Sa Ezekiel 10, may apat na mukha at apat na pakpak ang mga kerubin sa pangitain. Hindi iisang anyo ang lahat ng inilalarawan. Ang mga larawan ay malikhaing paglalarawan ng tiyak na talata, hindi talaan ng anatomiyang napatunayan."
+          ],
+          "scope": "abridged"
+        },
+        "unnamed-messengers": {
+          "title": "Mga sugong hindi pinangalanan",
+          "paragraphs": [
+            "May mga salaysay na naglalarawan ng mga bisita bilang mga tao at may mga pangitaing kahanga-hanga ang anyo. Hindi dapat ipilit ang iisang anyo sa lahat. Sa Apocalipsis 22:8–9, tinatanggihan ng anghel ang pagsamba at itinuturo kay Juan na sambahin ang Diyos."
+          ],
+          "scope": "abridged"
+        },
+        "angels-and-hope": {
+          "title": "Ang matututuhan sa paglilingkod ng mga anghel",
+          "paragraphs": [
+            "Binibigyang-diin ng Hebreo 1 ang kaibahan ng Anak at mga lingkod, at inilalagay ng Colosas 1 ang mga di-nakikitang kapangyarihan sa kaugnayan ng nilikha kay Cristo. Basahin ang pinagmulan ng bawat larawan, tukuyin ang malinaw na sinasabi ng teksto, at ihiwalay ang mga idinagdag ng sining."
+          ],
+          "scope": "abridged"
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "angelology",
+      "locale": "ilo",
+      "sourceVersion": 2,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan kadagiti Anghel",
+      "summary": "Dagiti anghel ket adipen ti Dios. Ni Miguel ken Gabriel ket nainaganan kadagiti libro nga awaten dagiti tradision a Protestante, Katoliko, ken Ortodokso; ni Rafael ket adda iti Tobit, a paset ti kanon ti dadduma a tradision. Ilawlawag nga umuna ti kanon sakbay nga agaramid iti sapasap a sasao.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "angels-section-1": {
+          "title": "Basaen ti panangidilig manipud iti rugi",
+          "paragraphs": [
+            "Mangrugi ti Hebrews iti panagsao ti Dios babaen kadagiti propeta ken kalpasanna babaen iti Anak. Iladawanna ti pannakainaig ti Anak iti panamarsua, panangdalus, ken nadiosan a dayag sakbay nga idiligna isuna kadagiti anghel. Gapuna, ti kangrunaan a panggep ti kapitulo ket saan a panangpennek iti panagbalin a managsaludsod maipapan iti saan a makita a lubong. Iturongna ti imatang iti naisangsangayan a kinasiasino ken aramid ti Anak.",
+            "Napateg ti urnos dagiti naadaw a sasao. Dagiti sagmaymaysa a linia ket naikadua iti maysa nga argumento, isu a masapul a saludsoden ti panagadal no kasano a ti tunggal linia ket makatulong iti dayta nga argumento. Ti bersikulo 14 ket mangawag kadagiti anghel nga espiritu nga agserserbi. Dayta a pannakailadawan ket ikabilna ti akemda iti panagserbi imbes a pagbalinenna ida a karibal ti Anak wenno bukod a pagtaudan ti pannakaisalakan."
+          ]
+        },
+        "angels-section-2": {
+          "title": "Panagserbi imbes a pannakawili",
+          "paragraphs": [
+            "Nainkalintegan a saludsoden ti agbasa dagiti panagparang dagiti anghel iti sabali a paset ti Kasuratan, ngem daytoy a teksto ket saan a mangipaay iti kompleto nga agsasaruno a ranggo, porma ti bagi, wenno listaan dagiti nagan. Saan nga ilawlawagna no kasano a mailasin ti tunggal aramid ti anghel iti inaldaw a kapadasan. Ti panagkedked a mangparnuay kadagita a detalye ket paset ti panagsursuro manipud iti teksto.",
+            "Ti Colosas 1 ket iramanna dagiti saan a makita a banag, trono, panagturay, pangulo, ken pannakabalin iti saklaw dagiti naparsua babaen ken para ken Cristo. Ti kangrunaan nga ibaga ti teksto ket ti kinangato ni Cristo iti amin. Ti naipagarup a tsart a mangited iti eksakto a ranggo iti uniberso para iti tunggal balikas ket agkasapulan iti pammaneknek a saan nga ited ti parapo."
+          ]
+        },
+        "angels-section-3": {
+          "title": "Ti pagdumaan ti arte ken pammaneknek",
+          "paragraphs": [
+            "Iladawan ti Cristiano nga arte dagiti naespirituan a parsua iti adu a pamay-an. Mabalin a simbolo ti ladawan ti panagserbi, kinasanto, wenno panangipakaammo nga awan panangidokumento iti pisikal a langa ti parsua. Ti tunggal kasta a ladawan iti daytoy a proyekto ket masapul a mamarkaan a kas panangipatarus ti artista. Ti panagbalin a gagangay ti makita ket saan a mamagbalin iti detalye a napaneknekan a sasao ti Biblia.",
+            "Agpada ti panagannad a maipakat kadagiti istoria maipapan iti salaknib wenno karkarna a kapadasan. Mabalin a denggen a siaaraem ti maysa a pammaneknek a saan a mapasingked a kas pammaneknek ti espesipiko nga ibaballaet ti anghel. Daytoy nga aralin ket saan a mangituding iti espirituan a makagapu ti sakit, riribuk, wenno maysa a saan a nailawlawag a pasamak. Ti maitutop a praktikal ken propesional a tulong ket saan a masapul a masukatan iti pangilawlawag a naibatay iti pugto."
+          ]
+        },
+        "angels-section-4": {
+          "title": "Maysa a sungbat nga addaan iti maitutop a kinapakumbaba",
+          "paragraphs": [
+            "Ti dayagram ti aralin ket irekordna ti urnos ti teksto: ti Dios ket agsao babaen iti Anak; ti Anak ket nailasin kadagiti anghel; dagiti anghel ket mailadawan maipapan iti panagserbi. Daytoy a simple a biswal ket pagtalinaedenna ti argumento a nalaka a basaen. Naigagara a saan daytoy a naan-anay a mapa ti espirituan a kinapudno.",
+            "Para iti panagsasarita ti grupo, bingayen dagiti maibilang a panangibaga iti tallo a kolum: direkta a naibaga iti teksto, naadaw iti teksto, ken saan a napaneknekan ti teksto. Saludsoden no ania a gagangay a panagserbi ti mabalin nga aramiden ti komunidad. Ti panangyaplikar ket saan nga anghel dagiti tao; no di ket ti panaginasat iti saan a makita ket saan a rumbeng a mangsinga iti nalawag a pagrebbengan iti kaarruba."
+          ]
+        },
+        "angels-section-5": {
+          "title": "Maysa nga aramid a panagbasa a mangsukisok iti tunggal panangibaga",
+          "paragraphs": [
+            "Mangala iti maysa a gagangay a patigmaan maipapan kadagiti anghel ket saludsodem no ti asinoman kadagiti napili a teksto ket mangipasingked iti dayta. Ti patigmaan maipapan iti panagserbi ket addaan iti direkta a pakasarakan iti teksto iti Hebrews 1:14. Ti patigmaan maipapan iti espesipiko a kolor dagiti payak wenno natuding nga urnos dagiti ranggo ket saan a sumurot manipud iti dayta a bersikulo. Ti panangilasin iti daytoy ket saan a panangbusor iti arte wenno tradision; daytoy ket napudno a panangilawlawag iti akem ti pammaneknek.",
+            "No ti ibagbaga ket kukua ti maysa a natudtudo a tradision, ilasin dayta a pagtaudan ken isurat iti maitutop a kategoria. No maysa dayta a pili iti arte, markaan a kasta. No awan pay ti napaneknekan a pagtaudan, ibati a kas saludsod. Saan a rumbeng nga agpugto ti bumasa no ti maysa a sigurado unay a sasao ket aggapu iti Kasuratan, iti dokumento ti iglesia, wenno iti imahinasion ti autor. Daytoy a disiplina ket makaaramid iti kapitulo a napno iti ladawan nga ad-adda a mapagtalkan a saan a kumapsut ti panangay-ayona. Dagiti nalawag a marka ket tumulong kadagiti bumasa a mangapresiar iti arte a di pagriribuken dagiti detalye dayta iti doktrina."
+          ]
+        },
+        "michael-named": {
+          "title": "Miguel: prinsipe ken arkanghel",
+          "paragraphs": [
+            "Nainaganan ni Miguel iti Daniel 10:13 ken 12:1, Judas 1:9, ken Apocalipsis 12:7–9. Ti Judas nalawag nga inawaganna nga arkanghel. Nabileg a mangserserbi isuna ngem adda iti babaen ti turay ti Dios. Saan nga iladawan dagiti teksto ti rupana wenno kabalna."
+          ],
+          "scope": "abridged"
+        },
+        "gabriel-named": {
+          "title": "Gabriel: mangilawlawag ken mensahero",
+          "paragraphs": [
+            "Iti Daniel 8:16 ken 9:21–23, tumulong ni Gabriel iti pannakaawat ti sirmata. Iti Lucas 1, ipakaammona ti pannakayanak ni Juan ken ni Jesus. Nailadawan a naibaon manipud iti presensia ti Dios. Saan nga awagan dagitoy a bersikulo nga arkanghel; dayta a titulo ket adda kadagiti nasaruno a tradision."
+          ],
+          "scope": "abridged"
+        },
+        "raphael-and-canon": {
+          "title": "Rafael ken ti kanon",
+          "paragraphs": [
+            "Iti Tobit 12, iyammo ni Rafael ti bagina a kas maysa kadagiti pito nga anghel iti sangoanan ti Dios. Ti Tobit ket adda iti Daan a Tulag ti Katoliko ken adu a koleksion nga Ortodokso, ngem awan iti 66 a libro ti edision a Protestante ti app. Masapul nga ilawlawag ti kanon no ibaga no asino ti nainaganan iti Biblia."
+          ],
+          "scope": "abridged"
+        },
+        "other-four-names": {
+          "title": "Uriel, Raguel, Sariel, ken Remiel",
+          "paragraphs": [
+            "Nainaganan ni Uriel iti 2 Esdras 4:1. Ti listaan ti 1 Enoch 20 iramanna da Uriel, Raguel, Saraqael, ken Remiel; agduduma ti panagsurat ken panangbilang. Saan nga adda dagitoy a libro iti 66 a libro ti app. Ti panangusar ti Judas iti Enochic a teksto ket saan a mangipakita a tunggal iglesia awatenna ti sibubukel a libro."
+          ],
+          "scope": "abridged"
+        },
+        "seraphim-and-cherubim": {
+          "title": "Dagiti serafin ken kerubin",
+          "paragraphs": [
+            "Adda innem a payak dagiti serafin iti Isaias 6: dua a mangabbong iti rupa, dua iti saka, ken dua para iti panagtayab. Iti Ezekiel 10, adda uppat a rupa ken uppat a payak dagiti kerubin iti sirmata. Saan nga agpapada amin a langa. Dagiti ladawan ket naartista a panangiladawan iti partikular a teksto, saan a napasingked nga anatomia."
+          ],
+          "scope": "abridged"
+        },
+        "unnamed-messengers": {
+          "title": "Dagiti mensahero nga awan naganna",
+          "paragraphs": [
+            "Adda dagiti istoria a mangiladawan kadagiti sangaili a kas tattao ken adda dagiti naisalsalumina a sirmata. Saan a maipilit ti maymaysa a langa iti amin. Iti Apocalipsis 22:8–9, saan nga awaten ti anghel ti panagdayaw ken ibagana ken Juan nga agdayaw iti Dios."
+          ],
+          "scope": "abridged"
+        },
+        "angels-and-hope": {
+          "title": "Ti maadal iti panagserbi dagiti anghel",
+          "paragraphs": [
+            "Ti Hebreo 1 ipaganetgetna ti nagdumaan ti Anak ken dagiti mangserserbi, ken ti Colosas 1 ikabilna dagiti saan a makita a turay iti relasyon ti parsua ken Cristo. Basaen ti pagtaudan ti tunggal ladawan, ilasin ti nalawag nga ibaga ti teksto, ken ilasin met ti innayon ti arte."
+          ],
+          "scope": "abridged"
+        }
+      }
+    }
+  }
+}

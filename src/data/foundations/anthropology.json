@@ -1,0 +1,324 @@
+{
+  "chapter": {
+    "id": "anthropology",
+    "slug": "anthropology",
+    "order": 6,
+    "title": "The Doctrine of Humanity",
+    "doctrine": "Anthropology",
+    "summary": "Genesis locates human dignity in relation to God, not in achievement, social standing, or independence. The image language also gives humanity a responsibility within creation.",
+    "question": "What grounds human dignity in this passage?",
+    "scriptureReferences": [
+      {
+        "reference": "Genesis 1:27",
+        "url": "https://ebible.org/engwebp/GEN01.htm#V27",
+        "context": "Read Genesis 1:26–31. Humanity is created in the image of God within the account of the good creation and receives a vocation concerning the earth and its creatures."
+      },
+      {
+        "reference": "Genesis 9:5–7",
+        "url": "https://ebible.org/engwebp/GEN09.htm#V5",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Colossians 1:15–20",
+        "url": "https://ebible.org/engwebp/COL01.htm#V15",
+        "context": "Read the surrounding chapter; this is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Locate image language in its narrative setting.",
+      "Connect dignity and responsibility without ranking people by capacity.",
+      "Distinguish the biblical statement from competing accounts of what the image entails."
+    ],
+    "sections": [
+      {
+        "id": "image-of-god-section-1",
+        "title": "The image as a received dignity",
+        "paragraphs": [
+          "Genesis 1 places human life within God’s good creation and describes humanity in relation to God’s image. Male and female are included in the wording. The dignity named here is received with human existence; it is not presented as a reward for wealth, intelligence, strength, or public usefulness. The lesson draws that ethical implication explicitly rather than pretending the chapter lists every modern situation.",
+          "This account challenges a community to examine whom it notices and whom it overlooks. An infant, an older neighbor, a person with a disability, and a person who cannot return a favor are not outside humanity’s dignity. These examples are contemporary applications of the passage’s scope, not a claim that Genesis employs modern legal or medical categories."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "genesis",
+          "genesis"
+        ]
+      },
+      {
+        "id": "image-of-god-section-2",
+        "title": "Image and vocation belong together",
+        "paragraphs": [
+          "The image statement appears alongside commands concerning fruitfulness and rule within creation. Human responsibility is therefore part of the setting, not an unrelated topic added after dignity. The text gives humanity a place within the world God calls good; it should not be used casually to justify waste or indifference to other life.",
+          "“Image” has received several theological explanations, including attention to relationship, capacity, representation, and vocation. This introductory lesson does not declare one explanatory model to be the whole meaning. It begins with what the text actually links: God’s creative action, humanity, male and female, blessing, and responsibility. Further comparisons need identified scholarly or confessional sources."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "genesis",
+          "genesis"
+        ]
+      },
+      {
+        "id": "image-of-god-section-3",
+        "title": "Dignity after the fracture of human life",
+        "paragraphs": [
+          "Genesis 9:5–6 uses the image of God as a reason for the seriousness of taking human life. In the narrative sequence this comes after the flood, so image language is not confined to the opening creation scene. The passage is ethically weighty, and a beginner’s lesson should not reduce it to a casual slogan or use it to settle every disputed question of punishment.",
+          "Christian language about sin and redemption must not become a reason to deny a neighbor’s humanity. The selected reading supports the gravity of violence; it does not identify a social group as less deserving of care. A local church can apply this principle to its practices while documenting the further moral reasoning required for particular decisions."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "noah",
+          "noah"
+        ]
+      },
+      {
+        "id": "image-of-god-section-4",
+        "title": "Practice dignity in ordinary encounters",
+        "paragraphs": [
+          "Choose one ordinary setting: a meeting, a meal, a hospital visit, or an online exchange. Ask whose needs are treated as an inconvenience and whose voice receives automatic attention. A practical response can be modest and concrete—providing accessible material, listening without interruption, or offering assistance without stripping a person of agency.",
+          "The lesson’s comparison diagram keeps dignity and vocation together. It does not classify some people as bearing more of God’s image than others. In a discussion, resist using “image of God” as an impressive phrase that leaves actual behavior untouched. Ask what should change in the way a named neighbor is welcomed and protected."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "genesis",
+          "noah",
+          "genesis",
+          "noah"
+        ]
+      },
+      {
+        "id": "image-of-god-section-5",
+        "title": "A dignity audit for a study group",
+        "paragraphs": [
+          "Before discussing an abstract definition, consider the group’s own practices. Are materials readable for someone with poor vision? Can a quiet participant contribute without being rushed? Is practical help offered respectfully? These questions are not a substitute for studying the passage. They test whether an ethical inference about dignity reaches ordinary conduct.",
+          "Keep the distinction between the textual principle and the practical decision visible. A specific accessibility measure may require asking a participant what works, while a safeguarding policy requires further professional and legal information. Scripture’s image language provides a serious moral orientation; responsible action also takes the person and the circumstances seriously."
+        ],
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "genesis",
+          "noah",
+          "genesis",
+          "noah"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Anthropology",
+        "fil": "Ang Doktrina Tungkol sa Sangkatauhan",
+        "ilo": "Ti Doktrina Maipapan iti Sangatauan",
+        "definition": "The field of study introduced in The Doctrine of Humanity.",
+        "reference": "Genesis 1:27",
+        "note": "Editorial study term; equivalents require qualified language review."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "The precise definition of the image, its relation to sin, and detailed ethical applications need further confessional and scholarly review. This lesson does not rank human dignity by measured capacity.",
+    "application": [
+      "Review one church activity for accessibility and welcome.",
+      "Speak about someone who needs care without reducing them to a problem."
+    ],
+    "reflection": [
+      "Whose dignity do I find easiest to overlook?",
+      "How can responsibility and dependence coexist?",
+      "What does the passage state, and what moral inferences are we drawing?",
+      "How can assistance preserve another person’s participation and agency?"
+    ],
+    "quiz": [
+      {
+        "question": "What grounds image language in Genesis 1?",
+        "options": [
+          "Human achievement",
+          "God’s creative action",
+          "Membership in a powerful group"
+        ],
+        "answer": 1,
+        "explanation": "God creates humanity in the divine image; it is not introduced as an earned status."
+      },
+      {
+        "question": "What does Genesis 9 connect with the image?",
+        "options": [
+          "The seriousness of human life and violence",
+          "A hierarchy of intelligence",
+          "The disappearance of responsibility"
+        ],
+        "answer": 0,
+        "explanation": "Genesis 9:5–6 grounds the gravity of taking human life in God’s making humanity in his image."
+      },
+      {
+        "question": "Study check 3: which action best supports the objective “Distinguish the biblical statement from competing accounts of what the image entails.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Genesis 1:27, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 4: which action best supports the objective “Locate image language in its narrative setting.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Genesis 1:27, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      },
+      {
+        "question": "Study check 5: which action best supports the objective “Connect dignity and responsibility without ranking people by capacity.”?",
+        "options": [
+          "Read the linked passage with its context and explain the evidence",
+          "Repeat an infographic without checking it",
+          "Assume every tradition uses identical interpretations"
+        ],
+        "answer": 0,
+        "explanation": "Return to Genesis 1:27, distinguish the passage from the lesson’s interpretation, and record any remaining question."
+      }
+    ],
+    "diagram": {
+      "title": "Dignity and vocation",
+      "steps": [
+        "Created by God",
+        "Dignity received",
+        "Neighbors protected",
+        "Responsibility practiced"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/anthropology.webp",
+      "thumbnail": "/illustrations/anthropology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of Humanity; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "genesis",
+        "title": "World English Bible (Updated): Genesis 1:26–31",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 1:26–31",
+        "url": "https://ebible.org/engwebp/GEN01.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      },
+      {
+        "id": "noah",
+        "title": "World English Bible (Updated): Genesis 9:5–7",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 9:5–7",
+        "url": "https://ebible.org/engwebp/GEN09.htm",
+        "accessed": "2026-10-30",
+        "notes": "Imported from the existing sourced preview; prior retrieval audit 2026-10-28. Human theological review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Structured study draft adapted from an existing lesson; broader topic expansion remains under review."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "anthropology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol sa Sangkatauhan",
+      "summary": "Itinuturo ng Genesis na nilikha ang tao ayon sa larawan ng Diyos. Ang dignidad ay hindi gantimpala sa talino, lakas, o katayuan. Isaalang-alang ang pananagutan at pag-aalaga sa kapwa at sa nilikha.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "image-of-god-section-1": {
+          "title": "Ang imahe bilang isang natanggap na dignidad",
+          "paragraphs": [
+            "Inilalagay ng Genesis 1 ang buhay ng tao sa loob ng mabuting nilikha ng Diyos at inilalarawan ang sangkatauhan kaugnay ng wangis ng Diyos. Kasama sa mga salita ang lalaki at babae. Ang dignidad na binanggit dito ay tinatanggap kasama ng pag-iral ng tao; hindi ito inihaharap bilang gantimpala para sa kayamanan, katalinuhan, lakas, o pampublikong kapakinabangan. Ang aral ay malinaw na nagpapakita ng etikal na implikasyon sa halip na magpanggap na inililista ng kabanata ang bawat modernong sitwasyon.",
+            "Hinahamon ng salaysay na ito ang isang komunidad na suriin kung sino ang napapansin at kung sino ang hindi pinapansin. Ang isang sanggol, isang matandang kapitbahay, isang taong may kapansanan, at isang taong hindi kayang gumanti ng pabor ay hindi nasa labas ng dignidad ng sangkatauhan. Ang mga halimbawang ito ay mga kontemporaryong aplikasyon ng saklaw ng sipi, hindi isang pag-aangkin na gumagamit ang Genesis ng mga modernong legal o medikal na kategorya."
+          ]
+        },
+        "image-of-god-section-2": {
+          "title": "Ang imahe at bokasyon ay magkaugnay",
+          "paragraphs": [
+            "Ang pahayag ng imahe ay lumilitaw kasama ng mga utos tungkol sa pagkamabunga at pamamahala sa loob ng paglikha. Samakatuwid, ang responsibilidad ng tao ay bahagi ng tagpuan, hindi isang hindi nauugnay na paksang idinagdag pagkatapos ng dignidad. Binibigyan ng teksto ang sangkatauhan ng isang lugar sa loob ng mundong tinatawag ng Diyos na mabuti; hindi ito dapat gamitin nang walang ingat upang bigyang-katwiran ang pag-aaksaya o kawalang-bahala sa ibang buhay.",
+            "Ang \"Imahe\" ay nakatanggap ng ilang mga paliwanag sa teolohiya, kabilang ang atensyon sa relasyon, kapasidad, representasyon, at bokasyon. Ang panimulang aralin na ito ay hindi nagpapahayag ng isang paliwanag na modelo bilang ang buong kahulugan. Nagsisimula ito sa kung ano talaga ang iniuugnay ng teksto: ang malikhaing aksyon ng Diyos, sangkatauhan, lalaki at babae, pagpapala, at responsibilidad. Ang karagdagang mga paghahambing ay nangangailangan ng mga natukoy na iskolar o kumpisal na mapagkukunan."
+          ]
+        },
+        "image-of-god-section-3": {
+          "title": "Dignidad pagkatapos ng pagkawasak ng buhay ng tao",
+          "paragraphs": [
+            "Ginagamit ng Genesis 9:5–6 ang imahe ng Diyos bilang dahilan sa kaseryosohan ng pagkitil ng buhay ng tao. Sa pagkakasunod-sunod ng salaysay, ito ay nangyayari pagkatapos ng baha, kaya ang wika ng imahe ay hindi limitado sa pambungad na eksena ng paglikha. Ang sipi ay may etikal na bigat, at ang aralin ng isang baguhan ay hindi dapat bawasan ito sa isang kaswal na islogan o gamitin ito upang lutasin ang bawat pinagtatalunang tanong ng parusa.",
+            "Ang wikang Kristiyano tungkol sa kasalanan at pagtubos ay hindi dapat maging dahilan upang tanggihan ang pagkatao ng isang kapwa. Sinusuportahan ng napiling pagbasa ang bigat ng karahasan; hindi nito kinikilala ang isang grupong panlipunan bilang hindi gaanong karapat-dapat sa pangangalaga. Maaaring ilapat ng isang lokal na simbahan ang prinsipyong ito sa mga kasanayan nito habang idinodokumento ang karagdagang pangangatwirang moral na kinakailangan para sa mga partikular na desisyon."
+          ]
+        },
+        "image-of-god-section-4": {
+          "title": "Magsanay ng dignidad sa mga ordinaryong engkwentro",
+          "paragraphs": [
+            "Pumili ng isang ordinaryong tagpuan: isang pagpupulong, isang pagkain, isang pagbisita sa ospital, o isang online na palitan. Magtanong kung kaninong mga pangangailangan ang itinuturing na isang abala at kaninong boses ang awtomatikong nakakakuha ng atensyon. Ang isang praktikal na tugon ay maaaring maging katamtaman at konkreto—pagbibigay ng madaling ma-access na materyal, pakikinig nang walang pagkaantala, o pag-aalok ng tulong nang hindi inaalisan ng kalayaan ang isang tao.",
+            "Ang diagram ng paghahambing ng aralin ay nagpapanatili ng dignidad at bokasyon nang magkakasama. Hindi nito inuuri ang ilang tao bilang mas may wangis ng Diyos kaysa sa iba. Sa isang talakayan, iwasang gamitin ang \"larawan ng Diyos\" bilang isang kahanga-hangang parirala na hindi nagalaw ang aktwal na pag-uugali. Itanong kung ano ang dapat baguhin sa paraan ng pagtanggap at pagprotekta sa isang pinangalanang kapitbahay."
+          ]
+        },
+        "image-of-god-section-5": {
+          "title": "Isang pagsusuri ng dignidad para sa isang grupo ng pag-aaral",
+          "paragraphs": [
+            "Bago talakayin ang isang abstraktong kahulugan, isaalang-alang ang sariling mga kasanayan ng grupo. Mababasa ba ang mga materyales para sa isang taong may mahinang paningin? Maaari bang mag-ambag ang isang tahimik na kalahok nang hindi minamadali? Ang praktikal na tulong ba ay iniaalok nang may paggalang? Ang mga tanong na ito ay hindi kapalit ng pag-aaral ng sipi. Sinusubukan nila kung ang isang etikal na hinuha tungkol sa dignidad ay umaabot sa ordinaryong pag-uugali.",
+            "Panatilihing nakikita ang pagkakaiba sa pagitan ng prinsipyo ng teksto at ng praktikal na desisyon. Ang isang partikular na sukatan ng pagiging naa-access ay maaaring mangailangan ng pagtatanong sa isang kalahok kung ano ang gumagana, habang ang isang patakaran sa pangangalaga ay nangangailangan ng karagdagang propesyonal at legal na impormasyon. Ang wika ng imahe ng Banal na Kasulatan ay nagbibigay ng isang seryosong oryentasyong moral; ang responsableng aksyon ay sineseryoso rin ang tao at ang mga pangyayari."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "anthropology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan iti Sangatauan",
+      "summary": "Isuro ti Genesis a ti tao ket naparsua a kaladawan ti Dios. Ti dignidad ket saan a gungguna ti sirib, pigsa, wenno saad. Panunoten ti panagsungbat ken panangaywan iti pada a tao ken iti parsua.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "image-of-god-section-1": {
+          "title": "Ti ladawan a kas naawat a dignidad",
+          "paragraphs": [
+            "Ti Genesis 1 ket ikabilna ti biag ti tao iti uneg ti naimbag a panamarsua ti Dios ket iladawanna ti sangatauan a naisilpu iti ladawan ti Dios. Nairaman iti pannakaibaga ti lalaki ken babai. Ti dignidad a nailasin ditoy ket naawat a kadua ti kaadda ti tao; saan a naiparang a gunggona ti kinabaknang, kinasaririt, pigsa, wenno kinaserbi iti publiko. Ti adal ket silalawag a mangadaw iti dayta a kaipapanan iti etika imbes nga aginkukuna nga inilista ti kapitulo ti tunggal moderno a kasasaad.",
+            "Daytoy a pannakailawlawag ket karitenna ti komunidad a sukisoken no asino ti mapalpalagipna ken asino ti maliplipatanna. Ti maladaga, nataengan a kaarruba, tao nga addaan iti disabilidad, ken tao a saan a makasubad iti pabor ket saanda a nailaksid iti dignidad ti sangatauan. Dagitoy nga ehemplo ket agdama a panangyaplikar iti saklaw ti teksto, saan a panangibaga nga agusar ti Genesis kadagiti moderno a kategoria ti linteg wenno medisina."
+          ]
+        },
+        "image-of-god-section-2": {
+          "title": "Agtitipon ti ladawan ken nakaayaban",
+          "paragraphs": [
+            "Ti sasao maipapan iti ladawan ket agparang a kadua dagiti bilin maipapan iti panagpabunga ken panangituray iti uneg ti sangaparsuaan. Gapuna, ti pagrebbengan ti tao ket paset ti konteksto, saan a saan a nainaig a topiko a nainayon kalpasan ti dignidad. Ti teksto ket mangted iti sangataoan iti lugar iti uneg ti lubong nga awagan ti Dios a naimbag; saan a masapul nga aramaten dayta a basta laeng tapno palintegen ti panangsayang wenno kinaawan-pakaseknan iti sabali a biag.",
+            "Ti “ladawan” ket naaddaan iti adu a teolohiko a pannakailawlawag, agraman ti pannakaimatang iti relasion, kabaelan, panangibagi, ken ayab iti biag. Daytoy pangrugian nga adal ket saanna nga ipakaammo a ti maysa a modelo ti pannakailawlawag ket isu ti intero a kaipapanan. Mangrugi daytoy iti mismo nga isilpu ti teksto: ti mamarsua nga aramid ti Dios, sangatauan, lalaki ken babai, bendision, ken pagrebbengan. Dagiti sumaruno a panangidilig ket agkasapulan iti nailasin a nagtaudan manipud kadagiti eskolar wenno panangipudno ti pammati."
+          ]
+        },
+        "image-of-god-section-3": {
+          "title": "Dignidad kalpasan ti pannakadadael ti biag ti tao",
+          "paragraphs": [
+            "Usaren ti Genesis 9:5–6 ti ladawan ti Dios a pakaibatayan ti kinadagsen ti panangala iti biag ti tao. Iti panagsasaruno ti salaysay, daytoy ket kalpasan ti layus, isu a ti pagsasao maipapan iti ladawan ket saan laeng a limitado iti umuna a salaysay ti panamarsua. Addaan ti teksto iti nadagsen a moral a kaipapanan, ket saan a rumbeng a pagbalinen ti pakauna nga adal a nalaka a slogan wenno usaren a pangrisot iti tunggal maisusuppiat a saludsod maipapan iti dusa.",
+            "Ti Cristiano a sasao maipapan iti basol ken pannakasubbot ket saan koma nga agbalin a gapu iti panangilibak iti kinatao ti kaarruba. Ti napili a basaen ket mangsuporta iti kinadagsen ti kinaranggas; saanna nga ilasin ti maysa a grupo iti kagimongan a kas saan unay a maikari iti panangaywan. Mabalin nga iyaplikar ti lokal nga iglesia daytoy a prinsipio kadagiti aramidna bayat nga idokumento dagiti ad-adu a moral a panagpanunot a kasapulan para kadagiti naisangsangayan a pangngeddeng."
+          ]
+        },
+        "image-of-god-section-4": {
+          "title": "Ipakita ti dignidad iti gagangay a pannakisinnabat",
+          "paragraphs": [
+            "Pilien ti maysa a gagangay a kasasaad: panagmiting, panangan, panagbisita iti ospital, wenno panagsasarita iti internet. Damagen no asino a dagiti kasapulanda ket maibilang a pakarigatan ken no asino a boses ti dagus a maikankano. Mabalin a bassit ngem nalawag ti praktikal a sungbat—panangipaay iti materyal a mabalin nga usaren ti amin, panagdengngeg nga awan panangsingit, wenno panangitulong nga awan panangikkat iti pannakabalin ti tao nga agpili para iti bagina.",
+            "Ti dayagram ti panangidilig iti aralin ket ikaduana ti dignidad ken akem. Saanna nga ilasin ti sumagmamano a tattao a kas ad-adu ti tagida a ladawan ti Dios ngem dagiti sabali. Iti tungtongan, liklikan ti panangaramat iti “ladawan ti Dios” a kas makapabilib a sasao a saan a mangbaliw iti pudno a kababalin. Saludsoden no ania ti masapul a mabaliwan iti wagas a panangawat ken panangsalaknib iti espesipiko a kaarruba."
+          ]
+        },
+        "image-of-god-section-5": {
+          "title": "Maysa a panangsukisok iti dayaw iti grupo a pagadalan",
+          "paragraphs": [
+            "Sakbay a pagsasaritaan ti maysa nga abstrakto a depinasion, kitaen dagiti bukod nga aramid ti grupo. Mabalin kadi a basaen dagiti materyal ti tao a nakapuy ti panagkitana? Mabalin kadi a makibingay ti naulimek a kameng nga awan panangap-apura kenkuana? Maipaay kadi ti praktikal a tulong a buyogen ti respeto? Dagitoy a saludsod ket saan a kasukat ti panagadal iti teksto. Subokenda no ti naetikaan a pangngeddeng maipapan iti dayaw ket dumanon iti gagangay nga aramid.",
+            "Pagtalinaeden a makita ti nagdumaan ti prinsipio ti teksto ken ti praktikal a pangngeddeng. Ti natudtudo a wagas a mangipalubos iti pannakipaset ket mabalin nga agkasapulan iti panangsaludsod iti makipaspaset no ania ti makatulong, bayat a ti pagannurotan a mangsalaknib ket agkasapulan iti ad-adu a propesional ken legal nga impormasion. Ti pagsasao ti Kasuratan maipapan iti ladawan ket mangted iti nadagsen a moral a turong; ti responsable nga aramid ket serioso met a mangikaso iti tao ken kadagiti kasasaad."
+          ]
+        }
+      }
+    }
+  }
+}

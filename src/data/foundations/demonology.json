@@ -1,0 +1,298 @@
+{
+  "chapter": {
+    "id": "demonology",
+    "slug": "demonology",
+    "order": 11,
+    "title": "The Doctrine of Satan and Demons",
+    "doctrine": "Demonology",
+    "summary": "Read biblical teaching about spiritual evil with sobriety: submit to God, resist temptation, practice truth and prayer, and refuse unsupported speculation. Ephesians 6 directs the community toward steadfast faith; it does not turn human neighbors into spiritual enemies.",
+    "question": "How can a Christian resist evil without living in fear or suspicion?",
+    "scriptureReferences": [
+      {
+        "reference": "James 4:1–12",
+        "url": "https://ebible.org/engwebp/JAS04.htm#V1",
+        "context": "Read the entire paragraph. These references do not authorize diagnosing a person as possessed."
+      },
+      {
+        "reference": "Ephesians 6:10–20",
+        "url": "https://ebible.org/engwebp/EPH06.htm#V10",
+        "context": "Read the entire paragraph. These references do not authorize diagnosing a person as possessed."
+      },
+      {
+        "reference": "Jude 1:8–10",
+        "url": "https://ebible.org/engwebp/JUD01.htm#V8",
+        "context": "Read the entire paragraph. These references do not authorize diagnosing a person as possessed."
+      },
+      {
+        "reference": "Matthew 4:1–11",
+        "url": "https://ebible.org/engwebp/MAT04.htm#V1",
+        "context": "Read the entire paragraph. These references do not authorize diagnosing a person as possessed."
+      }
+    ],
+    "learningObjectives": [
+      "Read spiritual warfare within the letter’s call to truth and prayer.",
+      "Distinguish explicit biblical statements from speculation.",
+      "Avoid treating human opponents or illness as proof of demonic activity."
+    ],
+    "sections": [
+      {
+        "id": "resistance",
+        "title": "Humility before resistance",
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "james"
+        ],
+        "paragraphs": [
+          "James 4:1–12 places resistance to the devil within a discussion of conflicts, desires, pride, and humble return to God. The surrounding paragraph prevents us from treating one sentence as a technique independent of discipleship. The passage calls readers to examine their own conduct rather than search first for an invisible cause of someone else’s difficulties.",
+          "The practical movement is toward God: humility, repentance, and truthful relationships. It is not a guarantee that a person who prays will never experience distress. Teaching should keep the scope of the text visible and resist adding a detailed system of spirits that James does not provide."
+        ]
+      },
+      {
+        "id": "armor",
+        "title": "The armor of a truthful community",
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "armor"
+        ],
+        "paragraphs": [
+          "Ephesians 6:10–20 uses armor imagery for truth, righteousness, readiness associated with the gospel of peace, faith, salvation, the word of God, and prayer. Read the list as a whole. The letter does not invite believers to become violent toward neighbors; it explicitly distinguishes the struggle from flesh and blood. A teaching diagram should direct readers back to those stated practices.",
+          "A group can ask how truthfulness, peacemaking, and prayer shape its response to conflict. The image does not excuse slander, coercion, or claims that an opponent is secretly a demon. These are pastoral applications of the text’s orientation, not additional biblical sentences. A leader should remain accountable for the way the imagery is used."
+        ]
+      },
+      {
+        "id": "limits",
+        "title": "Named limits and open questions",
+        "depth": "advanced",
+        "category": "D",
+        "sourceIds": [
+          "jude",
+          "temptation"
+        ],
+        "paragraphs": [
+          "Jude 1:8–10 warns against arrogant speech in a difficult passage involving Michael and the devil. It supplies a reason for restraint, not a complete map of the spirit world. Matthew 4 narrates Jesus’ temptation and his appeal to Scripture. The text gives a narrative with a specific subject; it does not establish every later account of demonic hierarchy or a universal ritual for deliverance.",
+          "Christian communities differ in their practices and explanations of exorcism and deliverance. This introductory draft does not authorize those practices or speak for all traditions. A more detailed comparison requires official documents and knowledgeable reviewers. Label a question as unresolved when its evidence has not been established.",
+          "A chapter about demons must not diagnose mental illness, disability, or ordinary suffering as possession. Such a conclusion does not follow from the selected passages. People in distress need respectful support and appropriate professional care; biblical study can accompany care without replacing it. Avoid sensational art or fear-based promises."
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Demonology",
+        "fil": "Ang Doktrina Tungkol kay Satanas at mga Demonyo",
+        "ilo": "Ti Doktrina Maipapan ken Satanas ken dagiti Demonio",
+        "definition": "The field of study introduced in The Doctrine of Satan and Demons.",
+        "reference": "Hebrews 1:14",
+        "note": "Editorial study term; equivalents require qualified language review."
+      },
+      {
+        "en": "Discernment",
+        "fil": "Maingat na pagkilala",
+        "ilo": "Naannad a panangilasin",
+        "definition": "Testing a teaching or claim rather than assuming that confidence, spectacle, or an image establishes its truth.",
+        "reference": "1 John 4:1–6",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      }
+    ],
+    "misunderstandings": [
+      "A nearby verse is not proof of every statement in an infographic. Read the passage in its context.",
+      "An editorial interpretation is not an additional sentence of Scripture."
+    ],
+    "differences": "Practices of exorcism and deliverance differ across Christian communities. No detailed institutional comparison has yet been verified for this draft; that is a review task, not a basis for inventing a universal ritual.",
+    "application": [
+      "Read James 4 in its context before discussing resistance.",
+      "Respond to conflict with truth, prayer, accountability, and care.",
+      "Refer health concerns to appropriate care; do not diagnose possession."
+    ],
+    "reflection": [
+      "What does James place before the call to resist?",
+      "Which parts of the armor image describe ordinary Christian conduct?",
+      "How can a group avoid making human neighbors into enemies?"
+    ],
+    "quiz": [
+      {
+        "question": "What is the context of James 4:7?",
+        "options": [
+          "Humility and submission to God",
+          "A complete angel catalogue",
+          "A prediction calendar"
+        ],
+        "answer": 0,
+        "explanation": "James 4 discusses desires, conflict, humility, and return to God."
+      },
+      {
+        "question": "Ephesians 6 distinguishes the struggle from what?",
+        "options": [
+          "Prayer",
+          "Flesh and blood",
+          "Truth"
+        ],
+        "answer": 1,
+        "explanation": "Ephesians 6:12 prevents treating human neighbors as the enemy."
+      },
+      {
+        "question": "Which belongs to the armor imagery?",
+        "options": [
+          "Secret passwords",
+          "A fixed list of demon names",
+          "Truth and faith"
+        ],
+        "answer": 2,
+        "explanation": "Read Ephesians 6:14–18 for the stated practices."
+      },
+      {
+        "question": "What does Jude 1:8–10 encourage here?",
+        "options": [
+          "Restraint about arrogant claims",
+          "Certainty about every spirit",
+          "Public accusations"
+        ],
+        "answer": 0,
+        "explanation": "The passage warns about speaking abusively concerning things not understood."
+      },
+      {
+        "question": "What should this lesson do with illness?",
+        "options": [
+          "Assume possession",
+          "Replace medical care",
+          "Avoid unsupported diagnosis and support appropriate care"
+        ],
+        "answer": 2,
+        "explanation": "The selected passages do not authorize diagnosing an individual’s health condition."
+      }
+    ],
+    "diagram": {
+      "title": "Read the armor image in context",
+      "steps": [
+        "Truth",
+        "Righteousness",
+        "Gospel of peace",
+        "Faith",
+        "Salvation",
+        "Word and prayer"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/demonology.webp",
+      "thumbnail": "/illustrations/demonology.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of Satan and Demons; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "james",
+        "title": "World English Bible: James 4:1–12",
+        "institution": "eBible / World English Bible",
+        "section": "James 4:1–12",
+        "url": "https://ebible.org/engwebp/JAS04.htm#V1",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English; contextual reading required."
+      },
+      {
+        "id": "armor",
+        "title": "World English Bible: Ephesians 6:10–20",
+        "institution": "eBible / World English Bible",
+        "section": "Ephesians 6:10–20",
+        "url": "https://ebible.org/engwebp/EPH06.htm#V10",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English; contextual reading required."
+      },
+      {
+        "id": "jude",
+        "title": "World English Bible: Jude 1:8–10",
+        "institution": "eBible / World English Bible",
+        "section": "Jude 1:8–10",
+        "url": "https://ebible.org/engwebp/JUD01.htm#V8",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English; contextual reading required."
+      },
+      {
+        "id": "temptation",
+        "title": "World English Bible: Matthew 4:1–11",
+        "institution": "eBible / World English Bible",
+        "section": "Matthew 4:1–11",
+        "url": "https://ebible.org/engwebp/MAT04.htm#V1",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English; contextual reading required."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Original sourced introductory manuscript; expanded comparative research pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "demonology",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol kay Satanas at mga Demonyo",
+      "summary": "Itinuturo ng Santiago 4 ang pagpapasakop sa Diyos at paglaban sa diyablo sa konteksto ng pagpapakumbaba. Iniuugnay ng Efeso 6 ang katatagan sa katotohanan, katuwiran, pananampalataya, at panalangin. Hindi dapat ipagpalagay na demonyo ang dahilan ng bawat karamdaman.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "resistance": {
+          "title": "Pagpapakumbaba bago paglaban",
+          "paragraphs": [
+            "Inilalagay ng Santiago 4:1–12 ang paglaban sa diyablo sa pagtalakay sa alitan, pagnanasa, pagmamataas, at mapagpakumbabang pagbabalik sa Diyos. Pinipigilan tayo ng konteksto na gawing hiwalay na pamamaraan ang isang pangungusap. Inaanyayahan ang mambabasang siyasatin muna ang sariling asal sa halip na maghanap agad ng di-nakikitang sanhi ng hirap ng iba.",
+            "Patungo sa Diyos ang pagkilos: pagpapakumbaba, pagsisisi, at tapat na ugnayan. Hindi ito garantiyang hindi na makararanas ng dalamhati ang nananalangin. Panatilihing malinaw ang saklaw ng teksto at huwag magdagdag ng detalyadong sistema ng mga espiritung hindi ibinibigay ng Santiago."
+          ]
+        },
+        "armor": {
+          "title": "Ang sandata ng tapat na pamayanan",
+          "paragraphs": [
+            "Gumagamit ang Efeso 6:10–20 ng larawan ng sandata para sa katotohanan, katuwiran, kahandaang kaugnay ng ebanghelyo ng kapayapaan, pananampalataya, kaligtasan, salita ng Diyos, at panalangin. Basahin ang buong talaan. Hindi nito inaanyayahan ang karahasan laban sa kapwa; tahasan nitong inihihiwalay ang pakikibaka sa laman at dugo. Dapat ibalik ng diagram ang pansin sa mga gawaing nakasaad.",
+            "Maaaring itanong ng grupo kung paano hinuhubog ng katotohanan, pakikipagpayapa, at panalangin ang pagtugon sa alitan. Hindi dahilan ang larawan upang manirang-puri, mamilit, o sabihing lihim na demonyo ang kalaban sa opinyon. Mga aplikasyong pastoral ito ayon sa direksiyon ng teksto, hindi karagdagang pangungusap ng Biblia. May pananagutan ang pinuno sa paggamit ng larawan."
+          ]
+        },
+        "limits": {
+          "title": "Mga hangganan at bukas na tanong",
+          "paragraphs": [
+            "Nagbababala ang Judas 1:8–10 laban sa palalong pananalita sa mahirap na talatang may kaugnayan kay Miguel at sa diyablo. Dahilan ito ng pagpipigil, hindi kumpletong mapa ng daigdig ng mga espiritu. Isinasalaysay ng Mateo 4 ang pagtukso kay Jesus at paggamit niya sa Kasulatan. Hindi itinatatag ng salaysay ang bawat mas huling paliwanag sa ranggo ng mga demonyo o pangkalahatang ritwal ng pagpapalaya.",
+            "Magkakaiba ang mga pamayanang Kristiyano sa paliwanag at pagsasagawa ng exorcism at deliverance. Hindi pinahihintulutan ng panimulang burador na ito ang mga gawaing iyon o nagsasalita para sa lahat ng tradisyon. Kailangan ng opisyal na dokumento at maalam na tagasuri para sa mas detalyadong paghahambing. Markahang hindi pa nalulutas ang tanong kung wala pang matibay na ebidensiya.",
+            "Hindi dapat ituring ng kabanata ang sakit sa isip, kapansanan, o karaniwang pagdurusa bilang patunay ng pagsapi. Hindi iyon kongklusyon mula sa napiling mga talata. Kailangan ng mga taong nahihirapan ng magalang na suporta at angkop na propesyonal na pangangalaga. Maaaring samahan ng pag-aaral ng Biblia ang pag-aalaga ngunit hindi ito kapalit. Iwasan ang sensasyonal na larawan at pangakong nakabatay sa takot."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "demonology",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan ken Satanas ken dagiti Demonio",
+      "summary": "Isuro ti Santiago 4 ti panagpasakup iti Dios ken panagsuppiat iti diablo iti konteksto ti kinapakumbaba. Ti Efeso 6 pagnaigenna ti kinatibker iti kinapudno, kinalinteg, pammati, ken kararag. Saan nga ipagarup a demonio ti gapu ti tunggal sakit.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "resistance": {
+          "title": "Kinapakumbaba sakbay ti panagsuppiat",
+          "paragraphs": [
+            "Ti Santiago 4:1–12 ikabilna ti panagsuppiat iti diablo iti panagsasarita maipapan iti riri, tarigagay, kinatangsit, ken napakumbaba a panagsubli iti Dios. Ti konteksto ket manglapped iti panangaramid iti maysa a pangungusap a naisina a wagas. Awisenna ti agbasbasa a sukisoken nga umuna ti bukodna a kababalin imbes a sapulen a dagus ti saan a makita a gapu ti rigat ti sabali.",
+            "Ti tignay ket maiturong iti Dios: kinapakumbaba, panagbabawi, ken napudno a panagkakaikadua. Saan a garantiya daytoy a ti agkarkararag ket saanen a makapadas iti ladingit. Pagtalinaeden a nalawag ti saklaw ti teksto ken saan nga inayon ti detalyado a sistema dagiti espiritu a saan nga ited ti Santiago."
+          ]
+        },
+        "armor": {
+          "title": "Ti kabal ti napudno a gimong",
+          "paragraphs": [
+            "Ti Efeso 6:10–20 usarenna ti ladawan ti kabal para iti kinapudno, kinalinteg, panagsagana a mainaig iti ebanghelio ti kappia, pammati, pannakaisalakan, sao ti Dios, ken kararag. Basaen ti sibubukel a listaan. Saan a mangawis daytoy iti kinaranggas iti pada a tao; direkta nga ilasinna ti laban manipud iti lasag ken dara. Masapul nga isubli ti diagram ti imatang kadagiti naibaga nga aramid.",
+            "Mabalin a saludsoden ti grupo no kasano a ti kinapudno, panangaramid iti kappia, ken kararag ket manghubog iti panangsungbat iti riri. Saan a rason ti ladawan para iti panangpabasol, panangpilit, wenno panangibaga a ti kasupadi ket nalimed a demonio. Dagitoy ket pastoral nga aplikasyon a mainaig iti turong ti teksto, saan a mainayon a pangungusap ti Biblia. Adda panagsungbat ti mangidaulo iti panangusarna iti ladawan."
+          ]
+        },
+        "limits": {
+          "title": "Dagiti limitasion ken nakalukat a saludsod",
+          "paragraphs": [
+            "Ti Judas 1:8–10 ballaaganna ti natangsit a panagsao iti narigat a paset a mainaig ken Miguel ken iti diablo. Rason daytoy ti panagteppel, saan a kompleto a mapa ti lubong dagiti espiritu. Ti Mateo 4 isalaysayna ti pannakasulisog ni Jesus ken panangusarna iti Surat. Saan nga ipaneknek ti istoria ti tunggal naud-udi a panangilawlawag iti ranggo dagiti demonio wenno sapasap a ritual ti pannakawayawaya.",
+            "Agduduma dagiti Kristiano a gimong iti panangilawlawag ken panangaramid iti exorcism ken deliverance. Saan a daytoy a pangrugian a burador ti mangipalubos kadagita nga aramid wenno mangisao para iti amin a tradision. Masapul ti opisial a dokumento ken naammuan a mangrepaso para iti detalyado a panagidilig. Markaan a saan pay a nasungbatan ti saludsod no awan pay ti natalged a pammaneknek.",
+            "Saan koma a ti kapitulo ket mangibilang iti sakit ti panunot, disabilidad, wenno gagangay a rigat a pammaneknek ti pannakaserrek ti demonio. Saan a dayta ti kongklusion dagiti napili a paset. Masapul dagiti marigrigatan ti naraem a tulong ken umiso a propesional a panangaywan. Mabalin a makikadua ti panagadal iti Biblia iti panangaywan ngem saan a sukatan dayta. Liklikan ti makapakigtot a ladawan ken kari a naibatay iti buteng."
+          ]
+        }
+      }
+    }
+  }
+}

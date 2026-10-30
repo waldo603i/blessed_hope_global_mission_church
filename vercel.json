@@ -1,11 +1,11 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "vite",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/api/scripture",
+      "destination": "/api/scripture.js"
+    },
+    {
+      "source": "/((?!api/|illustrations/|images/|translations/|assets/|icon-|manifest\\.webmanifest|sw\\.js).*)",
       "destination": "/index.html"
     }
   ]

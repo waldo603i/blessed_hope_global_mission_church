@@ -1,0 +1,311 @@
+{
+  "chapter": {
+    "id": "christ-in-the-old-testament",
+    "slug": "christ-in-the-old-testament",
+    "order": 13,
+    "title": "Christ in the Old Testament: Reading Typology",
+    "doctrine": "Christology · Study guide",
+    "summary": "Typology is a Christian way of relating an earlier person, event, or institution to Christ. It should preserve the earlier narrative rather than replace it. John 3:14–17 explicitly connects Moses’ lifting of the serpent with the lifting of the Son of Man. Read Numbers 21:4–9 first: identify the danger, the commanded response, and the narrative’s outcome. Then read John’s use of the event. The connection is stronger than a similarity invented by an illustrator because the later text itself supplies it.",
+    "question": "When is a connection to Christ supported by the New Testament?",
+    "scriptureReferences": [
+      {
+        "reference": "John 3:14–17",
+        "url": "https://ebible.org/engwebp/JHN03.htm#V14",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Numbers 21:4–9",
+        "url": "https://ebible.org/engwebp/NUM21.htm#V4",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "1 Corinthians 5:6–8",
+        "url": "https://ebible.org/engwebp/1CO05.htm#V6",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Exodus 12:1–13",
+        "url": "https://ebible.org/engwebp/EXO12.htm#V1",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Hebrews 7:1–28",
+        "url": "https://ebible.org/engwebp/HEB07.htm#V1",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      },
+      {
+        "reference": "Genesis 14:18–20",
+        "url": "https://ebible.org/engwebp/GEN14.htm#V18",
+        "context": "Read the surrounding paragraph. The guide distinguishes textual observation from interpretation and application."
+      }
+    ],
+    "learningObjectives": [
+      "Identify the explicit textual evidence in John 3:14–17.",
+      "Distinguish source statements from the interpretation explored in Christ in the Old Testament: Reading Typology.",
+      "Explain one limit or unresolved question and one responsible application."
+    ],
+    "sections": [
+      {
+        "id": "two-contexts",
+        "title": "Keep both passages open",
+        "paragraphs": [
+          "Typology is a Christian way of relating an earlier person, event, or institution to Christ. It should preserve the earlier narrative rather than replace it. John 3:14–17 explicitly connects Moses’ lifting of the serpent with the lifting of the Son of Man. Read Numbers 21:4–9 first: identify the danger, the commanded response, and the narrative’s outcome. Then read John’s use of the event. The connection is stronger than a similarity invented by an illustrator because the later text itself supplies it."
+        ],
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "p0",
+          "p1"
+        ]
+      },
+      {
+        "id": "explicit-links",
+        "title": "Passover and priesthood",
+        "paragraphs": [
+          "First Corinthians 5:6–8 uses Passover language for Christ within an appeal to the community’s conduct. Hebrews 7 develops a comparison involving Melchizedek and the Son; Genesis 14 supplies the earlier meeting with Abraham. Read the argument in Hebrews rather than assuming that every statement is made explicitly in Genesis. A chart can place the passages alongside each other, but it cannot make the two literary settings identical. Label the later Christian interpretation and avoid treating Jewish readings of their own Scriptures as though they do not exist."
+        ],
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "p2",
+          "p3",
+          "p4",
+          "p5"
+        ]
+      },
+      {
+        "id": "graded-confidence",
+        "title": "A connection is not equally certain in every row",
+        "paragraphs": [
+          "The supplied charts mix explicit New Testament connections with later devotional parallels, including Joseph and Boaz. Do not give every row the same evidence label. An expanded comparison should name its author or tradition and explain its reasoning. The chart’s account of Isaac also needs care: the Genesis narrative interrupts the threatened killing rather than reporting Isaac’s death. Build a study record with three columns: earlier context, later textual connection, and remaining interpretive question. This helps readers learn how an argument is made rather than memorize a picture.",
+          "Try the method with Passover. Write what Exodus says about the meal and the danger facing the households. Then write what Paul says about Christ and the conduct of his readers. Finally identify one detail your preferred illustration adds. This makes the connection teachable while keeping a visible boundary between the ancient narratives, the later interpretation, and the artist’s choices."
+        ],
+        "depth": "advanced",
+        "category": "D",
+        "sourceIds": [
+          "p0",
+          "p2",
+          "p4"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Typology",
+        "fil": "Tipolohiya",
+        "ilo": "Tipolohia",
+        "definition": "Christian reading that relates earlier persons, events, or institutions to Christ while preserving the earlier passage’s context.",
+        "reference": "John 3:14–17",
+        "note": "Original explanatory definition. Filipino and Ilokano terminology needs qualified review."
+      }
+    ],
+    "misunderstandings": [
+      "An attractive chart is not independent evidence for every detail.",
+      "A local study draft has not received theological or language approval."
+    ],
+    "differences": "This guide identifies the limits of its source comparison. It does not claim to speak for every Christian community. Detailed tradition-specific claims need independent review.",
+    "application": [
+      "Read both the linked source and its surrounding context.",
+      "Record the difference between an explicit statement and your interpretation.",
+      "Discuss one question honestly without filling the gap with speculation."
+    ],
+    "reflection": [
+      "When is a connection to Christ supported by the New Testament?",
+      "Which claim in the reference image goes beyond the selected passage?",
+      "What would a knowledgeable reviewer need to inspect?"
+    ],
+    "quiz": [
+      {
+        "question": "Which passage supplies the serpent connection?",
+        "options": [
+          "John 3:14–17",
+          "An anonymous painting",
+          "A modern calendar"
+        ],
+        "answer": 0,
+        "explanation": "John explicitly makes the connection; read Numbers 21 alongside it."
+      },
+      {
+        "question": "What should typology preserve?",
+        "options": [
+          "Only the later illustration",
+          "The earlier narrative’s context",
+          "Every imagined detail"
+        ],
+        "answer": 1,
+        "explanation": "Both passages need careful reading."
+      },
+      {
+        "question": "Where is Melchizedek developed in relation to the Son?",
+        "options": [
+          "Only in a chart",
+          "Luke 15",
+          "Hebrews 7"
+        ],
+        "answer": 2,
+        "explanation": "The developed comparison belongs to Hebrews, with Genesis 14 as earlier context."
+      },
+      {
+        "question": "Should Joseph and Boaz parallels receive automatic biblical-statement status?",
+        "options": [
+          "No; establish and label their evidence",
+          "Yes; any similarity is explicit Scripture",
+          "Only if illustrated"
+        ],
+        "answer": 0,
+        "explanation": "Distinguish an explicit textual connection from a later devotional parallel."
+      },
+      {
+        "question": "What does a useful comparison record?",
+        "options": [
+          "Only a title",
+          "Earlier context, later connection, remaining question",
+          "An imagined age"
+        ],
+        "answer": 1,
+        "explanation": "These columns make the interpretation inspectable."
+      }
+    ],
+    "diagram": {
+      "title": "Typology: examine the evidence",
+      "steps": [
+        "Keep both passages open",
+        "Passover and priesthood",
+        "A connection is not equally certain in every row"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/christ-in-the-old-testament.webp",
+      "thumbnail": "/illustrations/christ-in-the-old-testament.webp",
+      "alt": "Imaginative cinematic still life for Christ in the Old Testament: Reading Typology; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "p0",
+        "title": "World English Bible: John 3:14–17",
+        "institution": "eBible / World English Bible",
+        "section": "John 3:14–17",
+        "url": "https://ebible.org/engwebp/JHN03.htm#V14",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p1",
+        "title": "World English Bible: Numbers 21:4–9",
+        "institution": "eBible / World English Bible",
+        "section": "Numbers 21:4–9",
+        "url": "https://ebible.org/engwebp/NUM21.htm#V4",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p2",
+        "title": "World English Bible: 1 Corinthians 5:6–8",
+        "institution": "eBible / World English Bible",
+        "section": "1 Corinthians 5:6–8",
+        "url": "https://ebible.org/engwebp/1CO05.htm#V6",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p3",
+        "title": "World English Bible: Exodus 12:1–13",
+        "institution": "eBible / World English Bible",
+        "section": "Exodus 12:1–13",
+        "url": "https://ebible.org/engwebp/EXO12.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p4",
+        "title": "World English Bible: Hebrews 7:1–28",
+        "institution": "eBible / World English Bible",
+        "section": "Hebrews 7:1–28",
+        "url": "https://ebible.org/engwebp/HEB07.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      },
+      {
+        "id": "p5",
+        "title": "World English Bible: Genesis 14:18–20",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 14:18–20",
+        "url": "https://ebible.org/engwebp/GEN14.htm#V18",
+        "accessed": "2026-10-31",
+        "notes": "Passage consulted in its wider chapter. Original explanations and applications are not Scripture quotations."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Original three-layer study guide with independent Filipino and Ilokano section drafts; research and human review pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "christ-in-the-old-testament",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Si Cristo sa Lumang Tipan: Pag-aaral ng Tipolohiya",
+      "summary": "Ang tipolohiya ay paraan ng pagbabasang Kristiyano na nag-uugnay sa mas naunang tao, pangyayari, o institusyon kay Cristo. Dapat nitong panatilihin ang naunang salaysay, hindi palitan. Tahasang iniuugnay ng Juan 3:14–17 ang pagtaas ni Moises sa ahas sa pagtaas sa Anak ng Tao. Basahin muna ang Bilang 21:4–9: tukuyin ang panganib, iniutos na tugon, at kinalabasan. Pagkatapos ay basahin kung paano ginamit ng Juan ang pangyayari. Mas matibay ito kaysa pagkakatulad na inimbento ng ilustrador dahil ang mas huling teksto mismo ang nagbigay ng ugnayan.",
+      "question": "Ano ang malinaw sa talata, at alin ang kailangan pang suriin?",
+      "sections": {
+        "two-contexts": {
+          "title": "Panatilihing bukas ang dalawang talata",
+          "paragraphs": [
+            "Ang tipolohiya ay paraan ng pagbabasang Kristiyano na nag-uugnay sa mas naunang tao, pangyayari, o institusyon kay Cristo. Dapat nitong panatilihin ang naunang salaysay, hindi palitan. Tahasang iniuugnay ng Juan 3:14–17 ang pagtaas ni Moises sa ahas sa pagtaas sa Anak ng Tao. Basahin muna ang Bilang 21:4–9: tukuyin ang panganib, iniutos na tugon, at kinalabasan. Pagkatapos ay basahin kung paano ginamit ng Juan ang pangyayari. Mas matibay ito kaysa pagkakatulad na inimbento ng ilustrador dahil ang mas huling teksto mismo ang nagbigay ng ugnayan."
+          ]
+        },
+        "explicit-links": {
+          "title": "Paskuwa at pagkasaserdote",
+          "paragraphs": [
+            "Gumagamit ang 1 Corinto 5:6–8 ng wika ng Paskuwa para kay Cristo sa panawagan tungkol sa asal ng pamayanan. Binubuo ng Hebreo 7 ang paghahambing kay Melquisedec at sa Anak; nasa Genesis 14 ang naunang pakikipagkita kay Abraham. Basahin ang pangangatwiran sa Hebreo sa halip na ipagpalagay na tahasang sinabi na sa Genesis ang bawat pahayag. Maaaring itabi ng tsart ang mga talata, ngunit hindi nito mapagkakapareho ang dalawang kontekstong pampanitikan. Pangalanan ang mas huling pagpapakahulugang Kristiyano at huwag balewalain ang pagbasa ng mga Hudyo sa kanilang Kasulatan."
+          ]
+        },
+        "graded-confidence": {
+          "title": "Hindi pare-pareho ang katiyakan sa bawat ugnayan",
+          "paragraphs": [
+            "Pinaghahalo ng mga tsart ang tahasang ugnayan sa Bagong Tipan at mas huling debosyonal na paghahambing, gaya nina Jose at Boaz. Huwag bigyan ng iisang antas ng ebidensiya ang lahat ng hanay. Dapat pangalanan ng mas malawak na paghahambing ang may-akda o tradisyon at ipaliwanag ang pangangatwiran. Kailangan ding ingatan ang pahayag tungkol kay Isaac: pinipigil ng salaysay sa Genesis ang bantang pagpatay, hindi nito isinasalaysay ang pagkamatay ni Isaac. Gumawa ng tatlong hanay: naunang konteksto, mas huling tekstuwal na ugnayan, at natitirang tanong sa pagpapakahulugan. Sa ganito, natututuhan kung paano binubuo ang argumento sa halip na isaulo lamang ang larawan.",
+            "Subukan ang paraan sa Paskuwa. Isulat ang sinasabi ng Exodo tungkol sa pagkain at panganib sa mga sambahayan. Pagkatapos, isulat ang sinabi ni Pablo tungkol kay Cristo at sa asal ng mambabasa. Tukuyin ang isang detalyeng idinagdag ng iyong paboritong ilustrasyon. Naipapaliwanag ang ugnayan habang nananatiling malinaw ang hangganan ng sinaunang salaysay, mas huling pagpapakahulugan, at pagpili ng artist."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "christ-in-the-old-testament",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ni Cristo iti Daan a Tulag: Panagadal iti Tipolohia",
+      "summary": "Ti tipolohia ket Kristiano a panagbasa a manginaig iti nasapsapa a tao, pasamak, wenno institusion ken Cristo. Masapul a pagtalinaedenna ti nasapsapa nga istoria, saan a sukatan. Ti Juan 3:14–17 direkta nga inaigna ti panangitag-ay ni Moises iti uleg iti pannakaitag-ay ti Anak ti Tao. Basaen nga umuna ti Bilang 21:4–9: ilasin ti peggad, naibilin a sungbat, ken nagbanagan ti istoria. Kalpasanna basaen no kasano nga inusar ti Juan ti pasamak. Napigpigsa daytoy ngem panagpapada nga inaramid laeng ti agladawan ta ti mismo a naud-udi a teksto ti nangted iti panagkainaig.",
+      "question": "Ania ti nalawag iti paset, ken ania ti masapul pay a sukisoken?",
+      "sections": {
+        "two-contexts": {
+          "title": "Pagtalinaeden a nakalukat ti dua a paset",
+          "paragraphs": [
+            "Ti tipolohia ket Kristiano a panagbasa a manginaig iti nasapsapa a tao, pasamak, wenno institusion ken Cristo. Masapul a pagtalinaedenna ti nasapsapa nga istoria, saan a sukatan. Ti Juan 3:14–17 direkta nga inaigna ti panangitag-ay ni Moises iti uleg iti pannakaitag-ay ti Anak ti Tao. Basaen nga umuna ti Bilang 21:4–9: ilasin ti peggad, naibilin a sungbat, ken nagbanagan ti istoria. Kalpasanna basaen no kasano nga inusar ti Juan ti pasamak. Napigpigsa daytoy ngem panagpapada nga inaramid laeng ti agladawan ta ti mismo a naud-udi a teksto ti nangted iti panagkainaig."
+          ]
+        },
+        "explicit-links": {
+          "title": "Paskua ken kinapadi",
+          "paragraphs": [
+            "Usaren ti 1 Corinto 5:6–8 ti sao ti Paskua para ken Cristo iti panawagan maipapan iti kababalin ti gimong. Ti Hebreo 7 ilawlawagna ti panagidilig ken Melquisedec ken iti Anak; ti Genesis 14 ti pagtaudan ti nasapsapa a panagsarak ken Abraham. Basaen ti pannakailawlawag iti Hebreo imbes nga ipagarup a direkta a naibaga iti Genesis ti tunggal sasao. Mabalin a pagbalinen ti tsart nga agkadua dagiti paset, ngem saanna a mapagbalin nga agpapada dagiti kontekstoda. Inaganan ti naud-udi a Kristiano a panangipatarus ken saan a di ikankano ti panagbasa dagiti Judio iti bukodda a Surat."
+          ]
+        },
+        "graded-confidence": {
+          "title": "Saan nga agpapada ti kinatalged ti tunggal panagkainaig",
+          "paragraphs": [
+            "Paglaoken dagiti tsart ti direkta a panagkainaig iti Baro a Tulag ken naud-udi a debosional a panagidilig, kas kada Jose ken Boaz. Saan nga ited ti agpada a grado ti pammaneknek iti amin a linia. Masapul nga inaganan ti nalawlawa a panagidilig ti nagsurat wenno tradision ken ilawlawagna ti rasonna. Masapul met ti kinaannad iti sasao maipapan ken Isaac: ti istoria iti Genesis ket mangipatingga iti pangta a panagpatay, saan nga isalaysayna ti ipapatay ni Isaac. Agramid iti tallo a kolum: nasapsapa a konteksto, naud-udi a tekstuwal a panagkainaig, ken nabati a saludsod. Daytoy mangisuro no kasano a mabukel ti argumento imbes a kabisadoen laeng ti ladawan.",
+            "Padasen ti wagas iti Paskua. Isurat ti ibaga ti Exodo maipapan iti makan ken peggad kadagiti pagtaengan. Kalpasanna, isurat ti ibaga ni Pablo maipapan ken Cristo ken kababalin dagiti agbasbasa. Ilasin ti maysa a detalye nga inayon ti paboritom a ladawan. Mailawlawag ti panagkainaig bayat a nalawag ti limitasion dagiti daan nga istoria, naud-udi a panangipatarus, ken pagpili ti artist."
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "chapter": {
+    "id": "theology-proper",
+    "slug": "theology-proper",
+    "order": 1,
+    "title": "The Doctrine of God",
+    "doctrine": "Theology Proper",
+    "summary": "God is the Creator who gives life, the eternal and holy One who calls people to love. In the Nicene Christian tradition, the one God is confessed as Father, Son, and Holy Spirit. Learn to distinguish the Bible’s statements, the church’s historical formulations, and questions that require further study.",
+    "question": "What changes when knowing about God becomes a life of knowing God?",
+    "scriptureReferences": [
+      {
+        "reference": "Genesis 1:1–31",
+        "url": "https://ebible.org/engwebp/GEN01.htm#V1",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "Deuteronomy 6:4–9",
+        "url": "https://ebible.org/engwebp/DEU06.htm#V4",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "Psalm 90:1–17",
+        "url": "https://ebible.org/engwebp/PSA090.htm#V1",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "Acts 17:22–31",
+        "url": "https://ebible.org/engwebp/ACT17.htm#V22",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "Isaiah 6:1–8",
+        "url": "https://ebible.org/engwebp/ISA06.htm#V1",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "1 John 4:7–21",
+        "url": "https://ebible.org/engwebp/1JN04.htm#V7",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "Matthew 28:18–20",
+        "url": "https://ebible.org/engwebp/MAT28.htm#V18",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "John 1:1–18",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V1",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      },
+      {
+        "reference": "Romans 8:18–39",
+        "url": "https://ebible.org/engwebp/ROM08.htm#V18",
+        "context": "Read the paragraph and chapter as a whole; distinguish textual observation from later theological synthesis."
+      }
+    ],
+    "learningObjectives": [
+      "Distinguish the Creator from creation.",
+      "Read God’s eternity, holiness, and love in their biblical contexts.",
+      "Explain the difference between biblical passages and Nicene formulation.",
+      "Identify the limits of analogies and claims about providence.",
+      "Connect careful theological study with worship and care for neighbors."
+    ],
+    "sections": [
+      {
+        "id": "creator",
+        "title": "The Creator and the gift of existence",
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "genesis",
+          "acts17"
+        ],
+        "paragraphs": [
+          "Christian theology begins by attending to the God of whom Scripture speaks. Genesis 1 opens with God creating the heavens and the earth. Its repeated account of divine speech, ordered life, and goodness places the world within a relationship of dependence on its Creator. This is a theological claim about the source and worth of creation; the passage is not an invitation to treat the natural world as divine. Read the whole chapter before building an argument from its opening sentence.",
+          "In Acts 17:22–31, Paul addresses an Athenian audience among its religious objects. He speaks of God as the giver of life rather than a being sustained by human offerings. The speech moves from creation to human seeking, repentance, resurrection, and judgment. The context matters: a statement about God’s independence is part of an appeal to respond to God, not a detached claim that human life is unimportant.",
+          "For a beginner, the central distinction is Creator and creature. We receive life; God gives it. Gratitude follows naturally from that distinction, but it does not answer every question about suffering, scientific explanation, or the age of the earth. Those questions require their own evidence and a careful account of what kind of question each passage is answering. Christian interpretations of the days of Genesis differ; this chapter does not make one chronology a test of the doctrine of God."
+        ]
+      },
+      {
+        "id": "one-eternal",
+        "title": "One God, from everlasting",
+        "depth": "beginner",
+        "category": "A",
+        "sourceIds": [
+          "deuteronomy",
+          "psalm90"
+        ],
+        "paragraphs": [
+          "Deuteronomy 6:4–9 joins confession of the one LORD to wholehearted love and daily teaching. The passage belongs to Israel’s covenant life; its direction is concrete, reaching households, ordinary conversation, and remembrance. Do not detach the confession from its summons to love. The chapter also warns against forgetting God amid prosperity. Knowledge of God is meant to shape attention and conduct.",
+          "Psalm 90 sets God’s enduring life beside the brevity of human generations. Read its opening alongside the prayer to number our days in verse 12. Eternity is not presented merely as a puzzle about an infinite calendar: it gives a setting for lament, humility, wisdom, and petition. The psalm permits a reader to ask for compassion rather than pretend that mortality and grief are easy.",
+          "The doctrinal term aseity names the claim that God does not depend on another cause for existence. Acts 17 supplies a biblical starting point; the technical term belongs to later theological reflection. Keep that difference visible. A useful glossary explains the word without pretending the biblical author used that English philosophical vocabulary."
+        ]
+      },
+      {
+        "id": "holy-love",
+        "title": "Holiness, love, and truthful worship",
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "isaiah6",
+          "john4"
+        ],
+        "paragraphs": [
+          "Isaiah 6:1–8 portrays an overwhelming vision of holiness. Isaiah recognizes his own impurity, receives cleansing, and is commissioned. The story connects worship, moral truth, mercy, and service. Its visionary imagery should be read as the text presents it, without turning an illustration into a verified picture of God’s appearance. Our landscape artwork therefore represents creaturely awe; it does not portray God the Father.",
+          "First John 4:7–21 connects the confession of God’s love with God’s action in sending the Son and with the obligation to love one another. The letter does not treat love as permission to ignore truth or harm. In teaching, avoid setting holiness and love against each other as rival divine moods. The narrative and argument require readers to consider both God’s initiative and their treatment of their neighbors.",
+          "Attributes are ways of describing the God Christians worship, not separate pieces that can be assembled into a deity. An interactive diagram may organize passages under headings such as holiness, love, and faithfulness, but its categories are study aids. No single card exhausts God, and a favorite attribute should not be used to cancel the others. Applications must remain proportionate to the text: care for a neighbor is a response to the letter, while a claim that love guarantees freedom from illness is not established by it."
+        ]
+      },
+      {
+        "id": "trinity",
+        "title": "Father, Son, and Holy Spirit",
+        "depth": "in-depth",
+        "category": "B",
+        "sourceIds": [
+          "matthew28",
+          "john1",
+          "nicene"
+        ],
+        "paragraphs": [
+          "Matthew 28:18–20 names Father, Son, and Holy Spirit in the setting of baptism and discipleship. John 1:1–18 speaks of the Word in relation to God and of the Word becoming flesh. These passages are important to Christian reflection, but neither should be described as a complete later doctrinal formula. Interpretation involves reading them with the wider witness of Scripture.",
+          "The Nicene tradition confesses one God while distinguishing Father, Son, and Holy Spirit. It rejects treating the Son as merely a creature. The OCA presentation of the Nicene-Constantinopolitan Creed identifies the councils of 325 and 381 and explains the setting of the dispute over the Son. Here the creed is an identified historical confession, not a biblical quotation and not evidence that every community calling itself Christian accepts the same doctrine.",
+          "Two common errors make the doctrine easier by changing it: three independent gods, or one person changing masks. Neither expresses Nicene teaching. Everyday comparisons with water, a family, or an object tend to break down; use them only with stated limits. The chapter’s diagram deliberately shows passages and confessional distinctions rather than claiming to draw God’s inner being. Worship and humility can accompany precise language."
+        ]
+      },
+      {
+        "id": "providence",
+        "title": "Sovereignty and the limits of our explanations",
+        "depth": "advanced",
+        "category": "B",
+        "sourceIds": [
+          "romans8",
+          "acts17"
+        ],
+        "paragraphs": [
+          "Christian teaching about providence asks how creation is sustained and how human life stands within God’s purposes. Acts 17 describes dependence on the giver of life. Romans 8:18–39 speaks of groaning, waiting, prayer in weakness, and assurance amid suffering. Read the assurance with those earlier descriptions. Hope in God does not require denial of pain or a claim that every event can already be explained.",
+          "Theologians differ in their accounts of divine determination, human freedom, permission, and foreknowledge. This introductory chapter identifies the question without declaring one detailed model the universal Christian answer. An advanced reader should compare primary confessional documents and distinguish what each model affirms, what it denies, and what problems it is trying to address. Terms such as sovereignty can conceal a disagreement if their meaning is left undefined.",
+          "A pastoral conversation needs the same intellectual honesty. A general confession of providence is not knowledge of the specific reason for another person’s loss. Avoid claims that a tragedy proves a victim’s hidden sin or insufficient faith. The selected passages do not give a teacher that authority. Offer presence, prayer, and appropriate practical assistance while making room for unanswered questions."
+        ]
+      },
+      {
+        "id": "study-practice",
+        "title": "A practice of knowing God responsibly",
+        "depth": "advanced",
+        "category": "D",
+        "sourceIds": [
+          "deuteronomy",
+          "psalm90",
+          "john4"
+        ],
+        "paragraphs": [
+          "Choose one passage from this chapter. First write what the passage explicitly says and who is speaking to whom. Next write your theological conclusion in a separate sentence. Finally write one action you propose to take. This three-part record makes the movement from observation to interpretation to application available for discussion. Another reader can check the reasoning rather than being asked to accept your confidence.",
+          "For example, Deuteronomy 6 addresses covenant remembrance and love in everyday life. A contemporary family reading practice is an application; the exact time of day or digital tool is a practical choice. Psalm 90 invites wisdom in our short lives; a personal schedule is your response, not a command supplied by the psalm. First John directs believers toward love for one another; find out what help a neighbor actually needs before deciding what care will look like.",
+          "Finish by naming a limit in your understanding. A question about the Trinity may call for historical study; a question about suffering may call first for patient listening. Responsible theology grows through careful reading, accountable community, and willingness to revise a poorly supported claim. These habits do not earn divine love. They help a learner respond truthfully to the God Christians confess."
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Theology Proper",
+        "fil": "Ang Doktrina Tungkol sa Diyos",
+        "ilo": "Ti Doktrina Maipapan iti Dios",
+        "definition": "The field of study introduced in The Doctrine of God.",
+        "reference": "Matthew 28:18–20",
+        "note": "Editorial study term; equivalents require qualified language review."
+      },
+      {
+        "en": "Trinity",
+        "fil": "Trinidad",
+        "ilo": "Trinidad",
+        "definition": "The Nicene confession of one God with the distinction of Father, Son, and Holy Spirit. The term is a historical formulation, not the wording of a single verse.",
+        "reference": "Matthew 28:18–20",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      },
+      {
+        "en": "Aseity",
+        "fil": "Pag-iral ng Diyos na hindi umaasa sa iba",
+        "ilo": "Kaadda ti Dios a saan nga agdepende iti sabali",
+        "definition": "The theological claim that God depends on no other cause for existence; a later technical term with biblical starting points.",
+        "reference": "Acts 17:24–25",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      },
+      {
+        "en": "Holiness",
+        "fil": "Kabanalan",
+        "ilo": "Kinasanto",
+        "definition": "A study term for God’s holy character, approached here through Isaiah’s vision and its movement toward cleansing and service.",
+        "reference": "Isaiah 6:1–8",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      },
+      {
+        "en": "Providence",
+        "fil": "Providensiya",
+        "ilo": "Panangaywan ti Dios",
+        "definition": "Christian reflection on creation’s dependence on God and God’s purposes. It does not disclose the specific reason for every person’s suffering.",
+        "reference": "Romans 8:18–39",
+        "note": "Original study definition. Translation terminology and interpretation need human review; the reference is a starting passage, not a complete dictionary definition."
+      }
+    ],
+    "misunderstandings": [
+      "The Trinity is neither three gods nor one person wearing three masks.",
+      "An image or diagram cannot establish what God looks like.",
+      "Confidence in providence does not reveal why a particular person suffers."
+    ],
+    "differences": "This chapter uses a Nicene Christian foundation. Non-Nicene communities do not share that formulation. Within Nicene churches, detailed accounts of providence, divine freedom, and creation chronology differ. The East–West debate about procession requires its own historical treatment; this introduction does not settle it.",
+    "application": [
+      "Read one selected passage with its surrounding paragraph before drawing a conclusion.",
+      "Write a prayer of gratitude that also names an unanswered question.",
+      "Ask a neighbor what practical care would help, then respond responsibly."
+    ],
+    "reflection": [
+      "How does Genesis distinguish God from the world?",
+      "Why does Psalm 90 connect eternity with numbering our days?",
+      "Which sentence in your explanation is an interpretation rather than a quotation?",
+      "What would you say, and avoid saying, to a grieving friend?"
+    ],
+    "quiz": [
+      {
+        "question": "What distinction does Genesis 1 introduce?",
+        "options": [
+          "Creator and creation",
+          "Two equal creator gods",
+          "The world creates God"
+        ],
+        "answer": 0,
+        "explanation": "Genesis 1 presents God creating; the world receives existence. Read Genesis 1:1–31."
+      },
+      {
+        "question": "What accompanies the confession in Deuteronomy 6?",
+        "options": [
+          "A prophecy calendar",
+          "Wholehearted love and daily teaching",
+          "An angel ranking"
+        ],
+        "answer": 1,
+        "explanation": "Deuteronomy 6:4–9 joins confession with love, remembrance, and teaching."
+      },
+      {
+        "question": "How should the Nicene Creed be described?",
+        "options": [
+          "An additional Bible chapter",
+          "An anonymous image caption",
+          "An identified historical Christian confession"
+        ],
+        "answer": 2,
+        "explanation": "The creed is a historical formulation, distinguished from the biblical passages it interprets."
+      },
+      {
+        "question": "Which explanation distorts Nicene teaching?",
+        "options": [
+          "One person changing masks",
+          "One God with personal distinction",
+          "The Son is not merely a creature"
+        ],
+        "answer": 0,
+        "explanation": "The mask model removes the personal distinction confessed by Nicene teaching."
+      },
+      {
+        "question": "What is a responsible use of providence?",
+        "options": [
+          "Explain every tragedy with certainty",
+          "Deny that suffering is real",
+          "Confess dependence on God while acknowledging limits"
+        ],
+        "answer": 2,
+        "explanation": "Romans 8 includes suffering, groaning, and hope; it does not authorize certainty about every specific loss."
+      }
+    ],
+    "diagram": {
+      "title": "From Scripture to responsible theology",
+      "steps": [
+        "Creator · Genesis 1:1–31",
+        "Eternal · Psalm 90:1–17",
+        "Holy · Isaiah 6:1–8",
+        "Loving · 1 John 4:7–21",
+        "Triune confession · Matthew 28:18–20 and the Nicene tradition"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/chapter-1-hero.webp",
+      "thumbnail": "/illustrations/theology-proper.webp",
+      "alt": "Imaginative cinematic illustration for The Doctrine of God; not historical evidence.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "genesis",
+        "title": "World English Bible: Genesis 1:1–31",
+        "institution": "eBible / World English Bible",
+        "section": "Genesis 1:1–31",
+        "url": "https://ebible.org/engwebp/GEN01.htm#V1",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "deuteronomy",
+        "title": "World English Bible: Deuteronomy 6:4–9",
+        "institution": "eBible / World English Bible",
+        "section": "Deuteronomy 6:4–9",
+        "url": "https://ebible.org/engwebp/DEU06.htm#V4",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "psalm90",
+        "title": "World English Bible: Psalm 90:1–17",
+        "institution": "eBible / World English Bible",
+        "section": "Psalm 90:1–17",
+        "url": "https://ebible.org/engwebp/PSA090.htm#V1",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "acts17",
+        "title": "World English Bible: Acts 17:22–31",
+        "institution": "eBible / World English Bible",
+        "section": "Acts 17:22–31",
+        "url": "https://ebible.org/engwebp/ACT17.htm#V22",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "isaiah6",
+        "title": "World English Bible: Isaiah 6:1–8",
+        "institution": "eBible / World English Bible",
+        "section": "Isaiah 6:1–8",
+        "url": "https://ebible.org/engwebp/ISA06.htm#V1",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "john4",
+        "title": "World English Bible: 1 John 4:7–21",
+        "institution": "eBible / World English Bible",
+        "section": "1 John 4:7–21",
+        "url": "https://ebible.org/engwebp/1JN04.htm#V7",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "matthew28",
+        "title": "World English Bible: Matthew 28:18–20",
+        "institution": "eBible / World English Bible",
+        "section": "Matthew 28:18–20",
+        "url": "https://ebible.org/engwebp/MAT28.htm#V18",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "john1",
+        "title": "World English Bible: John 1:1–18",
+        "institution": "eBible / World English Bible",
+        "section": "John 1:1–18",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V1",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "romans8",
+        "title": "World English Bible: Romans 8:18–39",
+        "institution": "eBible / World English Bible",
+        "section": "Romans 8:18–39",
+        "url": "https://ebible.org/engwebp/ROM08.htm#V18",
+        "accessed": "2026-10-30",
+        "notes": "Public-domain English translation; read the whole surrounding chapter. Original explanatory prose is not Scripture."
+      },
+      {
+        "id": "nicene",
+        "title": "The Nicene-Constantinopolitan Creed",
+        "institution": "Orthodox Church in America",
+        "section": "Nicene Creed: conciliar setting and confession",
+        "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-symbol-of-faith/nicene-creed",
+        "accessed": "2026-10-30",
+        "notes": "Historical Nicene interpretation; OCA institutional presentation. Human review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Benchmark manuscript: 18 substantive paragraphs with beginner, in-depth, and advanced layers. Human review pending."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "theology-proper",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Doktrina Tungkol sa Diyos",
+      "summary": "Ipinapakilala ng Biblia ang Diyos bilang Manlilikha, banal, mapagmahal, at tapat. Ipinahahayag ng pananampalatayang Niceno ang isang Diyos: Ama, Anak, at Espiritu Santo. Ang pagkilala sa Diyos ay humahantong sa pagsamba at pag-ibig sa kapwa.",
+      "question": "Paano makatutulong ang maingat na pag-aaral sa iyong pananampalataya at pamumuhay?",
+      "sections": {
+        "creator": {
+          "title": "Ang Manlilikha at ang kaloob na buhay",
+          "paragraphs": [
+            "Nagsisimula ang teolohiyang Kristiyano sa maingat na pakikinig sa ipinakikilala ng Kasulatan tungkol sa Diyos. Sa Genesis 1, nililikha ng Diyos ang langit at lupa. Ang paulit-ulit na pagsasalita ng Diyos, kaayusan ng buhay, at kabutihan ng nilikha ay naglalarawan ng pag-asa ng daigdig sa Manlilikha. Pahayag ito tungkol sa pinagmulan at halaga ng nilikha; hindi nito ginagawang diyos ang kalikasan. Basahin ang buong kabanata bago bumuo ng argumento mula sa unang pangungusap.",
+            "Sa Gawa 17:22–31, kinakausap ni Pablo ang mga taga-Atenas sa gitna ng kanilang mga bagay na panrelihiyon. Ipinapakilala niya ang Diyos bilang nagbibigay-buhay, hindi nilalang na umaasa sa handog ng tao. Mula sa paglikha, umuusad ang talumpati sa paghahanap sa Diyos, pagsisisi, muling pagkabuhay, at paghatol. Ang hindi pagdepende ng Diyos sa tao ay bahagi ng panawagang tumugon sa kanya, hindi pahayag na walang halaga ang buhay ng tao.",
+            "Mahalagang ihiwalay ang Manlilikha at nilikha: tumatanggap tayo ng buhay; ang Diyos ang nagbibigay. Ang pasasalamat ay angkop na tugon, ngunit hindi nito sinasagot ang bawat tanong tungkol sa pagdurusa, agham, o edad ng daigdig. Kailangan ng mga iyon ng sarili nilang ebidensiya at paglilinaw sa tanong na tinatalakay ng talata. Magkakaiba ang pagbasa ng mga Kristiyano sa mga araw ng Genesis; hindi ginagawang pamantayan ng doktrina ng Diyos ang isang kronolohiya rito."
+          ]
+        },
+        "one-eternal": {
+          "title": "Iisang Diyos, mula sa walang hanggan",
+          "paragraphs": [
+            "Iniuugnay ng Deuteronomio 6:4–9 ang pagpapahayag tungkol sa iisang PANGINOON sa buong-pusong pag-ibig at araw-araw na pagtuturo. Bahagi ito ng buhay-tipanan ng Israel na umaabot sa tahanan, karaniwang usapan, at pag-alaala. Huwag ihiwalay ang pagpapahayag sa panawagang magmahal. Binabalaan din ng kabanata ang tao laban sa paglimot sa Diyos sa gitna ng kasaganaan. Dapat hubugin ng pagkilala sa Diyos ang pansin at asal.",
+            "Itinatabi ng Awit 90 ang walang-hanggang buhay ng Diyos at ikli ng mga salinlahi. Basahin ang pambungad kasama ng panalanging matutong bilangin ang ating mga araw sa talata 12. Hindi lamang palaisipan tungkol sa walang-katapusang kalendaryo ang kawalang-hanggan: nagbibigay ito ng konteksto sa pagdadalamhati, pagpapakumbaba, karunungan, at paghingi. Maaaring humiling ng habag nang hindi nagkukunwaring madali ang kamatayan at dalamhati.",
+            "Tinatawag na aseity ang teolohikal na pahayag na hindi nakasalalay ang pag-iral ng Diyos sa ibang sanhi. May panimulang biblikal na batayan sa Gawa 17; ang teknikal na salita ay bahagi ng mas huling pagninilay. Panatilihing malinaw ang pagkakaibang iyon. Dapat ipaliwanag ng talasalitaan ang termino nang hindi nagkukunwaring ginamit ng manunulat ng Biblia ang pilosopikong bokabularyong ito."
+          ]
+        },
+        "holy-love": {
+          "title": "Kabanalan, pag-ibig, at tapat na pagsamba",
+          "paragraphs": [
+            "Inilalarawan ng Isaias 6:1–8 ang makapangyarihang pangitain ng kabanalan. Kinikilala ni Isaias ang kanyang karumihan, nililinis siya, at sinusugo. Pinag-uugnay ng salaysay ang pagsamba, moral na katotohanan, awa, at paglilingkod. Basahin ang pangitain ayon sa pagkakalahad nito; huwag gawing larawan ng tiyak na anyo ng Diyos ang ilustrasyon. Kaya ang ating tanawin ay sumasagisag sa paghanga ng nilikha, hindi sa anyo ng Diyos Ama.",
+            "Iniuugnay ng 1 Juan 4:7–21 ang pag-ibig ng Diyos sa pagsusugo niya sa Anak at sa tungkuling magmahalan. Hindi ginagawang dahilan ng liham ang pag-ibig upang balewalain ang katotohanan o pinsala. Iwasang gawing magkatunggaling damdamin ng Diyos ang kabanalan at pag-ibig. Isinasaalang-alang ng salaysay at pangangatwiran kapwa ang pagkukusa ng Diyos at pakikitungo ng mga mambabasa sa kanilang kapwa.",
+            "Ang mga katangian ay mga paraan ng paglalarawan sa Diyos na sinasamba ng mga Kristiyano, hindi mga piyesang pinagdudugtong upang makabuo ng diyos. Maaaring ayusin ng diagram ang mga talata sa ilalim ng kabanalan, pag-ibig, at katapatan, ngunit gabay sa pag-aaral lamang ang mga kategorya. Walang isang card na sumasaklaw sa Diyos, at hindi dapat ipawalang-bisa ng paboritong katangian ang iba. Ang pag-aalaga sa kapwa ay tugon sa liham; hindi nito itinatatag na ang pag-ibig ay garantiya laban sa karamdaman."
+          ]
+        },
+        "trinity": {
+          "title": "Ama, Anak, at Espiritu Santo",
+          "paragraphs": [
+            "Pinapangalanan ng Mateo 28:18–20 ang Ama, Anak, at Espiritu Santo sa konteksto ng bautismo at paggawa ng mga alagad. Tinatalakay ng Juan 1:1–18 ang Salita kaugnay ng Diyos at ang pagiging tao ng Salita. Mahalaga ang mga talatang ito sa pagninilay na Kristiyano, ngunit hindi sila kumpletong pormula ng mas huling doktrina. Kasama sa pagpapakahulugan ang pagbasa sa mga ito kasama ng mas malawak na patotoo ng Kasulatan.",
+            "Ipinahahayag ng tradisyong Niceno ang isang Diyos habang pinag-iiba ang Ama, Anak, at Espiritu Santo. Tinatanggihan nitong isang nilikha lamang ang Anak. Tinutukoy ng pagpapaliwanag ng OCA sa Kredo Niceno-Constantinopolitano ang mga konsilyo noong 325 at 381 at ang pagtatalo tungkol sa Anak. Dito, pinangalanang makasaysayang pahayag ang kredo, hindi sipi ng Biblia o patunay na magkapareho ang doktrina ng bawat pamayanang tinatawag ang sarili na Kristiyano.",
+            "Dalawang kamalian ang nagpapadali sa doktrina sa pamamagitan ng pagbabago rito: tatlong malayang diyos, o isang taong nagpapalit ng maskara. Hindi iyan ang aral na Niceno. May hangganan ang paghahambing sa tubig, pamilya, o bagay; gamitin lamang nang malinaw ang limitasyon. Ipinakikita ng diagram ang mga talata at pagkakaiba sa pagpapahayag ng pananampalataya, hindi ang panloob na pag-iral ng Diyos. Maaaring magsama ang tiyak na wika, pagsamba, at pagpapakumbaba."
+          ]
+        },
+        "providence": {
+          "title": "Soberanya at hangganan ng ating paliwanag",
+          "paragraphs": [
+            "Itinatanong ng doktrina ng providensiya kung paano pinananatili ang nilikha at paano nakapaloob ang buhay ng tao sa layunin ng Diyos. Inilalarawan ng Gawa 17 ang pagdepende sa nagbibigay-buhay. Tinatalakay ng Roma 8:18–39 ang pagdaing, paghihintay, panalangin sa kahinaan, at katiyakan sa gitna ng pagdurusa. Basahin ang katiyakan kasama ng mga naunang paglalarawan. Hindi nangangailangan ang pag-asa sa Diyos ng pagtanggi sa sakit o pag-aangking maipapaliwanag na ang bawat pangyayari.",
+            "Magkakaiba ang paliwanag ng mga teologo sa pagtatakda ng Diyos, kalayaan ng tao, pagpapahintulot, at kaalaman sa hinaharap. Kinikilala ng panimulang kabanatang ito ang tanong nang hindi ginagawang pandaigdigang sagot Kristiyano ang isang detalyadong modelo. Dapat ihambing ng mas malalim na mag-aaral ang mga pangunahing dokumento ng pananampalataya: ano ang pinagtitibay, tinatanggihan, at problemang sinasagot? Maaaring itago ng salitang soberanya ang di-pagkakasundo kung hindi ipinaliliwanag ang kahulugan nito.",
+            "Kailangan din ang katapatan sa pag-uusap na pastoral. Ang pangkalahatang pagpapahayag ng providensiya ay hindi kaalaman sa tiyak na dahilan ng pagkawala ng ibang tao. Iwasang sabihing patunay ng lihim na kasalanan o kulang na pananampalataya ng biktima ang trahedya. Hindi ibinibigay ng mga talatang ito ang gayong awtoridad sa guro. Mag-alok ng pakikisama, panalangin, at angkop na praktikal na tulong habang nagbibigay-puwang sa mga tanong na wala pang sagot."
+          ]
+        },
+        "study-practice": {
+          "title": "Pagsasanay sa maingat na pagkilala sa Diyos",
+          "paragraphs": [
+            "Pumili ng isang talata. Isulat muna ang tahasang sinasabi nito at kung sino ang nagsasalita at kinakausap. Pagkatapos, isulat nang hiwalay ang teolohikal mong kongklusyon. Sa huli, itala ang isang gagawin mo. Nagiging bukas sa talakayan ang paglipat mula obserbasyon tungo sa interpretasyon at aplikasyon. Maaaring siyasatin ng ibang mambabasa ang pangangatwiran sa halip na hilinging tanggapin lamang ang iyong kumpiyansa.",
+            "Halimbawa, tinatalakay ng Deuteronomio 6 ang pag-alaala sa tipan at pag-ibig sa araw-araw. Aplikasyon ang pagbasa ng pamilya ngayon; praktikal na pagpili ang oras at digital na kagamitan. Inaanyayahan ng Awit 90 ang karunungan sa maikling buhay; tugon mo ang iskedyul, hindi utos ng awit. Itinuturo ng 1 Juan ang pagmamahalan; alamin muna ang kailangan ng kapwa bago magpasya kung anong tulong ang ibibigay.",
+            "Tapusin sa pagkilala sa isang hangganan ng iyong pag-unawa. Maaaring kailanganin ng tanong sa Trinidad ang pag-aaral ng kasaysayan; maaaring pakikinig muna ang kailangan ng tanong tungkol sa pagdurusa. Lumalago ang maingat na teolohiya sa masusing pagbasa, pamayanang may pananagutan, at kahandaang baguhin ang mahinang pahayag. Hindi paraan ng pagkamit ng pag-ibig ng Diyos ang mga gawi. Tinutulungan nilang tumugon nang tapat ang mag-aaral sa Diyos na ipinahahayag ng mga Kristiyano."
+          ]
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "theology-proper",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Doktrina Maipapan iti Dios",
+      "summary": "Ti Biblia ipakaammona ti Dios a Namarsua, nasantoan, managayat, ken matalek. Ti pammati a Niceno ipudnona ti maymaysa a Dios: Ama, Anak, ken Espiritu Santo. Ti pannakaammo iti Dios mangiturong iti panagdayaw ken panagayat iti pada a tao.",
+      "question": "Kasano a makatulong ti naannad a panagadal iti pammatim ken panagbiagmo?",
+      "sections": {
+        "creator": {
+          "title": "Ti Namarsua ken ti sagut a biag",
+          "paragraphs": [
+            "Ti Kristiano a teolohia ket mangrugi iti naannad a panangdengngeg iti Dios a saritaen ti Nasantoan a Surat. Iti Genesis 1, parsuaen ti Dios ti langit ken daga. Ti maulit-ulit a panagsaona, urnos ti biag, ken kinaimbag ti parsua ket mangipakita iti panagdepende ti lubong iti Namarsua. Sasao daytoy maipapan iti pagtaudan ken pateg ti parsua; saanna a pagbalinen a dios ti nakaparsuaan. Basaen ti sibubukel a kapitulo sakbay nga agaramid iti argumento manipud iti umuna a pangungusap.",
+            "Iti Aramid 17:22–31, kasarita ni Pablo dagiti taga-Atenas iti tengnga dagiti relihioso a banagda. Ipakammona ti Dios a mangted iti biag, saan a parsua nga agdepende iti daton ti tao. Manipud iti panamarsua, iturong ti palawag ti imatang iti panangsapul iti Dios, panagbabawi, panagungar, ken panangukom. Ti saan a panagdepende ti Dios iti tao ket paset ti awis a sumungbat kenkuana, saan a sasao nga awan pateg ti biag ti tao.",
+            "Napateg nga ilasin ti Namarsua ken ti parsua: umawattayo iti biag; ti Dios ti mangted. Umiso a sungbat ti panagyaman, ngem saanna a sungbatan amin a saludsod maipapan iti panagrigat, siensia, wenno tawen ti lubong. Masapul dagita ti bukodda a pammaneknek ken pannakailawlawag ti saludsod a sungbatan ti paset. Agduduma ti panagbasa dagiti Kristiano kadagiti aldaw ti Genesis; saan a maymaysa a kronolohia ti pagrukodan ti doktrina ti Dios ditoy."
+          ]
+        },
+        "one-eternal": {
+          "title": "Maymaysa a Dios, manipud iti agnanayon",
+          "paragraphs": [
+            "Ti Deuteronomio 6:4–9 pagnaigenna ti panangipudno iti maymaysa nga APO iti panagayat iti sibubukel a puso ken inaldaw a pannursuro. Paset daytoy ti biag ti Israel iti tulag, a mangsaklaw iti pagtaengan, gagangay a panagsasarita, ken pananglagip. Saan nga isina ti panangipudno manipud iti awis nga agayat. Ballaagan met ti kapitulo ti pananglipat iti Dios iti tengnga ti kinarang-ay. Masapul a ti pannakaammo iti Dios ket manghubog iti imatang ken kababalin.",
+            "Pagdiligen ti Salmo 90 ti agnanayon a biag ti Dios ken kinaababa dagiti kaputotan ti tao. Basaen ti pangrugian a kadua ti kararag a masursurotayo a bilangin dagiti aldawtayo iti bersikulo 12. Ti kinaagnanayon ket saan laeng a palaisipan maipapan iti awan-patinggana a kalendario: mangted daytoy iti konteksto ti ladingit, kinapakumbaba, sirib, ken panagkiddaw. Mabalin ti agkiddaw iti asi nga awan ti panaginkukuna a nalaka ti ipapatay ken ladingit.",
+            "Ti teknikal a sao nga aseity ket manginagan iti teolohiko a sasao a ti Dios ket saan nga agdepende iti sabali a gapu para iti kaaddana. Adda pangrugian a biblikal a pammaneknek iti Aramid 17; ti teknikal a sao ket paset ti naud-udi a panagpanunot. Pagtalinaeden a nalawag dayta a panagduduma. Masapul nga ilawlawag ti talasalitaan ti termino nga awan ti panaginkukuna nga inusar ti nagsurat ti Biblia daytoy a pilosopiko a bokabulario."
+          ]
+        },
+        "holy-love": {
+          "title": "Kinasanto, ayat, ken napudno a panagdayaw",
+          "paragraphs": [
+            "Ti Isaias 6:1–8 iladawanna ti nakakigtot a sirmata ti kinasanto. Bigbigen ni Isaias ti kinarugitna, maipaay kenkuana ti pannakadalus, ken maibaon. Ti istoria pagnaigenna ti panagdayaw, moral a kinapudno, asi, ken panagserbi. Basaen ti sirmata kas ti pannakaisalaysayna; saan a pagbalinen ti ilustrasion a pammaneknek ti eksakto a langa ti Dios. Gapuna ti ladawan ti lugar ket mangipakita iti panagsiddaaw ti parsua, saan a mangiladawan iti Dios Ama.",
+            "Ti 1 Juan 4:7–21 pagnaigenna ti ayat ti Dios iti panangibaonna iti Anak ken iti pagrebbengan nga agayat iti maysa ken maysa. Saan nga aramiden ti surat ti ayat a rason a di ikankano ti kinapudno wenno pannakadangran. Liklikan a pagbalinen ti kinasanto ken ayat nga agsupadi a rikna ti Dios. Ti istoria ken argumento ket mangibilang iti panangrugi ti Dios ken panangtrato dagiti agbasbasa iti padada a tao.",
+            "Dagiti kababalin ket wagas a mangiladawan iti Dios a daydayawen dagiti Kristiano, saan a paset a pagtitiponen tapno agaramid iti dios. Mabalin nga urnosen ti diagram dagiti paset iti baba ti kinasanto, ayat, ken kinamatalek, ngem dagiti kategoria ket tulong laeng iti panagadal. Awan ti maymaysa a card a mangsaklaw iti Dios, ken saan a ti paborito a kababalin ti mangikkat kadagiti sabali. Ti panangaywan iti pada a tao ket sungbat iti surat; saanna nga ipaneknek a ti ayat ket garantiya maibusor iti sakit."
+          ]
+        },
+        "trinity": {
+          "title": "Ama, Anak, ken Espiritu Santo",
+          "paragraphs": [
+            "Inaganan ti Mateo 28:18–20 ti Ama, Anak, ken Espiritu Santo iti konteksto ti bautismo ken panangaramid iti adalan. Ti Juan 1:1–18 saritaenna ti Sao a mainaig iti Dios ken ti panagbalin ti Sao a tao. Napateg dagitoy a paset iti Kristiano a panagpanunot, ngem saan ida a kompleto a pormula ti naud-udi a doktrina. Ti panangipatarus ket mangiraman iti panangbasa kadagitoy a kadua ti nalawlawa a pammaneknek ti Surat.",
+            "Ti tradision a Niceno ipudnona ti maymaysa a Dios bayat nga ilasinna ti Ama, Anak, ken Espiritu Santo. Tukiadenna a ti Anak ket parsua laeng. Ti panangilawlawag ti OCA iti Kredo Niceno-Constantinopolitano ket inagananna dagiti konsilio idi 325 ken 381 ken ti panagsusupiat maipapan iti Anak. Ditoy, ti kredo ket nainaganan a naistorian a panangipudno, saan a sao ti Biblia wenno pammaneknek nga agpapada ti doktrina ti tunggal gimong nga agnagan a Kristiano.",
+            "Dua a biddut ti mangpalaka iti doktrina babaen ti panangbalbaliw iti dayta: tallo nga agwaywayas a dios, wenno maymaysa a persona nga agsuksukat iti maskara. Saan a dayta ti pannursuro a Niceno. Adda pagkurangan dagiti panagidilig iti danum, pamilya, wenno banag; usaren laeng nga ilawlawag ti limitasion. Ti diagram ipakitana dagiti paset ken panagduduma iti panangipudno, saan ti uneg a kinaadda ti Dios. Mabalin nga agkadua ti eksakto a sao, panagdayaw, ken kinapakumbaba."
+          ]
+        },
+        "providence": {
+          "title": "Soberania ken limitasion ti panangilawlawagtayo",
+          "paragraphs": [
+            "Ti doktrina ti providensia ket agsaludsod no kasano a matagtagainep ti parsua ken no kasano nga adda ti biag ti tao iti panggep ti Dios. Ti Aramid 17 iladawanna ti panagdepende iti mangted iti biag. Ti Roma 8:18–39 saritaenna ti panagunnoy, panaguray, kararag iti kinakapuy, ken pammatalged iti tengnga ti rigat. Basaen ti pammatalged a kadua dagiti nasapsapa a panangiladawan. Ti namnama iti Dios ket saan nga agkasapulan iti panangilibak iti sakit wenno panangibaga a mailawlawagen ti tunggal pasamak.",
+            "Agduduma ti panangilawlawag dagiti teologo iti panangikeddeng ti Dios, wayawaya ti tao, panangipalubos, ken pannakaammo iti masakbayan. Ilasin daytoy a pangrugian a kapitulo ti saludsod nga awan ti panangaramid iti maymaysa a detalyado a modelo a sapasap a Kristiano a sungbat. Masapul a pagdiligen ti naun-uneg nga agadal dagiti kangrunaan a dokumento ti pammati: ania ti ipudnoda, tukiadenda, ken problema a sungbatanda? Mabalin a ti sao a soberania ket mangilemmeng iti panagsusupiat no saan a mailawlawag ti kaipapananna.",
+            "Masapul met ti kinapudno iti pastoral a panagsasarita. Ti sapasap a panangipudno iti providensia ket saan a pannakaammo iti eksakto a gapu ti pannakapukaw ti sabali. Liklikan ti panangibaga a ti didigra ket pammaneknek ti nailemmeng a basol wenno nakurang a pammati ti nadangran. Saan nga ited dagitoy a paset ti kasta nga autoridad iti mangisuro. Ipaay ti pannakikadua, kararag, ken umiso a praktikal a tulong bayat a mangted iti lugar kadagiti saludsod nga awan pay sungbat."
+          ]
+        },
+        "study-practice": {
+          "title": "Panagsanay iti naannad a pannakaammo iti Dios",
+          "paragraphs": [
+            "Pilien ti maysa a paset. Isurat nga umuna ti direkta nga ibagana ken no sino ti agsarsarita ken ti kasaritana. Kalpasanna, isurat a naisina ti teolohiko a kongklusionmo. Kamaudiananna, isurat ti maysa nga aramidem. Ti panaggunay manipud iti obserbasion iti panangipatarus ken aplikasyon ket agbalin a nakalukat iti panagsasarita. Mabalin a sukisoken ti sabali nga agbasbasa ti rason imbes a kiddawen laeng nga awatenna ti panagtalekmo.",
+            "Kas pagarigan, ti Deuteronomio 6 saritaenna ti pananglagip iti tulag ken inaldaw nga ayat. Ti panagbasa ti pamilya ita ket aplikasyon; ti oras ken digital a ramit ket praktikal a pagpili. Awisen ti Salmo 90 ti sirib iti ababa a biag; ti iskediulmo ket sungbatmo, saan a bilin ti salmo. Isuro ti 1 Juan ti panagayat iti maysa ken maysa; ammuem nga umuna ti masapul ti pada a tao sakbay nga ikeddengmo ti ipaaymo a tulong.",
+            "Agpatingga iti panangbigbig iti maysa a limitasion ti pannakaawatmo. Ti saludsod maipapan iti Trinidad ket mabalin a masapulna ti panagadal iti pakasaritaan; ti saludsod maipapan iti rigat ket mabalin a panagdengngeg nga umuna ti masapulna. Dumakkel ti naannad a teolohia babaen ti naimbag a panagbasa, gimong nga addaan panagsungbat, ken siaanamong a panangbalbaliw iti nakapuy a sasao. Dagitoy a wagas ket saan a paggun-odan iti ayat ti Dios. Tumulongda iti agadal a sumungbat a sipupudno iti Dios nga ipudno dagiti Kristiano."
+          ]
+        }
+      }
+    }
+  }
+}

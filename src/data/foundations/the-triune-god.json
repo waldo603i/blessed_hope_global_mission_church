@@ -1,0 +1,547 @@
+{
+  "chapter": {
+    "id": "the-triune-god",
+    "slug": "the-triune-god",
+    "order": 18,
+    "title": "The Triune God",
+    "doctrine": "Trinity",
+    "summary": "One God, Father, Son, and Holy Spirit: learning the Nicene confession through Scripture, clear relationships, and worship.",
+    "question": "How can Christians confess one God and distinguish Father, Son, and Spirit?",
+    "scriptureReferences": [
+      {
+        "reference": "Deuteronomy 6:4",
+        "url": "https://ebible.org/engwebp/DEU06.htm#V4",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Matthew 28:19",
+        "url": "https://ebible.org/engwebp/MAT28.htm#V19",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Matthew 3:16–17",
+        "url": "https://ebible.org/engwebp/MAT03.htm#V16",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 1:1–3",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 1:14",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V14",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 20:28",
+        "url": "https://ebible.org/engwebp/JHN20.htm#V28",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Acts 5:3–4",
+        "url": "https://ebible.org/engwebp/ACT05.htm#V3",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 14:16–17",
+        "url": "https://ebible.org/engwebp/JHN14.htm#V16",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 14:26",
+        "url": "https://ebible.org/engwebp/JHN14.htm#V26",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Ephesians 2:13–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm#V13",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "John 1:1",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V1",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "2 Corinthians 13:14",
+        "url": "https://ebible.org/engwebp/2CO13.htm#V14",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      },
+      {
+        "reference": "Ephesians 2:18–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm#V18",
+        "context": "Read the complete chapter and compare the explanation with the passage. This is a cross-reference, not a quotation."
+      }
+    ],
+    "learningObjectives": [
+      "Explain the principal passages in their context.",
+      "Distinguish biblical observation, theological interpretation, and artistic choices.",
+      "Apply the teaching through truthful worship and care for neighbors."
+    ],
+    "sections": [
+      {
+        "id": "one-god",
+        "title": "One God: what Christians mean by Trinity",
+        "paragraphs": [
+          "The Christian doctrine of the Trinity holds together two convictions: there is one God, and the Father, the Son, and the Holy Spirit are personally distinct. Trinity is a theological word for that confession, not a fourth name added beside the three. Within Nicene Christianity, each person is fully divine; none possesses only one third of God. The word essence answers what God is, while person distinguishes Father, Son, and Spirit in their relations. These terms do not mean three separate human individuals sharing a species. God’s unity is deeper than agreement among three beings. This is the doctrinal framework used in this book; churches that reject it should be described accurately rather than silently treated as though they affirm it."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "deuteronomy-6-4",
+          "matthew-28-19",
+          "ccc-trinity",
+          "nicene-oca"
+        ]
+      },
+      {
+        "id": "baptism-scene",
+        "title": "At Jesus’ baptism: distinction without separation",
+        "paragraphs": [
+          "Matthew presents Jesus coming up from the water, the Spirit descending like a dove, and a voice from heaven declaring Jesus to be the beloved Son. The narrative distinguishes the speaker, the Son addressed, and the descending Spirit within one scene. This gives readers a concrete place to begin before learning technical vocabulary. It does not depict one person changing costumes in succession. Nor does the comparison with a dove mean that the Spirit’s divine nature is a bird. The scene is a witness to God’s self-disclosure, not an anatomical picture of God. Its importance lies in the relationships it makes known and in the identity of Jesus as the beloved Son at the beginning of his public ministry."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "matthew-3-16-17"
+        ]
+      },
+      {
+        "id": "son-divinity",
+        "title": "The Son: truly divine and truly human",
+        "paragraphs": [
+          "John’s opening identifies the Word as with God and as God, then says that the Word became flesh. The first claim preserves relationship; the second affirms deity; the incarnation affirms real human life. Thomas later addresses the risen Jesus as his Lord and God. Nicene theology reads these passages together: the Son is not a creature promoted to divine status, and his humanity is not an illusion. When the Gospels show Jesus praying, suffering, and obeying, readers should take his human life seriously while keeping the wider witness to his identity in view. The Father did not become incarnate as the Son; the Son assumed human nature. This distinction helps prevent a diagram of the Trinity from becoming a picture of three identical bodies."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "john-1-1-3",
+          "john-1-14",
+          "john-20-28"
+        ]
+      },
+      {
+        "id": "spirit-person",
+        "title": "The Spirit: divine presence and personal action",
+        "paragraphs": [
+          "In Acts 5, Peter’s description of lying to the Holy Spirit is joined to lying to God. In John 14, Jesus speaks of another Helper and describes the Spirit’s teaching and reminding work. These passages contribute to the Christian confession that the Spirit is divine and personally active, rather than an impersonal supply of energy. Spirit and Holy Ghost are English translation choices referring to the same subject; they do not identify two beings. The Spirit does not replace the Father or make the Son unnecessary. The Spirit’s work directs disciples to Christ and sustains their life with God. This is why spiritual maturity cannot be measured only by an intense feeling: the teaching must also be read alongside the Spirit’s fruit and the call to truthful, loving conduct."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "acts-5-3-4",
+          "john-14-16-17",
+          "john-14-26"
+        ]
+      },
+      {
+        "id": "access-to-father",
+        "title": "Through the Son, in the Spirit, to the Father",
+        "paragraphs": [
+          "Ephesians 2 is about reconciliation: people formerly alienated are brought near in Christ, and hostility between Jew and Gentile is overcome. Verse 18 describes their shared access through Christ, in one Spirit, to the Father. The threefold pattern belongs to that concrete account of peace and belonging. It is therefore more than an abstract formula. Christians may use it to understand prayer: the Son’s reconciling work grounds our approach, the Spirit unites and enables us, and we come to the Father. These are distinguishable relations within God’s saving work, not three independent departments competing for people. The image’s arrows are a reading aid for this verse; they do not mean that God is divided into spatial regions or that the Spirit is a corridor."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "ephesians-2-13-22"
+        ]
+      },
+      {
+        "id": "reading-the-shield",
+        "title": "How to read the diagram without being misled",
+        "paragraphs": [
+          "Read the relationship diagram as six short statements. The Father is God; the Son is God; the Holy Spirit is God. The Father is not the Son; the Son is not the Spirit; the Spirit is not the Father. The first three speak about the one divine being; the second three distinguish the persons. The lines are not pipes joining three divine substances. An overlapping Venn diagram can accidentally suggest that each person possesses only part of deity, so this study uses words and clear connections instead. Water changing between ice, liquid, and steam can suggest one person taking different forms; three leaves can suggest three parts making a whole. Such analogies have limits and should never carry the doctrine by themselves."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "matthew-28-19",
+          "john-1-1",
+          "ccc-trinity",
+          "nicene-oca"
+        ]
+      },
+      {
+        "id": "worship-and-life",
+        "title": "Why this doctrine matters in worship and daily life",
+        "paragraphs": [
+          "The closing blessing of 2 Corinthians joins the grace of Jesus Christ, the love of God, and the fellowship of the Holy Spirit. Trinitarian teaching therefore concerns the God whom Christians bless, trust, and worship. It should deepen gratitude and truthful prayer rather than become a test of who can draw a clever diagram. Ephesians also gives a practical consequence: people reconciled to God are being built together into a dwelling in the Spirit. A congregation teaching this passage should examine whether it welcomes people across inherited divisions. Historical formulations help state the doctrine carefully, while differences about the Spirit’s procession and other matters need named confessional sources. This book describes the Nicene framework without claiming to ordain teachers, certify a church’s doctrine, or replace its pastoral review."
+        ],
+        "depth": "beginner",
+        "category": "B",
+        "sourceIds": [
+          "2-corinthians-13-14",
+          "ephesians-2-18-22",
+          "ccc-trinity",
+          "nicene-oca"
+        ]
+      }
+    ],
+    "glossaryEntries": [
+      {
+        "en": "Trinity",
+        "fil": "Trinidad",
+        "ilo": "Trinidad",
+        "definition": "The Nicene Christian confession of one God in three personally distinct, fully divine persons: Father, Son, and Holy Spirit.",
+        "reference": "Matthew 28:19",
+        "note": "Theological synthesis; not a physical description. Translation requires review."
+      },
+      {
+        "en": "Divine essence",
+        "fil": "Banal na kalikasan",
+        "ilo": "Nadiosan a kasasaad",
+        "definition": "A theological term for the one undivided divine being, fully possessed by Father, Son, and Spirit.",
+        "reference": "John 1:1",
+        "note": "Confessional study terminology; not three portions of God."
+      }
+    ],
+    "misunderstandings": [
+      "A picture helps us read; it does not supply additional revelation."
+    ],
+    "differences": "This manuscript describes a Nicene Christian study framework. Confessional differences require pastoral review and named sources.",
+    "application": [
+      "Read one linked passage aloud with its surrounding context.",
+      "Describe one concrete response in prayer, conduct, or care for others."
+    ],
+    "reflection": [
+      "What does the text clearly say?",
+      "Which details in the image are artistic additions?",
+      "How should this teaching shape my treatment of another person?"
+    ],
+    "quiz": [
+      {
+        "question": "What does the Nicene confession teach?",
+        "options": [
+          "One God in three distinct persons",
+          "Three separate gods",
+          "One person with three temporary costumes"
+        ],
+        "answer": 0,
+        "explanation": "Unity of divine being and personal distinction are held together."
+      },
+      {
+        "question": "What does the dove comparison tell us?",
+        "options": [
+          "The Spirit is biologically a bird",
+          "Matthew describes the Spirit’s descent with a comparison",
+          "All angels have feathers"
+        ],
+        "answer": 1,
+        "explanation": "Read Matthew 3:16 in its narrative setting."
+      },
+      {
+        "question": "What is the order in Ephesians 2:18?",
+        "options": [
+          "Through the Son, in one Spirit, to the Father",
+          "Through three unrelated gods",
+          "Through an angel to a priest"
+        ],
+        "answer": 0,
+        "explanation": "The verse describes shared access and reconciliation."
+      },
+      {
+        "question": "Why avoid parts-of-a-whole diagrams?",
+        "options": [
+          "They can suggest each person is only partly God",
+          "They are too colorful",
+          "They make all reading impossible"
+        ],
+        "answer": 0,
+        "explanation": "Nicene teaching says each person is fully divine."
+      },
+      {
+        "question": "What practical outcome does Ephesians emphasize?",
+        "options": [
+          "Reconciled people being built together",
+          "A secret mathematical formula",
+          "A new divine person"
+        ],
+        "answer": 0,
+        "explanation": "The chapter connects access to God with peace and belonging."
+      }
+    ],
+    "diagram": {
+      "title": "Read the teaching step by step",
+      "steps": [
+        "Read the passage",
+        "Explain its meaning",
+        "Respond in faithfulness"
+      ]
+    },
+    "illustrations": {
+      "hero": "/illustrations/trinity-study.webp",
+      "thumbnail": "/illustrations/trinity-study.webp",
+      "alt": "Imaginative teaching illustration for The Triune God; not a verified likeness or historical photograph.",
+      "reviewStatus": "needs-review"
+    },
+    "sources": [
+      {
+        "id": "ccc-trinity",
+        "title": "Catechism: The Father and the Trinity",
+        "institution": "Holy See",
+        "section": "Catechism 232–267",
+        "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.html",
+        "accessed": "2026-10-31",
+        "notes": "Identified Catholic formulation of Nicene theology, not a Bible passage or a claim of church approval."
+      },
+      {
+        "id": "deuteronomy-6-4",
+        "title": "World English Bible (Updated): Deuteronomy 6:4",
+        "institution": "eBible / World English Bible",
+        "section": "Deuteronomy 6:4",
+        "url": "https://ebible.org/engwebp/DEU06.htm#V4",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "matthew-28-19",
+        "title": "World English Bible (Updated): Matthew 28:19",
+        "institution": "eBible / World English Bible",
+        "section": "Matthew 28:19",
+        "url": "https://ebible.org/engwebp/MAT28.htm#V19",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "matthew-3-16-17",
+        "title": "World English Bible (Updated): Matthew 3:16–17",
+        "institution": "eBible / World English Bible",
+        "section": "Matthew 3:16–17",
+        "url": "https://ebible.org/engwebp/MAT03.htm#V16",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "john-1-1-3",
+        "title": "World English Bible (Updated): John 1:1–3",
+        "institution": "eBible / World English Bible",
+        "section": "John 1:1–3",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "john-1-14",
+        "title": "World English Bible (Updated): John 1:14",
+        "institution": "eBible / World English Bible",
+        "section": "John 1:14",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V14",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "john-20-28",
+        "title": "World English Bible (Updated): John 20:28",
+        "institution": "eBible / World English Bible",
+        "section": "John 20:28",
+        "url": "https://ebible.org/engwebp/JHN20.htm#V28",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "acts-5-3-4",
+        "title": "World English Bible (Updated): Acts 5:3–4",
+        "institution": "eBible / World English Bible",
+        "section": "Acts 5:3–4",
+        "url": "https://ebible.org/engwebp/ACT05.htm#V3",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "john-14-16-17",
+        "title": "World English Bible (Updated): John 14:16–17",
+        "institution": "eBible / World English Bible",
+        "section": "John 14:16–17",
+        "url": "https://ebible.org/engwebp/JHN14.htm#V16",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "john-14-26",
+        "title": "World English Bible (Updated): John 14:26",
+        "institution": "eBible / World English Bible",
+        "section": "John 14:26",
+        "url": "https://ebible.org/engwebp/JHN14.htm#V26",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "ephesians-2-13-22",
+        "title": "World English Bible (Updated): Ephesians 2:13–22",
+        "institution": "eBible / World English Bible",
+        "section": "Ephesians 2:13–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm#V13",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "john-1-1",
+        "title": "World English Bible (Updated): John 1:1",
+        "institution": "eBible / World English Bible",
+        "section": "John 1:1",
+        "url": "https://ebible.org/engwebp/JHN01.htm#V1",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "2-corinthians-13-14",
+        "title": "World English Bible (Updated): 2 Corinthians 13:14",
+        "institution": "eBible / World English Bible",
+        "section": "2 Corinthians 13:14",
+        "url": "https://ebible.org/engwebp/2CO13.htm#V14",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "ephesians-2-18-22",
+        "title": "World English Bible (Updated): Ephesians 2:18–22",
+        "institution": "eBible / World English Bible",
+        "section": "Ephesians 2:18–22",
+        "url": "https://ebible.org/engwebp/EPH02.htm#V18",
+        "accessed": "2026-10-31",
+        "notes": "Passage checked for this educational expansion. Explanation is original editorial prose; human theological review pending."
+      },
+      {
+        "id": "nicene-oca",
+        "title": "Nicene-Constantinopolitan Creed",
+        "institution": "Orthodox Church in America",
+        "section": "The Symbol of Faith, councils of 325 and 381",
+        "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-symbol-of-faith/nicene-creed",
+        "accessed": "2026-10-31",
+        "notes": "Primary Orthodox presentation of the received creed. Read with the separately identified Catholic explanation; confessional review pending."
+      }
+    ],
+    "languages": [
+      "en",
+      "fil",
+      "ilo"
+    ],
+    "reviewStatus": "needs-review",
+    "publicationStatus": "educational-preview",
+    "version": 1,
+    "coverage": "Expanded, illustrated canonical English study draft. Filipino and Ilokano additions are explicitly abridged drafts; full English remains available."
+  },
+  "translations": {
+    "fil": {
+      "chapterId": "the-triune-god",
+      "locale": "fil",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ang Diyos na Trinidad",
+      "summary": "Iisang Diyos: Ama, Anak, at Espiritu Santo. Basahin ang mga talata at gamitin ang diagram bilang gabay, hindi bilang larawan ng Diyos.",
+      "question": "Ano ang itinuturo ng mga talata at paano ito isasabuhay?",
+      "sections": {
+        "one-god": {
+          "title": "Iisang Diyos: ang kahulugan ng Trinidad",
+          "paragraphs": [
+            "Sa pananampalatayang Niceno, iisa ang Diyos: ang Ama, Anak, at Espiritu Santo ay magkakaibang persona at bawat isa ay lubos na banal. Hindi sila tatlong diyos o tatlong bahagi ng Diyos. Ang Trinidad ay salitang teolohikal na nagpapahayag ng paniniwalang ito."
+          ],
+          "scope": "abridged"
+        },
+        "baptism-scene": {
+          "title": "Sa bautismo ni Jesus",
+          "paragraphs": [
+            "Sa Mateo 3:16–17, si Jesus ay umaahon mula sa tubig, bumababa ang Espiritu na tulad ng kalapati, at nagsasalita ang tinig mula sa langit tungkol sa minamahal na Anak. Magkakaiba ang kanilang kaugnayan sa pangyayari. Ang kalapati ay paghahambing sa salaysay; hindi nito ibig sabihing ibon ang kalikasan ng Espiritu."
+          ],
+          "scope": "abridged"
+        },
+        "son-divinity": {
+          "title": "Ang Anak: tunay na Diyos at tunay na tao",
+          "paragraphs": [
+            "Inilalarawan ng Juan 1 ang Salita bilang kasama ng Diyos at Diyos, at sinasabing nagkatawang-tao ang Salita. Sa Juan 20:28, kinikilala ni Tomas ang muling nabuhay na Jesus bilang kanyang Panginoon at Diyos. Sa pananaw na Niceno, hindi nilalang lamang ang Anak at hindi anyo lamang ang kanyang pagkatao."
+          ],
+          "scope": "abridged"
+        },
+        "spirit-person": {
+          "title": "Ang Espiritu Santo",
+          "paragraphs": [
+            "Sa Mga Gawa 5:3–4, ang pagsisinungaling sa Espiritu Santo ay iniuugnay sa pagsisinungaling sa Diyos. Sa Juan 14, itinuturo ni Jesus na nagtuturo at nagpapaalala ang Espiritu. Ang Holy Spirit at Holy Ghost ay dalawang katawagang Ingles sa iisang Espiritu, hindi dalawang nilalang."
+          ],
+          "scope": "abridged"
+        },
+        "access-to-father": {
+          "title": "Sa pamamagitan ng Anak, sa Espiritu, patungo sa Ama",
+          "paragraphs": [
+            "Tinutukoy ng Efeso 2:13–22 ang pakikipagkasundo ng mga Judio at Hentil kay Cristo. Sa talata 18, kapwa sila lumalapit sa Ama sa pamamagitan ni Cristo at sa iisang Espiritu. Ang tatlong katawagan ay bahagi ng iisang gawa ng pagliligtas at kapayapaan, hindi magkakahiwalay na tanggapan."
+          ],
+          "scope": "abridged"
+        },
+        "reading-the-shield": {
+          "title": "Pagbasa sa diagram",
+          "paragraphs": [
+            "Basahin: ang Ama ay Diyos, ang Anak ay Diyos, at ang Espiritu Santo ay Diyos. Gayunman, ang Ama ay hindi ang Anak, ang Anak ay hindi ang Espiritu, at ang Espiritu ay hindi ang Ama. Gabay sa mga pahayag ang mga guhit, hindi larawan ng katawan o bahagi ng Diyos."
+          ],
+          "scope": "abridged"
+        },
+        "worship-and-life": {
+          "title": "Pagsamba at pamumuhay",
+          "paragraphs": [
+            "Iniuugnay ng pagpapala sa 2 Corinto 13:14 ang biyaya ni Jesu-Cristo, pag-ibig ng Diyos, at pakikisama ng Espiritu Santo. Dapat humantong ang pag-aaral sa pasasalamat, panalangin, at pagtanggap sa kapwa. Ang mga pagkakaibang pangdoktrina ay kailangang talakayin kasama ng mga kinikilalang pinuno ng simbahan."
+          ],
+          "scope": "abridged"
+        }
+      }
+    },
+    "ilo": {
+      "chapterId": "the-triune-god",
+      "locale": "ilo",
+      "sourceVersion": 1,
+      "reviewStatus": "needs-review",
+      "title": "Ti Dios a Trinidad",
+      "summary": "Maysa a Dios: Ama, Anak, ken Espiritu Santo. Basaen dagiti teksto ken usaren ti diagram a kas tulong, saan a ladawan ti Dios.",
+      "question": "Ania ti isuro dagiti teksto ken kasano a pagbiagan daytoy?",
+      "sections": {
+        "one-god": {
+          "title": "Maysa a Dios: ti kaipapanan ti Trinidad",
+          "paragraphs": [
+            "Iti pammati a Niceno, maysa ti Dios: ti Ama, Anak, ken Espiritu Santo ket agduduma a persona ken tunggal maysa ket naan-anay a nadiosan. Saan a tallo a dios wenno tallo a paset ti Dios. Ti Trinidad ket sao ti teolohia para iti daytoy a pammati."
+          ],
+          "scope": "abridged"
+        },
+        "baptism-scene": {
+          "title": "Iti pannakabautisar ni Jesus",
+          "paragraphs": [
+            "Iti Mateo 3:16–17, umahon ni Jesus manipud iti danum, bumaba ti Espiritu a kasla kalapati, ken agsao ti timek manipud langit maipapan iti ay-ayaten nga Anak. Nailasin dagiti relasyon da. Ti kalapati ket panangidilig iti istoria; saan a kayatna a sawen nga innateng nga ibon ti Espiritu."
+          ],
+          "scope": "abridged"
+        },
+        "son-divinity": {
+          "title": "Ti Anak: pudno a Dios ken pudno a tao",
+          "paragraphs": [
+            "Ti Juan 1 ibagana a ti Sao ket adda iti Dios ken Dios, ken ti Sao nagbalin a lasag. Iti Juan 20:28, bigbigen ni Tomas ti nagungar a Jesus a kas Apona ken Diosna. Iti pammati a Niceno, saan laeng a parsua ti Anak ken saan a panagparang laeng ti kinataona."
+          ],
+          "scope": "abridged"
+        },
+        "spirit-person": {
+          "title": "Ti Espiritu Santo",
+          "paragraphs": [
+            "Iti Aramid 5:3–4, ti panagulbod iti Espiritu Santo ket mainaig iti panagulbod iti Dios. Iti Juan 14, isuro ni Jesus a mangisuro ken mangipalagip ti Espiritu. Ti Holy Spirit ken Holy Ghost ket agduma a balikas iti Ingles para iti maymaysa nga Espiritu, saan a dua a parsua."
+          ],
+          "scope": "abridged"
+        },
+        "access-to-father": {
+          "title": "Babaen iti Anak, iti Espiritu, iti Ama",
+          "paragraphs": [
+            "Ti Efeso 2:13–22 ket maipapan iti pannakikappia dagiti Judio ken Gentil ken Cristo. Iti bersikulo 18, agpadada nga umasideg iti Ama babaen ken Cristo ken iti maymaysa nga Espiritu. Daytoy ket maysa a trabaho ti pannakaisalakan ken kappia, saan nga agsisina nga opisina."
+          ],
+          "scope": "abridged"
+        },
+        "reading-the-shield": {
+          "title": "Panagbasa iti diagram",
+          "paragraphs": [
+            "Basaen: ti Ama ket Dios, ti Anak ket Dios, ken ti Espiritu Santo ket Dios. Nupay kasta, ti Ama ket saan nga Anak, ti Anak ket saan nga Espiritu, ken ti Espiritu ket saan nga Ama. Dagiti linia ket tulong iti pannakaawat, saan a ladawan ti bagi wenno paset ti Dios."
+          ],
+          "scope": "abridged"
+        },
+        "worship-and-life": {
+          "title": "Panagdayaw ken panagbiag",
+          "paragraphs": [
+            "Ti bendision iti 2 Corinto 13:14 pagnaigenna ti parabur ni Jesu-Cristo, ayat ti Dios, ken pannakikadua ti Espiritu Santo. Ti panagadal koma agturong iti panagyaman, panagkararag, ken panangawat iti pada a tao. Dagiti pagdudumaan ti doktrina ket masapul a pagpatangan dagiti lider ti iglesia."
+          ],
+          "scope": "abridged"
+        }
+      }
+    }
+  }
+}
